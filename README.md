@@ -526,6 +526,17 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 
 4.4.1. Web Applications Wireframes
 
+<img src="assets/img/wireframe-mobile-1.png">
+<img src="assets/img/wireframe-mobile-2.png">
+<img src="assets/img/wireframe-mobile-3.png">
+    
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes4.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes5.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes6.jpg)
+
 4.4.2. Web Applications Wireflow Diagrams
 
 4.4.3. Web Applications Mock-ups
