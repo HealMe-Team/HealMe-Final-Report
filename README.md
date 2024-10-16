@@ -382,6 +382,12 @@ Assumption 3: Cada vez un número mayor de pacientes, especialmente viajeros o t
 
 1.2.2.3. Lean UX Hypothesis Statements
 
+Hypothesis 1: Si creamos una aplicación web que logre centralizar la reserva de citas médicas, los pacientes podrán encontrar más fácil y rápido el agendar citas.
+
+Hypothesis 2:Si proporcionamos precios transparentes para los servicios médicos en nuestra plataforma, los pacientes se sentirán más seguros en sus elecciones de salud y serán más propensos a reservar a través de nuestra aplicación.
+
+Hypothesis 3:Si ofrecemos la opción de reservar citas basadas en la ubicación con precios transparentes, los viajeros y turistas serán más propensos a utilizar nuestra plataforma cuando busquen servicios médicos en ciudades desconocidas.
+
 1.2.2.4. Lean UX Canvas
 
 1.3. Segmentos objetivo
