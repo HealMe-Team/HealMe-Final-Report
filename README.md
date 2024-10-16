@@ -610,6 +610,54 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 ![image alt](./assets/diagrama-componentes.png)
 4.7.2. Class Dictionary
 
+1. Componentes Principales (Vue.js)
+src/App.vue: Es el componente principal de la aplicación, en el que se integran otros componentes secundarios como:
+Footer
+Header
+Toolbar
+Estos subcomponentes se importan en el archivo App.vue, lo que indica que este archivo gestiona la estructura básica de la interfaz.
+
+layouts/MainLayout.component.vue: Probablemente se encarga de definir la estructura global del diseño de la aplicación, utilizando otros componentes como el Toolbar.
+
+Doctors/Doctors.component.vue: Maneja la funcionalidad relacionada con la gestión de doctores, como enDoctors y esDoctors, sugiriendo que admite múltiples idiomas. También hay un observador (watch) para detectar cambios en las propiedades.
+
+Hospitals/Hospitals.component.vue: Similar al de doctores, pero centrado en hospitales. Maneja variables como enHospitals y esHospitals para gestionar datos hospitalarios en diferentes idiomas.
+
+Products/RecommendedProducts.component.vue: Gestiona la lógica para productos recomendados, con soporte multilingüe (enRecommendedProducts, esRecommendedProducts).
+
+2. Archivos de Internacionalización (i18n)
+El diagrama muestra un soporte claro para la internacionalización (i18n):
+
+Archivos JSON como locales/en.doctors.json, locales/es.doctors.json, locales/en.hospitals.json, y locales/es.hospitals.json contienen traducciones o datos en diferentes idiomas.
+src/i18n.js: Este archivo probablemente inicializa y configura la funcionalidad de i18n en la aplicación, permitiendo la alternancia entre idiomas (en, es).
+Los archivos de locales están vinculados a componentes específicos, asegurando que los datos se muestren en el idioma correcto según el contexto.
+
+3. Rutas (Vue Router)
+src/router.js: Define las rutas de la aplicación, conectando vistas como:
+DoctorView
+DoctorViewHistory
+Hospitals
+MainImage
+RecommendedProducts
+El archivo gestiona tanto la creación de rutas como el historial de navegación (createRouter, createWebHistory), lo que permite la navegación entre las diferentes vistas de la aplicación.
+
+4. Dependencias y Estilos
+assets/main.css: Hoja de estilos CSS que contiene las reglas visuales para el proyecto.
+primeicons/primeicons.css: Se refiere a una biblioteca de iconos, probablemente utilizada en los botones o menús de la aplicación.
+assets/profile-pic.png y assets/main-image.png: Son recursos de imágenes que probablemente se utilizan en la interfaz de usuario, en componentes como el Header o Footer.
+5. Otros Componentes y Elementos Notables
+LanguageSwitcher/LanguageSwitcher.vue: Un componente que permite cambiar entre idiomas, haciendo referencia al archivo i18n.js.
+Header/Header.component.vue: Se encarga de la cabecera de la aplicación, donde también se incluye el selector de idiomas.
+Footer/Footer.component.vue: Define el pie de página de la aplicación, que podría contener enlaces importantes o información de contacto.
+Toolbar/Toolbar.component.vue: Un menú o barra de herramientas que incluye botones (Button) y un diálogo (Dialog) para la interacción con los usuarios.
+6. Gestión de Vistas y Datos
+DoctorView/DoctorViewHistory.vue y DoctorView.vue: Estas vistas están relacionadas con la visualización de información de doctores y su historial.
+Hospitals/Hospitals.component.vue: Maneja las vistas y datos relacionados con los hospitales.
+RecommendedProducts.component.vue: Se centra en la visualización y recomendación de productos.
+Conexiones Generales:
+Los componentes están bien estructurados, organizados por funcionalidad (Doctores, Hospitales, Productos).
+Se utiliza una clara estructura de rutas y manejo de datos internacionales mediante archivos de locales JSON.
+Los componentes comparten estilos comunes mediante archivos CSS y bibliotecas de iconos (primeicons).
 4.8. Database Design
 
 4.8.1. Database Diagram
