@@ -1058,11 +1058,40 @@ El **User Journey Mapping** nos permite mapear el recorrido de los usuarios a lo
 <img src="assets/img/Juan-Perez-empathymap.png">
 <img src="assets/img/Laura-Gomez-empathymap.png">
 
-2.3.4. Empathy Mapping
-
 2.3.5. As-Is Scenario Mapping
 
+El **As-is Scenario Mapping** describe el escenario actual de cómo los usuarios intentan resolver sus problemas sin nuestra solución, destacando las ineficiencias y puntos de dolor.
+
+<img src="assets/img/as-is-medico.png">
+<img src="assets/img/as-is-turista.png">
+
 2.4. Ubiquitous Language
+
+- **Usuario**: Cualquier persona que utiliza la plataforma, ya sea paciente, turista, viajero, o profesional de la salud.
+- **Paciente**: Usuario que busca atención médica a través de la plataforma.
+- **Proveedor de servicios médicos**: Centros médicos, clínicas, hospitales o médicos individuales que ofrecen servicios a través de la plataforma.
+- **Especialidad médica**: Área específica de la medicina en la que un proveedor ofrece servicios, como cardiología, dermatología, pediatría, etc.
+  
+- **Cita médica**: Una reserva realizada por un paciente para consultar a un médico en una fecha y hora específica.
+  
+- **Disponibilidad**: Horarios en los que un proveedor de servicios médicos está disponible para atender citas.
+  
+- **Comparación de precios**: Funcionalidad que permite a los usuarios ver y comparar los costos de consultas y procedimientos médicos ofrecidos por diferentes proveedores.
+  
+- **Reseñas**: Opiniones y valoraciones dejadas por usuarios anteriores sobre un proveedor de servicios médicos.
+  
+- **Perfil médico**: Página detallada de un proveedor de servicios médicos que incluye información sobre su experiencia, especialidades, ubicación, y reseñas de pacientes.
+  
+- **Reserva instantánea**: Opción de confirmar una cita médica en tiempo real a través de la plataforma, sin necesidad de contacto adicional.
+  
+- **Telemedicina**: Servicio que permite consultas médicas a distancia mediante videollamadas a través de la plataforma.
+  
+- **Historial médico**: Registro de las citas pasadas de un usuario, incluyendo diagnósticos, tratamientos, y notas del proveedor.
+  
+- **Mapa interactivo**: Herramienta que muestra la ubicación de los proveedores de servicios médicos en un área determinada y permite filtrar por especialidad y disponibilidad.
+  
+- **Seguridad y privacidad**: Normas y prácticas que garantizan la protección de los datos personales y médicos de los usuarios.
+
 
 ## Capítulo III: Requirements Specification
 
