@@ -333,9 +333,10 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 | US-10             | EP-06       | Como Doctor, quiero poder ver las citas pendientes para poder atender a mis pacientes                                      | - El Doctordebe poder ver una lista donde se visualize las citas programadas .<br> - El usuario debe poder filtrar las citas en base a fechas.<br> |
 | US-11             | EP-07       | Como Doctor, quiero poder ver el historial de citas con mis pacientes                                      | - El Doctor debe poder ver una lista del historial de las citas terminadas.<br> - El usuario debe poder filtrar las citas terminadas.<br> - Debe poder ver datos de los pacientes.   |
 
-
-
 3.3. Impact Mapping
+
+<img src="assets/img/Juan-Perez-impactmap.png">
+<img src="assets/img/Laura-Gomez-impactmap.png">
 
 3.4. Product Backlog
 
