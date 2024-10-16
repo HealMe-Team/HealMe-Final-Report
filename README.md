@@ -408,6 +408,28 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
   
 4.2.2. Labeling Systems
 
+**Sistemas de Etiquetado** se refieren a cómo se nombran y categorizan los elementos dentro de la plataforma para asegurar claridad y coherencia.
+
+### Directrices de Etiquetado:
+
+- **Consistencia:** Utilizar términos uniformes en todas las secciones (e.g., "Cita Médica" en lugar de "Reserva" o "Cita").
+- **Claridad:** Los nombres deben ser descriptivos y fáciles de entender para los usuarios.
+- **Concisión:** Evitar etiquetas largas; mantener los nombres breves pero informativos.
+- **Relevancia:** Asegurarse de que las etiquetas reflejen fielmente el contenido o la función correspondiente.
+
+### Ejemplos de Etiquetas:
+
+- **Inicio**
+- **Buscar Médicos**
+- **Mis Citas**
+- **Perfil del Médico**
+- **Comparar Precios**
+- **Reseñas**
+- **Contacto**
+- **Soporte**
+- **Blog**
+- **Acerca de**
+
 4.2.3. SEO Tags and Meta Tags
 
 4.2.4. Searching Systems
