@@ -966,6 +966,46 @@ Objetivo: Explorar percepciones sobre la transparencia y retroalimentación de p
 
 2.2.2. Registro de entrevistas
 
+### Entrevista con Elmer Alcántara
+Entrevista 1:
+- **Edad**: 48
+- **Departamento**: 
+- **Duración**: 11:51
+- **URL**: https://drive.google.com/file/d/1mgK6X_oyVk5wCBiQ--dpR2yQBdxdIa3c/view?usp=sharing
+
+**Resumen**:
+Elmer Alcántara un abogado nos comenta que suele viajar fuera de lima, el ha experimentado varios casos donde necesitaba encontrar atencion medica y dependía de preguntar a lo hoteles o hostales si habia boticas cerca para comprar medicamentos, nos comentó que sería bueno implementar un boton donde podamos cambiar el idioma para asi facilitar a los turistas extranjeros.
+
+### Entrevista con Ignacio Peveri
+
+- **Edad**: 20 años
+- **Departamento**: Buenos Aires Argentina
+- **Duración**: 14:31
+- **URL**: https://drive.google.com/file/d/1lRRY6Hn-y8Jt5_uSEHY-FB6Vc6-PSJ-g/view?usp=sharing
+
+**Resumen**:
+En esta entrevista Ignacio Peveri, más conocido como Tuti (Nombre Artistico), nos cuenta como son sus experiencias en el extranjero y que dificultades presenta con su equipo de trabajo en algunas situaciones. El entrevistado manifiesta que le gustaría bastante la idea sobre una aplicación que le ahorre el tiempo en busqueda sobre asistencia médica confiable. 
+
+### Entrevista con Diego Alonso
+
+- **Edad**: 39 años
+- **Departamento**: Lima,Perú
+- **Duración**: 5:12
+- **URL**: https://drive.google.com/file/d/1xV81P4bnQntprdNo2z4iFV5Ffz_Y6Qdg/view?usp=sharing
+
+**Resumen**: 
+
+Diego Alonso, con 15 años de experiencia en el sector salud, trabaja en la Clínica San Rafael en Lima, que cuenta con capacidad para 50 pacientes y 80 empleados. Los principales desafíos para atraer a turistas incluyen la falta de visibilidad y barreras como el idioma y la información de precios. Ve a HealMe como una oportunidad para conectar con pacientes viajeros, mejorando la visibilidad y confianza a través de precios claros y competitivos. Sugiere funcionalidades como traducción automática y reservas en tiempo real para mejorar la plataforma y está dispuesto a unirse si se ofrecen incentivos atractivos. Considera que las reseñas pueden ser beneficiosas para construir reputación si se gestionan de manera justa.
+
+
+###    2.2.3. Análisis de entrevistas. 
+Entrevista 1: Elmer Alcántara un abogado nos comenta que suele viajar fuera de lima, el ha experimentado varios casos donde necesitaba encontrar atencion medica y dependía de preguntar a lo hoteles o hostales si habia boticas cerca para comprar medicamentos, nos comentó que sería bueno implementar un boton donde podamos cambiar el idioma para asi facilitar a los turistas extranjeros.
+
+Entrevista 2:
+
+Entrevista 3:
+Diego Alonso, médico en Lima, identifica la falta de visibilidad y la poca claridad en los precios como los principales desafíos para atraer a turistas en su centro de salud. Ve a HealMe como una plataforma con gran potencial para conectar con pacientes viajeros, mejorar la reputación y facilitar el acceso a servicios médicos locales. Destaca la importancia de la transparencia en precios y sugiere añadir funciones como traducción automática y pago en línea para optimizar la experiencia del usuario. Diego está dispuesto a unirse a HealMe, especialmente si se ofrecen incentivos claros, como tarifas promocionales y mayor visibilidad en la plataforma. Considera que las reseñas, si se gestionan de manera justa, pueden beneficiar la reputación del centro. HealMe debe enfocarse en ofrecer estas funcionalidades y beneficios para atraer a centros de salud locales.
+
 2.2.3. Análisis de entrevistas
 
 2.3. Needfinding
