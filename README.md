@@ -275,7 +275,91 @@ Nos visualizamos como la plataforma líder global en la gestión de citas médic
 
 1.2. Solution Profile
 
-1.2.1. Antecedentes y problemática
+1.2.1. Antecedentes y problemática  
+Para elaborar este punto del proyecto utilizaremos la tecnica de the 5 'W's y 2 'H's-Who, What, Where,When, Why, How & How Much
+
+<div >
+    <strong>Who (Quiénes):</strong>
+</div>
+
+Usuarios Objetivos: Turistas, viajeros de negocios y nómadas digitales que necesitan acceso a servicios médicos en destinos desconocidos.
+
+Proveedores de Servicios: Hospitales, clínicas, centros médicos y especialistas locales que ofrecen citas o examenes médicos.
+
+<div >
+    <strong>What (Qué):</strong>
+</div>
+
+Qué Ofrecemos: Una plataforma web intuitiva que permite a los usuarios buscar, comparar y reservar citas médicas en una amplia variedad de especialidades y centros de salud locales.
+
+Funcionalidades Clave:
+
+Búsqueda de proveedores médicos por ubicación y especialidad.
+
+Comparación de precios de consultas y exámenes médicos.
+
+Sistema de reservas online en tiempo real.
+
+Reseñas y valoraciones de otros usuarios para guiar las decisiones.
+
+<div >
+    <strong>Where (Dónde):</strong>
+</div>
+
+Ubicación de Uso: La plataforma está diseñada para ser utilizada en cualquier parte del mundo, principalmente en destinos turísticos o ciudades con gran afluencia de viajeros.
+
+Proveedores Locales: Hospitales, clínicas y centros médicos ubicados en las principales ciudades y destinos turísticos.
+
+<div >
+    <strong>When (Cuándo):</strong>
+</div>
+
+Cuándo Usar la Plataforma:
+
+Antes de viajar, para planificar y reservar citas médicas necesarias.
+
+Durante el viaje, para acceder a servicios médicos de emergencia o de rutina en un entorno desconocido.
+
+Disponibilidad: La plataforma está disponible 24/7, permitiendo a los usuarios hacer reservas en cualquier momento.
+
+<div >
+    <strong>Why (Por qué):</strong>
+</div>
+
+Problema que Soluciona: La dificultad de acceder a servicios médicos confiables y transparentes en términos de precios cuando se está en un destino desconocido.
+
+Beneficios:
+
+Reducción del estrés asociado con encontrar atención médica en un lugar desconocido.
+
+Transparencia en los costos, lo que permite a los usuarios tomar decisiones informadas.
+
+Conveniencia y ahorro de tiempo al poder hacer todo desde una única plataforma.
+
+<div >
+    <strong>How (Cómo):</strong>
+</div>
+
+Cómo Funciona:
+Los usuarios ingresan a la plataforma desde cualquier dispositivo con acceso a internet.
+
+Seleccionan la ubicación, especialidad médica, y comparan opciones disponibles.
+
+Reservan su cita directamente a través de la plataforma, recibiendo confirmación inmediata.
+
+Integración con Proveedores: La plataforma está integrada con los sistemas de los centros médicos locales para reflejar disponibilidad en tiempo real.
+
+<div >
+    <strong>How Much (Cuánto):</strong>
+</div>
+
+Modelo de Negocio:
+
+Para Usuarios: La plataforma puede ofrecer servicios básicos gratuitos con la opción de planes premium que incluyan características adicionales como asistencia personalizada, traducción de idiomas o seguros de cancelación de citas.
+
+Para Proveedores: Los centros médicos podrían pagar una tarifa por aparecer en la plataforma o una comisión por cada cita reservada a través de la misma.
+
+Costos para el Usuario: Transparencia total en los costos de las consultas y exámenes médicos antes de la reserva, con la posibilidad de comparar entre diferentes proveedores.
 
 1.2.2. Lean UX Process
 
