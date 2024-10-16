@@ -661,7 +661,7 @@ Los componentes comparten estilos comunes mediante archivos CSS y bibliotecas de
 4.8. Database Design
 
 4.8.1. Database Diagram
-
+![image alt](./assets/database-diagram.jpg)
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 5.1. Software Configuration Management
