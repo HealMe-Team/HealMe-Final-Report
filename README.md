@@ -390,6 +390,9 @@ Hypothesis 3:Si ofrecemos la opción de reservar citas basadas en la ubicación 
 
 1.2.2.4. Lean UX Canvas
 
+link [Figma](https://www.figma.com/design/s37bCHKy5eBk1Sln8afpiZ/Lean-UX-Canvas-2.0-(Community)?node-id=0-1&t=9bCVqEUJRZ9nI6oy-1)
+<img src="assets/img/Lean-ux-canvas.png">
+
 1.3. Segmentos objetivo
 
 ## Capítulo II: Requirements Elicitation & Analysis
