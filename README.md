@@ -1006,11 +1006,33 @@ Entrevista 2:
 Entrevista 3:
 Diego Alonso, médico en Lima, identifica la falta de visibilidad y la poca claridad en los precios como los principales desafíos para atraer a turistas en su centro de salud. Ve a HealMe como una plataforma con gran potencial para conectar con pacientes viajeros, mejorar la reputación y facilitar el acceso a servicios médicos locales. Destaca la importancia de la transparencia en precios y sugiere añadir funciones como traducción automática y pago en línea para optimizar la experiencia del usuario. Diego está dispuesto a unirse a HealMe, especialmente si se ofrecen incentivos claros, como tarifas promocionales y mayor visibilidad en la plataforma. Considera que las reseñas, si se gestionan de manera justa, pueden beneficiar la reputación del centro. HealMe debe enfocarse en ofrecer estas funcionalidades y beneficios para atraer a centros de salud locales.
 
-2.2.3. Análisis de entrevistas
-
 2.3. Needfinding
 
 2.3.1. User Personas
+
+En Lean UX, las **User Personas** son representaciones semi-ficticias de nuestros usuarios clave, creadas a partir de investigaciones y datos reales. Estas personas nos ayudan a entender mejor las expectativas, necesidades, comportamientos y objetivos de nuestros usuarios.
+
+**Persona 1:**
+- **Nombre:** Laura Gómez
+- **Edad:** 33 años
+- **Profesión:** Doctora
+- **Motivaciones:** Necesita una plataforma para promover su trabajo.
+- **Frustraciones:** No encuentra una plataforma donde pueda encontrar pacientes
+- **Objetivos:** Poder atender a pacientes que lo necesiten.
+<img src="assets/img/Laura-Gomez.png">
+
+
+
+**Persona 2:**
+- **Nombre:** Juan Pérez
+- **Edad:** 35 años
+- **Profesión:** Ejecutivo de negocios
+- **Motivaciones:** Mantener su salud durante viajes frecuentes de negocios.
+- **Frustraciones:** Tiempo limitado para buscar y reservar citas médicas cuando está en una ciudad desconocida.
+- **Objetivos:** Encontrar y reservar citas médicas de manera eficiente y en un solo lugar.
+
+![imagen_2024-08-23_190031834](https://hackmd.io/_uploads/ryKjzoUoC.png)
+
 
 2.3.2. User Task Matrix
 
