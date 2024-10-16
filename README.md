@@ -365,6 +365,12 @@ Costos para el Usuario: Transparencia total en los costos de las consultas y ex�
 
 1.2.2.1. Lean UX Problem Statements
 
+Problem 1: los pacientes enfrentan largos tiempos de espera y procedimientos complicados al programar citas
+
+Problem 2: El acceso a diferentes proveedores de atención médica obliga a los pacientes a visitar varios sitios web o realizar varias llamadas para agendar una cita.
+
+Problem 3: Los precios de los test clínicos resultan en costos inesperados para los pacientes que no pueden comparar los precios de diferentes médicos.
+
 1.2.2.2. Lean UX Assumptions
 
 1.2.2.3. Lean UX Hypothesis Statements
