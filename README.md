@@ -245,11 +245,29 @@ Capítulo V: Product Implementation, Validation & Deployment
 
 5.2.1.8. Team Collaboration Insights during Sprint
 
+
 ## Capítulo I: Introducción
+1.1. Startup Profile  
+1.1.1. Descripción de la Startup 
 
-1.1. Startup Profile
+Nuestra startup se especializa en ofrecer una solución digital diseñada para turistas y viajeros que requieren acceso inmediato a servicios médicos en una ciudad o país que no conocen por eso hemos decidido crear "HEALME". Nuestra startup permite a los usuarios buscar, comparar y reservar citas médicas en una amplia variedad de especialidades y centros de salud locales. La plataforma facilita el acceso a la atención médica en destinos desconocidos, asegurando que los viajeros puedan recibir el cuidado necesario sin complicaciones.
 
-1.1.1. Descripción de la Startup 1.1.2. Perfiles de integrantes del equipo
+<div >
+    <strong>Misión:</strong>
+</div>
+
+Nuestra misión es proporcionar a los turistas una herramienta confiable y eficiente para acceder a servicios médicos de calidad en cualquier lugar del mundo. Nos comprometemos a simplificar el proceso de búsqueda y reserva de citas médicas, ofreciendo transparencia en precios y ubicación, y garantizando que los viajeros puedan cuidar de su salud sin estrés, sin importar dónde se encuentren.
+
+
+<div >
+    <strong>Visión:</strong>
+</div>
+
+Nos visualizamos como la plataforma líder global en la gestión de citas médicas para viajeros, reconocida por su capacidad para conectar a turistas con centros de salud locales de manera rápida, segura y transparente. Aspiramos a ser la primera opción para cualquier viajero que necesite acceso inmediato a atención médica en una ciudad desconocida, promoviendo una experiencia de viaje más segura y tranquila.
+
+1.1.1. Descripción de la Startup 
+
+1.1.2. Perfiles de integrantes del equipo
 
 1.2. Solution Profile
 
