@@ -495,6 +495,13 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 
 4.3.2. Landing Page Mock-up
 
+![](https://github.com/LuisCS341/ImagenProyecto/raw/main/Frame%209%20(1)%20(1).jpg)
+<img src="assets/img/mock-up-landing-1.png">
+<img src="assets/img/mock-up-landing-2.png">
+<img src="assets/img/mock-up-landing-3.png">
+<img src="assets/img/mock-up-landing-4.png">
+<img src="assets/img/mock-up-landing-5.png">
+
 4.4. Web Applications UX/UI Design
 
 4.4.1. Web Applications Wireframes
