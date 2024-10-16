@@ -465,6 +465,11 @@ Crear una campaña de marketing dirigida a viajeros y turistas para evaluar el i
 
 1.3. Segmentos objetivo
 
+Viajeros/Turistas: Personas que se encuentran en una ciudad o país diferente y necesitan acceso rápido a servicios médicos sin conocimiento previo del área. Las características clave para este segmento incluyen la búsqueda basada en la ubicación y la transparencia en los precios para ayudarles a tomar decisiones informadas rápidamente.
+
+Centros medicos /doctores : Centros medicos y profesionales de salud los cuales busquen obtener mas pacientes para atender, pues a la hora que turistas busquen centros medicos no logren encontrar uno optimo para ellos haciendo que varios centros medicos y doctores no puedan encontrar pacientes
+
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 2.1. Competidores
