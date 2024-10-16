@@ -1050,6 +1050,14 @@ La **User Task Matrix** nos permite visualizar las tareas clave que nuestros usu
 
 2.3.3. User Journey Mapping
 
+El **User Journey Mapping** nos permite mapear el recorrido de los usuarios a lo largo de su interacción con la plataforma, identificando los puntos de contacto clave y las posibles fricciones.
+![imagen_2024-09-05_003251731](https://hackmd.io/_uploads/SknKGaL3C.png)
+<img src="assets/img/Doctor Journey Map.png">
+### 2.3.4. Empathy Mapping
+
+<img src="assets/img/Juan-Perez-empathymap.png">
+<img src="assets/img/Laura-Gomez-empathymap.png">
+
 2.3.4. Empathy Mapping
 
 2.3.5. As-Is Scenario Mapping
