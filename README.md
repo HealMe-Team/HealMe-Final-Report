@@ -344,6 +344,43 @@ Las **Guías Generales de Estilo** establecen las bases para mantener una aparie
 
 4.1.2. Web Style Guidelines
 
+Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño para la plataforma digital, asegurando una experiencia de usuario consistente y atractiva.
+
+![landing](https://hackmd.io/_uploads/S1G4bHWn0.png)
+
+
+### Elementos Específicos:
+
+- **Colores:**
+  - **Títulos Importantes:** Verde claro (#A8D5BA) para resaltar títulos y llamadas a la acción.
+  - **Fondos:** Tonos oscuros (#2C3E50, #34495E) para crear un contraste elegante y profesional.
+  - **Texto:** Blanco puro (#FFFFFF) para garantizar legibilidad sobre fondos oscuros.
+
+- **Tipografía Web:**
+  - **Fuente Principal:** Roboto, Open Sans o similar para una lectura fluida en pantallas.
+  - **Tamaños:**
+    - **Título Principal (H1):** 32px
+    - **Subtítulos (H2, H3):** 24px, 20px
+    - **Cuerpo de Texto:** 16px
+    - **Pequeños Detalles:** 14px
+
+- **Botones y Elementos Interactivos:**
+  - **Botones Primarios:** Verde claro con texto blanco, borde redondeado.
+  - **Botones Secundarios:** Tonos oscuros con texto blanco.
+  - **Estados de Botón:** Hover, activo y deshabilitado deben estar claramente diferenciados.
+
+- **Imágenes y Multimedia:**
+  - **Formato:** Preferentemente JPEG o PNG para imágenes estáticas, y MP4 para videos.
+  - **Optimización:** Comprimir imágenes para mejorar tiempos de carga sin sacrificar calidad.
+
+- **Responsividad:**
+  - **Diseño Adaptable:** Asegurar que la plataforma se visualice correctamente en dispositivos móviles, tablets y desktops.
+  - **Breakpoints:** Definir puntos de quiebre para ajustar el layout según el tamaño de la pantalla.
+
+- **Accesibilidad:**
+  - **Contraste de Colores:** Asegurar que el contraste entre el texto y el fondo cumpla con los estándares de accesibilidad.
+  - **Etiquetas Alt:** Incluir descripciones alternativas en todas las imágenes para usuarios con discapacidades visuales.
+  - **Navegación con Teclado:** Garantizar que todos los elementos interactivos sean accesibles mediante el teclado.
 4.2. Information Architecture
 
 4.2.1. Organization Systems
