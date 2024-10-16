@@ -504,6 +504,26 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 
 4.4. Web Applications UX/UI Design
 
+<img src="assets/img/mock-up-app-1.png">
+<img src="assets/img/mock-up-app-2.png">
+<img src="assets/img/mock-up-app-3.png">
+<img src="assets/img/mock-up-app-4.png">
+<img src="assets/img/mock-up-app-5.png">
+<img src="assets/img/mock-up-app-6.png">
+<img src="assets/img/mock-up-app-7.png">
+
+
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Login.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications4.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications5.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications6.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications8.jpg)
+
 4.4.1. Web Applications Wireframes
 
 4.4.2. Web Applications Wireflow Diagrams
