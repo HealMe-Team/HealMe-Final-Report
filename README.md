@@ -265,9 +265,13 @@ Nuestra misión es proporcionar a los turistas una herramienta confiable y efici
 
 Nos visualizamos como la plataforma líder global en la gestión de citas médicas para viajeros, reconocida por su capacidad para conectar a turistas con centros de salud locales de manera rápida, segura y transparente. Aspiramos a ser la primera opción para cualquier viajero que necesite acceso inmediato a atención médica en una ciudad desconocida, promoviendo una experiencia de viaje más segura y tranquila.
 
-1.1.1. Descripción de la Startup 
+1.1.2. Perfiles de integrantes del equipo  
 
-1.1.2. Perfiles de integrantes del equipo
+|Descripción del integrante|Perfil del integrante del equipo|
+| :--------| :--------: |
+|Mi nombre es **Luis Angel Cisneros Salas** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/FotoPerfil.jpg)
+|Mi nombre es **Diego Jesus Alonso Garay** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) y actualmente estoy en el quinto ciclo. Me considero una persona intuitiva y busco siempre ver el lado positivo de las cosas, pero siempre con los pies sobre la tierra. Tengo conocimiento en el uso de programas de edición como Photoshop y también sobre el uso básico de lenguajes de programación. Por lo general siempre busco dar lo necesario para realizar un buen trabajo, y en este curso estaré al pendiente de cualquier responsabilidad para realizar correctamente el presente proyecto.|![107cb832-0913-44b5-9a50-61d76d84bbf6](https://hackmd.io/_uploads/SkBPPvwnA.jpg)
+|Mi nombre es **Rodrigo Alonso Alcantara Cruz** y tengo 19 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Considero que soy una persona que busca el aprendizaje continuo y siempre intento resolver los problemas de forma rapida y eficaz. Tengo conocimiento en lenguajes de programación. Por lo general siempre intento mejorar mi metodo de estudio para poder expandir mi conocimiento.| ![WIN_20240905_10_10_38_Pro](https://hackmd.io/_uploads/B108qBvh0.jpg)
 
 1.2. Solution Profile
 
