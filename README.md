@@ -583,6 +583,8 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 
 4.4.4. Web Applications User Flow Diagrams
 
+![image alt](./assets/img/Web-Applications-User-Flow-Diagrams.png)
+
 4.5. Web Applications Prototyping
 
 4.6. Domain-Driven Software Architecture
