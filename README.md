@@ -539,6 +539,35 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 
 4.4.2. Web Applications Wireflow Diagrams
 
+link [lucidchart](https://lucid.app/lucidchart/894ea71f-a5fb-4f49-918a-7a3ba6b6542b/edit?viewport_loc=-1420%2C4811%2C5935%2C2778%2C0_0&invitationId=inv_79013474-b8a7-4bb2-913b-9eedaeeac46f)
+
+## User Goal Log in:
+El usuario inicia sesión para poder usar la aplicación
+<img src="assets/img/user-goal-login.png">
+
+## User Goal Register:
+El usuario se registra para poder usar la aplicación
+<img src="assets/img/user-goal-register.png">
+
+## User Goal Reservar cita:
+El usuario Reserva una cita eligiendo el doctor y hospital para poder asistir para que sea atendido
+<img src="assets/img/user-goal-reservar-cita.png">
+
+## User Goal ver historial de citas:
+El usuario despues de reservar su cita desea revisar el historial de citas para ver que su cita se registro correctamente
+
+<img src="assets/img/user-goal-historial-citas.png">
+
+## User Goal ver citas programadas como doctor:
+El doctor desea ver las citas programadas del paciente que lo eligió para asi poder prepararse para antenderlo
+
+<img src="assets/img/user-goal-doctor-citas.png">
+
+## User Goal ver historial de citas como doctor:
+El doctor puede visualizar el historial de citas que atendio a los pacientes
+
+<img src="assets/img/user-goal-doctor-historial.png">
+
 4.4.3. Web Applications Mock-ups
 
 4.4.4. Web Applications User Flow Diagrams
