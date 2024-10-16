@@ -387,6 +387,25 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 
 4.2.1. Organization Systems
 
+**Sistemas de Organización** determinan la manera en que se agrupan y categorizan los contenidos en la plataforma.
+
+### Estructura Principal:
+
+- **Home/Landing Page:** Introducción a HEALME, características principales, testimonios y llamadas a la acción.
+- **Buscar Servicios Médicos:** Herramienta de búsqueda avanzada por ubicación, especialidad y precio.
+- **Perfil del Proveedor:** Página individual para cada centro médico con detalles, horarios, precios y reseñas.
+- **Reservas/Citas:** Sección para gestionar reservas de citas médicas.
+- **Historial Médico:** Registro de citas pasadas y detalles de tratamientos.
+- **Sobre Nosotros:** Información sobre la startup, misión, visión y equipo.
+- **Contacto y Soporte:** Formulario de contacto, preguntas frecuentes y soporte en línea.
+- **Blog/Recursos:** Artículos y recursos relacionados con la salud y viajes.
+
+### Modelos de Organización Utilizados:
+
+- **Jerárquico:** Estructura de árbol donde la información se organiza de lo general a lo específico.
+- **Secuencial:** Flujo lógico de pasos para completar tareas, como reservar una cita.
+- **Red:** Conexiones entre diferentes secciones para facilitar el acceso rápido a información relacionada.
+  
 4.2.2. Labeling Systems
 
 4.2.3. SEO Tags and Meta Tags
