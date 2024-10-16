@@ -481,6 +481,11 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 
 4.3. Landing Page UI Design
 
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage4.jpg)
+
 4.3.1. Landing Page Wireframe
 
 4.3.2. Landing Page Mock-up
