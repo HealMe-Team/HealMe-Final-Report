@@ -341,6 +341,20 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 3.4. Product Backlog
 
 
+| **# Orden** | **User Story ID** | **Título**                            | **Descripción**                                                                                                           | **Story Points** |
+|-------------|-------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------|
+| 1           | US-01             | Buscar y agregar medicinas al carrito | Como usuario, quiero poder buscar y agregar medicinas a mi carrito de compra para poder adquirirlas fácilmente desde la aplicación. | 5                |
+| 2           | US-02             | Realizar el pago de las medicinas     | Como usuario, quiero poder realizar el pago de las medicinas en línea de manera segura para completar mi compra.           | 5                |
+| 3           | US-03             | Buscar y seleccionar un doctor        | Como usuario, quiero poder buscar y seleccionar a un doctor de acuerdo a su especialidad para programar una consulta.      | 3                |
+| 4           | US-04             | Ver el historial de citas             | Como usuario, quiero poder ver el historial de citas para tener un registro de mis consultas médicas.                      | 3                |
+| 5           | US-05             | Reservar una cita médica              | Como usuario, quiero poder reservar una cita médica en la aplicación para poder ser atendido sin tener que llamar al centro médico. | 5                |
+| 6           | US-06             | Ver reseñas de centros y doctores     | Como usuario, quiero poder ver las reseñas de los centros médicos y de los doctores para tomar decisiones informadas al reservar mi cita. | 3                |
+| 7           | US-07             | Registrarme en la aplicación          | Como usuario, quiero poder registrarme en la aplicación utilizando mi correo electrónico y una contraseña segura para acceder a las funcionalidades. | 5                |
+| 8           | US-08             | Iniciar sesión en la aplicación       | Como usuario, quiero poder iniciar sesión en la aplicación con mi cuenta registrada para acceder a mi perfil y servicios.   | 3                |
+| 9           | US-09             | Ver y elegir un centro médico         | Como usuario, quiero poder ver una lista de los centros médicos disponibles y elegir uno para mi consulta.                 | 3                |
+| 10          | US-10             | Ver citas pendientes                  | Como doctor, quiero poder ver las citas pendientes para poder atender a mis pacientes.                                     | 2                |
+| 11          | US-11             | Ver historial de citas terminadas     | Como doctor, quiero poder ver el historial de citas que he tenido con mis pacientes para llevar un registro.               | 2                |
+
 ## Capítulo IV: Product Design
 
 4.1. Style Guidelines
