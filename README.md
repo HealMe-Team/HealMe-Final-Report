@@ -1036,6 +1036,18 @@ En Lean UX, las **User Personas** son representaciones semi-ficticias de nuestro
 
 2.3.2. User Task Matrix
 
+La **User Task Matrix** nos permite visualizar las tareas clave que nuestros usuarios realizan al interactuar con nuestra plataforma y cómo estas tareas se alinean con las necesidades identificadas.
+
+| TASK                                           | Doctor/Centro de salud FREQUENCY | Doctor/Centro de salud IMPORTANCE | Turista/viajero FREQUENCY | Turista/viajero IMPORTANCE |
+|------------------------------------------------|--------------------|---------------------|---------------------|----------------------|
+| Log in en la plataforma                        | Always             | High                | Always              | High                 |
+| Crear perfil                                   | Always             | High                | Always              | High                 |
+| Solicitar/Reservar una cita                    | Never              | low                 | Always              | High                 |
+| Visualizar reseñas                             | Always             | High                | Always              | High                 |
+| Ver historial de citas                         | Never              | Low                 | Always              | High                 |
+| Pagos en línea                                 | Never              | Low                 | Always              | High                 |
+| Ver citas pendientes                           | Always             | High                | Never               | Low                  |
+
 2.3.3. User Journey Mapping
 
 2.3.4. Empathy Mapping
