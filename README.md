@@ -601,7 +601,7 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 4.6.1. Software Architecture Context Diagram
 ![image alt](./assets/img/diagram1.jpeg)
 4.6.2. Software Architecture Container Diagrams
-
+![image alt](./assets/img/diagram2.jpeg)
 4.6.3. Software Architecture Components Diagrams
 
 4.7. Software Object-Oriented Design
