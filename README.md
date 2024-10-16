@@ -301,6 +301,11 @@ Capítulo V: Product Implementation, Validation & Deployment
 
 3.1. To-Be Scenario Mapping
 
+El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios resuelven sus problemas con nuestra solución, subsanando las ineficiencias y puntos de dolor.
+
+<img src="assets/img/to-be-medico.png">
+<img src="assets/img/to-be-turista.png">
+
 3.2. User Stories
 
 3.3. Impact Mapping
