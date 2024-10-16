@@ -607,7 +607,7 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 4.7. Software Object-Oriented Design
 ![image alt](./assets/img/ood.png)
 4.7.1. Class Diagrams
-
+![image alt](./assets/diagrama-componentes.png)
 4.7.2. Class Dictionary
 
 4.8. Database Design
