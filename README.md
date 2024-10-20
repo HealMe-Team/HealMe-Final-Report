@@ -1104,15 +1104,29 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 
 3.2. User Stories
 
-| **Epic ID** | **Título**                                      | **Descripción**                                                                                   |
-|-------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| EP-01      | Comprar medicinas en la aplicación              | Implementar la funcionalidad que permita a los usuarios comprar medicinas de manera online.               |
-| EP-02      | Elegir el doctor que desea                      | Permitir a los usuarios poder elegir el doctor el cual desee ser medicado.                                |
-| EP-03      | Reserva de citas médicas                        | Habilitar la funcionalidad para que los usuarios reserven citas médicas directamente desde la plataforma. |
-| EP-04      | Registrarme en la aplicación                    | Permitir a los usuarios Poder registrarse en la aplicación.                                               |
-| EP-05      | Elegir el centro medico disponible              | El usuario puede elegir a que centro de salud desea visitar para ser atendido                             |
-| EP-06      | Poder ver las citas pendientes de los pacientes              | El Doctor puede visualizar los datos del paciente para su cita como hora, edad, etc.                             |
-| EP-07      | Poder visualizar el historial de citas terminadas              | El Doctor puede visualizar las citas que ya han sido terminadas con los datos de los pacientes                             |
+| Epic ID | Título                                                  | Descripción                                                                                              |
+|---------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| EP-01   | Comprar medicinas en la aplicación                       | Como turista quiero comprar medicamentos en la aplicación web                                             |
+| EP-02   | Elegir el doctor que desea                               | Como turista quiero poder elegir el doctor que desee para que me atienda en el centro médico/hospital/clínica. |
+| EP-03   | Reserva de citas médicas                                 | Como turista quiero reservar citas médicas para que pueda ser medicado                                    |
+| EP-04   | Registrarme en la aplicación como turista                | Como turista quiero poder registrarme en la aplicación para poder acceder a la aplicación                 |
+| EP-05   | Elegir el centro médico disponible                       | Como turista quiero elegir el centro médico disponible para mi zona                                       |
+| EP-06   | Poder ver las citas pendientes de los pacientes          | Como doctor quiero poder ver las citas pendientes que tengo con mis pacientes                             |
+| EP-07   | Poder visualizar el historial de citas terminadas        | Como doctor quiero ver el historial de citas                                                              |
+| EP-08   | Poder iniciar sesión como turista                        | Como turista quiero iniciar sesión en la plataforma para poder acceder a las funcionalidades de la aplicación |
+| EP-09   | Poder iniciar sesión como doctor                         | Como doctor quiero iniciar sesión en la plataforma para poder acceder a las funcionalidades de la aplicación |
+| EP-10   | Poder ver una descripción de la plataforma en el landing page | Como usuario quiero ver una descripción de la plataforma                                                   |
+| EP-11   | Poder ver reseñas de otros usuarios                      | Como usuario quiero ver reseñas de otros usuarios a la plataforma para así tener una idea de la calidad del servicio |
+| EP-12   | Ponerse en contacto con el equipo Heal Me                | Como usuario quiero ponerme en contacto con la plataforma Heal Me para si solicitar información detallada de la plataforma |
+| EP-13   | Poder cambiar de idioma como turista                     | Como turista quiero cambiar de idioma para estar más cómodo en la plataforma                               |
+| EP-14   | Poder cambiar de idioma como doctor                      | Como doctor quiero cambiar de idioma para estar más cómodo en la plataforma                                |
+| EP-15   | Poder ver todos los doctores de la plataforma            | Como turista quiero ver todos los doctores disponibles en la plataforma                                   |
+| EP-16   | Poder ver todas las clínicas/centros médicos/hospitales de la plataforma | Como turista quiero ver todos los centros médicos/hospitales/clínicas de la plataforma                   |
+| EP-17   | Poder regresar a la página principal de la plataforma con un botón | Como usuario quiero volver a la pestaña principal de la plataforma con un botón                          |
+| EP-18   | Poder manejar la base de datos de los productos          | Como desarrollador backend quiero poder manipular o editar la base de datos de los productos              |
+| EP-19   | Poder manejar la base de datos de los doctores           | Como desarrollador backend quiero poder manipular o editar la base de datos de los doctores               |
+| EP-20   | Poder manejar la base de datos de los centros médicos/hospitales/clínicas | Como desarrollador backend quiero poder manipular o editar la base de datos de los centros médicos/hospitales/clínicas |
+
 
 
 | **User Story ID** | **Epic ID** | **Descripción**                                                                                                                                 | **Criterios de Aceptación**                                                                                                                                                                                                                                             |
