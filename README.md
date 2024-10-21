@@ -1567,6 +1567,8 @@ Repositorio donde esta la aplicación web (https://github.com/HealMe-Team/Heal-M
 
 5.1.3. Source Code Style Guide & Conventions
 
+En nuestro proyecto basado en Vue.js es esencial establecer un estilo de codificación para tener coherencia y código limpio en el proyecto. Nos apoyaremos con la guía oficial de Vue, tomando esto en cuenta cumpliremos con tener un código limpio y coherente.
+
 5.1.4. Software Deployment Configuration
 
 5.2. Landing Page, Services & Applications Implementation
