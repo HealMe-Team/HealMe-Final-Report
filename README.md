@@ -1684,4 +1684,12 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 
 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+## Software Deployment Evidencia para la Revisión del Sprint
+Aqui hay una evidencia de que se ha hecho un deploy, se adjunta el link: https://roiander.github.io/HealMe/
+
+Se evidencia las funcionalidades del landing page y se muestra la informacion del producto.
+
+![image](https://github.com/user-attachments/assets/a5e56dfe-7421-44ea-8b35-6d32cadcefd0)
+
+
 5.2.1.8. Team Collaboration Insights during Sprint
