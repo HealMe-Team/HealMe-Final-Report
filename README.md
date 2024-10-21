@@ -1693,3 +1693,15 @@ Se evidencia las funcionalidades del landing page y se muestra la informacion de
 
 
 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de la primera versión de la plataforma, el equipo realizó el trabajo de forma colaborativa y equitativa. En la siguiente tabla se mostrará la relación que posee cada integrante y las estadísticas de sus commits.
+
+| Integrantes                           | Usuario          | Rol        |
+|---------------------------------------|------------------|------------|
+| Alonso Garay, Diego Jesus             | DiegoAlonso04    | Colaborador|
+| Cisneros Salas, Luis Angel    | LuisCS341 | Colaborador|
+| Alcántara Cruz, Rodrigo Alonso    | Roiander | Admin |
+
+![image](https://github.com/user-attachments/assets/601ca4c4-3a66-42e7-a041-378c44daf594)
+
+
