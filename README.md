@@ -1658,6 +1658,30 @@ En el landing page tenemos un about us para poder informar al usuario que servic
 
 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+## Servicios Documentación Evidencia para la Revisión del Sprint
+
+### Introducción
+Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints que pronto se implemetarán, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma. (estan en proceso)
+
+| **Endpoint**       | **Acción Implementada**          | **Verbo HTTP** | **Sintaxis de Llamada**                         | **Parámetros**                    | **Ejemplo de Response**          | **Explicación del Response**                                               |
+|--------------------|---------------------------------|----------------|-------------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------------------|
+| /clinics/search    | Buscar clínicas cercanas         | GET            | `/clinics/search?location={location}`           | location (string)                | `{ "clinics": [ ... ] }`         | Lista de clínicas cercanas con detalles básicos.                           |
+| /clinics/filter    | Filtrar clínicas por especialidad| GET            | `/clinics/filter?specialty={specialty}`         | specialty (string)               | `{ "clinics": [ ... ] }`         | Lista de clínicas que ofrecen la especialidad seleccionada.                |
+| /clinics/compare   | Comparar clínicas                | POST           | `/clinics/compare`                              | clinic_ids (array of strings)    | `{ "comparison": { ... } }`      | Comparación de clínicas seleccionadas basada en calificaciones y precios. |
+| /clinics/{id}      | Detalles de la clínica           | GET            | `/clinics/{id}`                                 | id (string)                      | `{ "clinic": { ... } }`          | Detalles completos de la clínica específica.                              |
+| /appointments      | Reservar cita médica             | POST           | `/appointments`                                 | clinic_id (string), date (string), time (string) | `{ "appointment": { ... } }` | Confirmación de la reserva de cita médica.                                |
+| /appointments/{id} | Confirmación de la reserva       | GET            | `/appointments/{id}`                            | id (string)                      | `{ "appointment": { ... } }`     | Confirmación de detalles de la cita médica.                               |
+| /clinics/{id}/map  | Ver ubicación de la clínica      | GET            | `/clinics/{id}/map`                             | id (string)                      | `{ "map_url": "url" }`           | URL del mapa con la ubicación de la clínica.                               |
+| /navigation        | Navegar hasta la clínica          | GET            | `/navigation?clinic_id={clinic_id}&current_location={current_location}` | clinic_id (string), current_location (string) | `{ "directions": [ ... ] }`  | Instrucciones de navegación desde la ubicación actual hasta la clínica.    |
+| /profile           | Crear perfil de usuario           | POST           | `/profile`                                      | user_info (object)               | `{ "profile": { ... } }`         | Confirmación de la creación del perfil del usuario.                        |
+| /profile/{id}      | Actualizar perfil de usuario      | PUT            | `/profile/{id}`                                 | id (string), user_info (object)  | `{ "profile": { ... } }`         | Confirmación de la actualización del perfil del usuario.                   |                 |
+
+### Capturas de Pantalla
+
+![image](https://github.com/user-attachments/assets/9bd760c4-d313-4bc2-9df0-9b482ba83e45)
+
+
+
 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 5.2.1.8. Team Collaboration Insights during Sprint
