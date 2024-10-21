@@ -1571,6 +1571,15 @@ En nuestro proyecto basado en Vue.js es esencial establecer un estilo de codific
 
 5.1.4. Software Deployment Configuration
 
+Evidencia del deploy
+ 
+![Screenshot_1](https://hackmd.io/_uploads/SJ0gQLX20.jpg)
+
+![Screenshot_2](https://hackmd.io/_uploads/BylEQLXhC.jpg)
+
+![Screenshot_3](https://hackmd.io/_uploads/BJ9q7U7hR.jpg)
+
+
 5.2. Landing Page, Services & Applications Implementation
 
 5.2.1. Sprint n
