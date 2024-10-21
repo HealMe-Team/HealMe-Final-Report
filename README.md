@@ -1584,7 +1584,27 @@ Evidencia del deploy
 
 5.2.1. Sprint 1
 
-5.2.1.1. Sprint Planning n
+5.2.1.1. Sprint Planning 1
+
+| Sprint#                       | Sprint 1                                |
+|-------------------------------|-----------------------------------------|
+| **Sprint Planning Background** |                                         |
+| Date                           | 2024-08-28                              |
+| Time                           | 3:22                                    |
+| Location                       | Reunión virtual realizada en Discord     |
+| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
+| Attendees (to planning meeting)| -Cuevas Vera, José Angel,Alonso Garay, Diego Jesús,Roque Tello, Jack Eddie, Cisneros Salas, Luis Angel, Alcántara Cruz Rodrigo Alonso                   |
+| **Sprint n - 1 Review Summary**| Avanzar el landing page y brindar sugerencias para el estilo de la página |
+| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de completar el landing page para nuestro proyecto |
+| **Sprint Goal & User Stories** |                                         |
+| Sprint n Goal                  | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register |
+| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
+| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+
+### Objetivo Principal del Sprint
+
+El objetivo principal del Sprint 1 es implementar las funcionalidades básicas de la plataforma HealMe, que incluyen el inicio de sesión de usuarios, la capacidad de reservar citas médicas, y la visualización del historial de citas. Además, se busca implementar las notificaciones de confirmación de reserva.
+
 
 5.2.1.2. Sprint Backlog n
 
