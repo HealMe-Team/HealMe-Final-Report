@@ -1582,7 +1582,7 @@ Evidencia del deploy
 
 5.2. Landing Page, Services & Applications Implementation
 
-5.2.1. Sprint n
+5.2.1. Sprint 1
 
 5.2.1.1. Sprint Planning n
 
