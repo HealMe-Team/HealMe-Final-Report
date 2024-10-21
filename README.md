@@ -1625,6 +1625,16 @@ El objetivo principal del Sprint 1 es implementar las funcionalidades básicas d
 
 5.2.1.3. Development Evidence for Sprint Review
 
+### Sprint 1
+
+En este Sprint, hemos logrado implementar las funcionalidades principales de la plataforma HealMe, como la reserva de citas médicas, la confirmación de reservas, y la visualización del historial de citas. Estas implementaciones corresponden a las secciones críticas de la plataforma, permitiendo a los usuarios acceder a servicios médicos en ubicaciones desconocidas. A continuación, se presentan los avances en la implementación a través de los commits realizados en los repositorios involucrados en el desarrollo de estas funcionalidades.
+
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Healme  |  main  |    index.html   |      index.html file added           |       Landing Added      | 2024-09-01              |
+
+
 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 5.2.1.5. Execution Evidence for Sprint Review
