@@ -1649,6 +1649,13 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 
 5.2.1.5. Execution Evidence for Sprint Review
 
+Aqui mostramos la evidencia del landing page
+En el landing page tenemos un about us para poder informar al usuario que servicio ofrecemos, el landing page tambien cuenta con un sistema de reseñas para que el usuario pueda ver comentarios de otros usuarios.
+
+![Screenshot_3](https://hackmd.io/_uploads/BJ9q7U7hR.jpg)
+
+
+
 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 5.2.1.7. Software Deployment Evidence for Sprint Review
