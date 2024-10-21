@@ -1554,6 +1554,8 @@ Los componentes comparten estilos comunes mediante archivos CSS y bibliotecas de
 
 5.1.1. Software Development Environment Configuration
 
+Para el desarrollo de nuestro proyecto Usaremos webstorm, lo hemos dividido en 2 partes, uno el landing page donde se usará javascript, html y css , en la aplicación web utilizaremos Vue.js como framework de javascript, también se utilizará HTML ya que principalmente se encarga de este tipo de proyectos y completamos con CSS para agregar estética.
+
 5.1.2. Source Code Management
 
 5.1.3. Source Code Style Guide & Conventions
