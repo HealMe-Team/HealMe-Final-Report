@@ -229,11 +229,11 @@ Capítulo V: Product Implementation, Validation & Deployment
 
 5.2. Landing Page, Services & Applications Implementation
 
-5.2.1. Sprint n
+5.2.1. Sprint 1
 
-5.2.1.1. Sprint Planning n
+5.2.1.1. Sprint Planning 2
 
-5.2.1.2. Sprint Backlog n
+5.2.1.2. Sprint Backlog 3
 
 5.2.1.3. Development Evidence for Sprint Review
 
@@ -247,6 +247,51 @@ Capítulo V: Product Implementation, Validation & Deployment
 
 5.2.1.8. Team Collaboration Insights during Sprint
 
+5.2.2. Sprint 2 
+
+5.2.2.1. Sprint Planning 2. 
+
+5.2.2.2. Sprint Backlog 2. 
+
+5.2.2.3. Development Evidence for Sprint Review. 
+
+5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.2.5. Execution Evidence for Sprint Review. 
+
+5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.2.8. Team Collaboration Insights during Sprint. 
+
+5.2.3. Sprint 3 
+
+5.2.3.1. Spring Planning 3. 
+
+5.2.3.2. Sprint Backlog 3. 
+
+5.2.3.3. Development Evidence for Sprint Review. 
+
+5.2.3.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.3.5. Execution Evidence for Sprint Review. 
+
+5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.3.8. Team Collaboration Insights during Sprint. 
+
+5.3. Validation Interviews. 
+
+5.3.1. Diseño de Entrevistas. 
+
+5.3.2. Registro de Entrevistas. 
+
+5.3.3. Evaluaciones según heurísticas. 
+
+5.4. Video About-the-Product. 
 
 ## Capítulo I: Introducción
 1.1. Startup Profile  
@@ -1810,6 +1855,34 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 Commits of the team :
 
 <img src="assets/img/commits-image-tp.png">
+
+5.2.3. Sprint 3 
+
+5.2.3.1. Spring Planning 3. 
+
+5.2.3.2. Sprint Backlog 3. 
+
+5.2.3.3. Development Evidence for Sprint Review. 
+
+5.2.3.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.3.5. Execution Evidence for Sprint Review. 
+
+5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.3.8. Team Collaboration Insights during Sprint. 
+
+5.3. Validation Interviews. 
+
+5.3.1. Diseño de Entrevistas. 
+
+5.3.2. Registro de Entrevistas. 
+
+5.3.3. Evaluaciones según heurísticas. 
+
+5.4. Video About-the-Product. 
 
 
 ### Conclusiones 
