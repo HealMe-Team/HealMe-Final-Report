@@ -1219,8 +1219,17 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 
 3.3. Impact Mapping
 
-<img src="assets/img/Juan-Perez-impactmap.png">
-<img src="assets/img/Laura-Gomez-impactmap.png">
+### Business goal 1
+
+<img src="assets/img/impact-mapping-buss-goal-1.png">
+
+### Business goal 2
+
+<img src="assets/img/impact-mapping-buss-goal-2.png">
+
+### Business goal 3
+
+<img src="assets/img/impact-mapping-buss-goal-3.png">
 
 3.4. Product Backlog
 
