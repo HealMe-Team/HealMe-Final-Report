@@ -1671,20 +1671,22 @@ Evidencia del deploy
 
 5.2.1.1. Sprint Planning 1
 
-| Sprint#                       | Sprint 1                                |
-|-------------------------------|-----------------------------------------|
-| **Sprint Planning Background** |                                         |
-| Date                           | 2024-08-28                              |
-| Time                           | 3:22                                    |
-| Location                       | Reunión virtual realizada en Discord     |
-| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| -Cuevas Vera, José Angel,Alonso Garay, Diego Jesús,Roque Tello, Jack Eddie, Cisneros Salas, Luis Angel, Alcántara Cruz Rodrigo Alonso                   |
-| **Sprint n - 1 Review Summary**| Avanzar el landing page y brindar sugerencias para el estilo de la página |
-| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de completar el landing page para nuestro proyecto |
-| **Sprint Goal & User Stories** |                                         |
-| Sprint n Goal                  | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register |
-| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
-| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 1      | 28/08/2024 | 3:22 pm  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+
+| Sprint 1 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Avanzar el landing page y brindar sugerencias para el estilo de la página                   |
+
+| Sprint 1 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se destacó la importancia de completar el landing page para nuestro proyecto                                            |
+
+| Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+|  El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                    | 5                 | 13                  |
+
 
 ### Objetivo Principal del Sprint
 
@@ -1793,20 +1795,22 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 
 5.2.2.1. Sprint Planning 2
 
-| Sprint#                       | Sprint 2                                |
-|-------------------------------|-----------------------------------------|
-| **Sprint Planning Background** |                                         |
-| Date                           | 2024-08-28                              |
-| Time                           | 10:12                                    |
-| Location                       | Reunión virtual realizada en Discord     |
-| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Luis Cisneros Salas, Alcántara Cruz Rodrigo Alonso                   |
-| **Sprint n - 1 Review Summary**| Avanzar la primera version de HealMe |
-| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de avanzar la app web para nuestro proyecto |
-| **Sprint Goal & User Stories** |                                         |
-| Sprint n Goal                  | El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app |
-| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
-| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 2      | 28/08/2024 | 10:12 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+
+| Sprint 2 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Avanzar la primera version de HealMe                     |
+
+| Sprint 2 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se destacó la importancia de avanzar la app web para nuestro proyecto                                            |
+
+| Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+|  El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app                    | 5                 | 13                  |
+
 
 ### 5.2.2.2. Sprint Backlog 2. 
 
@@ -1900,20 +1904,21 @@ Commits of the team :
 
 5.2.3.1. Spring Planning 3. 
 
-| Sprint#                       | Sprint 2                                |
-|-------------------------------|-----------------------------------------|
-| **Sprint Planning Background** |                                         |
-| Date                           |                               |
-| Time                           |                                     |
-| Location                       | Reunión virtual realizada en Discord     |
-| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Luis Cisneros Salas, Alcántara Cruz Rodrigo Alonso                   |
-| **Sprint n - 1 Review Summary**|  |
-| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de avanzar la app web para nuestro proyecto |
-| **Sprint Goal & User Stories** |                                         |
-| Sprint n Goal                  |  |
-| Sprint n Velocity              |  |
-| Sum of Story Points            |  |
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 3      | 20/10/2024 | 9:31 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+
+| Sprint 3 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la entrega del trabajo parcial                       |
+
+| Sprint 3 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 3.                                            |
+
+| Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                    | 5                 | 13                  |
 
 
 5.2.3.2. Sprint Backlog 3. 
