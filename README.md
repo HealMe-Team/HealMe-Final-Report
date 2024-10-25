@@ -1957,7 +1957,27 @@ En este Sprint, hemos logrado presentar el primer avance del backend de la plata
 
 5.3.2. Registro de Entrevistas. 
 
+## Entrevista a Doctor (a):
+
+Link: https://drive.google.com/file/d/1WKmSLa5Jlf0HkavBslUTaQoFbZgSIY-S/view?usp=sharing
+Edad: 46
+Nombre: Angelica Cruz
+Análisis: Angelica Cruz, usuaria de HealMe, describe la landing page como intuitiva y clara, resaltando que comunica eficazmente la misión de la plataforma. Sugiere mejorar la interfaz de contacto e incluir un video explicativo para que los usuarios comprendan mejor el funcionamiento de la aplicación.
+
+En cuanto a la aplicación web, la califica con un 10/10 en facilidad de uso, destacando que le proporciona información esencial para atender a los pacientes. Como sugerencia, propone incorporar un historial de citas médicas para mejorar el seguimiento de tratamientos.
+
+Angelica considera que HealMe cumple con su misión de apoyar a turistas y doctores, y recomienda la aplicación, valorando su utilidad en situaciones de emergencia al viajar. Integrar sus recomendaciones podría fortalecer la experiencia del usuario y aumentar la fidelización y recomendaciones de la plataforma.
+
+## Entrevista a Usuario/paciente:
+
+Link:
+Edad:
+Nombre:
+Análisis:
+
+
 5.3.3. Evaluaciones según heurísticas. 
+
 
 5.4. Video About-the-Product. 
 
