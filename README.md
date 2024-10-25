@@ -1219,25 +1219,65 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 
 3.3. Impact Mapping
 
-<img src="assets/img/Juan-Perez-impactmap.png">
-<img src="assets/img/Laura-Gomez-impactmap.png">
+### Business goal 1
+
+<img src="assets/img/impact-mapping-buss-goal-1.png">
+
+### Business goal 2
+
+<img src="assets/img/impact-mapping-buss-goal-2.png">
+
+### Business goal 3
+
+<img src="assets/img/impact-mapping-buss-goal-3.png">
 
 3.4. Product Backlog
 
 
+### **Historias de Usuario para HealMeApp**
+
 | **# Orden** | **User Story ID** | **Título**                            | **Descripción**                                                                                                           | **Story Points** |
 |-------------|-------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------|
-| 1           | US-01             | Buscar y agregar medicinas al carrito | Como usuario, quiero poder buscar y agregar medicinas a mi carrito de compra para poder adquirirlas fácilmente desde la aplicación. | 5                |
-| 2           | US-02             | Realizar el pago de las medicinas     | Como usuario, quiero poder realizar el pago de las medicinas en línea de manera segura para completar mi compra.           | 5                |
-| 3           | US-03             | Buscar y seleccionar un doctor        | Como usuario, quiero poder buscar y seleccionar a un doctor de acuerdo a su especialidad para programar una consulta.      | 3                |
-| 4           | US-04             | Ver el historial de citas             | Como usuario, quiero poder ver el historial de citas para tener un registro de mis consultas médicas.                      | 3                |
-| 5           | US-05             | Reservar una cita médica              | Como usuario, quiero poder reservar una cita médica en la aplicación para poder ser atendido sin tener que llamar al centro médico. | 5                |
-| 6           | US-06             | Ver reseñas de centros y doctores     | Como usuario, quiero poder ver las reseñas de los centros médicos y de los doctores para tomar decisiones informadas al reservar mi cita. | 3                |
-| 7           | US-07             | Registrarme en la aplicación          | Como usuario, quiero poder registrarme en la aplicación utilizando mi correo electrónico y una contraseña segura para acceder a las funcionalidades. | 5                |
-| 8           | US-08             | Iniciar sesión en la aplicación       | Como usuario, quiero poder iniciar sesión en la aplicación con mi cuenta registrada para acceder a mi perfil y servicios.   | 3                |
-| 9           | US-09             | Ver y elegir un centro médico         | Como usuario, quiero poder ver una lista de los centros médicos disponibles y elegir uno para mi consulta.                 | 3                |
-| 10          | US-10             | Ver citas pendientes                  | Como doctor, quiero poder ver las citas pendientes para poder atender a mis pacientes.                                     | 2                |
-| 11          | US-11             | Ver historial de citas terminadas     | Como doctor, quiero poder ver el historial de citas que he tenido con mis pacientes para llevar un registro.               | 2                |
+| 1           | US-01             | Buscar medicamentos                   | Como turista, quiero buscar medicamentos por nombre o categoría, para encontrar el producto que necesito.                  | 5                |
+| 2           | US-02             | Ver información de medicamentos       | Como turista, quiero ver la información de cada medicamento (precio y descripción), para tomar una decisión informada antes de comprar. | 5                |
+| 3           | US-03             | Agregar medicamentos al carrito       | Como turista, quiero agregar medicamentos a mi carrito de compras, para poder comprar varios artículos a la vez.           | 3                |
+| 4           | US-04             | Confirmación de compra                | Como turista, quiero recibir una confirmación de compra y detalles de envío, para saber cuándo recibiré mis productos.     | 3                |
+| 5           | US-05             | Buscar doctores                       | Como turista, quiero buscar doctores por especialidad y ubicación, para encontrar un profesional que me pueda atender.     | 5                |
+| 6           | US-06             | Ver perfil de doctores                | Como turista, quiero ver el perfil de cada doctor, con información como calificaciones y reseñas, para seleccionar al mejor doctor disponible. | 3                |
+| 7           | US-07             | Ver disponibilidad de citas           | Como turista, quiero ver la disponibilidad de citas de un doctor, para poder reservar una cita acorde a mi horario.        | 5                |
+| 8           | US-08             | Seleccionar fecha y hora de cita      | Como turista, quiero seleccionar una fecha y hora para mi cita, para elegir el momento que más me convenga.                | 3                |
+| 9           | US-09             | Confirmación de cita                  | Como turista, quiero recibir una confirmación de la cita reservada, para tener la certeza de que la cita está programada correctamente. | 3                |
+| 10          | US-10             | Registro de usuario                   | Como turista, quiero poder registrarme proporcionando mi correo electrónico, contraseña y datos personales básicos, para crear una cuenta en la plataforma. | 2                |
+| 11          | US-11             | Inicio de sesión                      | Como turista, quiero poder iniciar sesión después de registrarme, para acceder a la plataforma sin tener que registrarme nuevamente. | 2                |
+| 12          | US-12             | Seleccionar centros médicos           | Como turista quiero elegir centros médicos disponibles para ser atendido.                                                  | 2                |
+| 13          | US-13             | Ver centros médicos                   | Como turista quiero ver todos los centros médicos disponibles.                                                            | 6                |
+| 14          | US-14             | Ver pacientes con citas pendientes    | Como doctor, quiero ver una lista de mis pacientes con citas pendientes, para estar preparado para las consultas que vienen. | 2                |
+| 15          | US-15             | Ver detalles de cada cita             | Como doctor, quiero ver los detalles de cada cita (fecha, hora, motivo de la visita), para saber qué esperar de cada consulta. | 5                |
+| 16          | US-16             | Ver historial de citas                | Como doctor, quiero ver un historial de las citas pasadas, para hacer seguimiento de los tratamientos aplicados a mis pacientes. | 4                |
+| 17          | US-17             | Inicio de sesión para turistas        | Como turista, quiero poder iniciar sesión utilizando mi correo electrónico y contraseña, para acceder a mi cuenta y mis datos personales. | 4                |
+| 18          | US-18             | Inicio de sesión para doctores        | Como doctor, quiero poder iniciar sesión con mi correo electrónico y contraseña, para acceder a mi cuenta y gestionar mis citas. | 2                |
+| 19          | US-19             | Resumen de citas para doctores        | Como doctor, quiero ver un resumen de las citas pendientes y mis pacientes al iniciar sesión, para estar al tanto de mi agenda. | 1                |
+| 20          | US-20             | Ver descripción de la plataforma      | Como usuario, quiero ver una descripción clara y detallada de la plataforma y sus servicios, para entender cómo funciona y qué beneficios me ofrece. | 3                |
+| 21          | US-21             | Ver características principales       | Como usuario, quiero poder ver las características principales de la plataforma, como reservas de citas, compra de medicinas, etc., para entender cómo usar cada funcionalidad. | 3                |
+| 22          | US-22             | Ver reseñas de la plataforma          | Como usuario, quiero ver las reseñas de otros usuarios sobre la plataforma, para tomar una decisión informada antes de seleccionar un servicio. | 5                |
+| 23          | US-23             | Formulario de contacto                | Como usuario, quiero acceder a un formulario de contacto para enviar mis preguntas o inquietudes al equipo de soporte de Heal Me, para obtener asistencia en caso de problemas o dudas. | 2                |
+| 24          | US-24             | Información de contacto               | Como usuario, quiero ver el correo y los números de contacto del equipo de soporte en la página de contacto, para tener una opción de contacto directo si lo prefiero. | 1                |
+| 25          | US-25             | Seleccionar idioma                    | Como turista, quiero poder seleccionar el idioma de mi preferencia (español, inglés, etc.) en la aplicación, para utilizar la plataforma de manera más cómoda. | 2                |
+| 26          | US-26             | Cambiar idioma de la plataforma       | Como doctor, quiero poder cambiar el idioma de la plataforma (español, inglés, etc.), para navegar por la aplicación de forma más sencilla. | 1                |
+| 27          | US-27             | Ver lista de doctores                 | Como turista, quiero ver una lista completa de doctores disponibles en la plataforma, para poder elegir al profesional que mejor se adapte a mis necesidades. | 1                |
+| 28          | US-28             | Ver lista de centros médicos          | Como turista, quiero ver una lista de todos los centros médicos disponibles en la plataforma, para elegir el que más me convenga según su ubicación y servicios. | 2                |
+| 29          | US-29             | Filtrar centros médicos               | Como turista, quiero poder filtrar centros médicos por servicios ofrecidos y ubicación, para encontrar el centro adecuado según mis necesidades. | 2                |
+| 30          | US-30             | Volver a la página principal          | Como usuario, quiero poder volver a la página principal de la plataforma con un solo clic, para navegar fácilmente si me pierdo en el sitio. | 3                |
+| 31          | US-31             | Agregar nuevos productos              | Como desarrollador backend, quiero agregar nuevos productos a la base de datos, para mantener el catálogo actualizado. | 3                |
+| 32          | US-32             | Editar productos                      | Como desarrollador backend, quiero editar los detalles de los productos existentes, para actualizar precios o descripciones según sea necesario. | 1                |
+| 33          | US-33             | Eliminar productos                    | Como desarrollador backend, quiero eliminar productos que ya no están disponibles en la plataforma, para mantener el catálogo limpio y preciso. | 5                |
+| 34          | US-34             | Agregar nuevos doctores               | Como desarrollador backend, quiero agregar nuevos doctores a la base de datos, para mantener la lista de profesionales actualizada. | 2                |
+| 35          | US-35             | Editar doctores                       | Como desarrollador backend, quiero editar la información de los doctores existentes, para corregir errores o actualizar información relevante. | 3                |
+| 36          | US-36             | Eliminar doctores                     | Como desarrollador backend, quiero eliminar doctores que ya no están disponibles en la plataforma, para mantener la base de datos limpia y actualizada. | 3                |
+| 37          | US-37             | Agregar centros médicos               | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada. | 6                |
+| 38          | US-38             | Editar centros médicos                | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos. | 3                |
+| 39          | US-39             | Eliminar centros médicos              | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa. | 4                |
+
 
 ## Capítulo IV: Product Design
 
