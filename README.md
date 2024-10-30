@@ -2002,8 +2002,18 @@ Nombre: Angelica Cruz
 
 Análisis: Angelica Cruz, usuaria de HealMe, describe la landing page como intuitiva y clara, resaltando que comunica eficazmente la misión de la plataforma. Sugiere mejorar la interfaz de contacto e incluir un video explicativo para que los usuarios comprendan mejor el funcionamiento de la aplicación. En cuanto a la aplicación web, la califica con un 10/10 en facilidad de uso, destacando que le proporciona información esencial para atender a los pacientes. Como sugerencia, propone incorporar un historial de citas médicas para mejorar el seguimiento de tratamientos. Angelica considera que HealMe cumple con su misión de apoyar a turistas y doctores, y recomienda la aplicación, valorando su utilidad en situaciones de emergencia al viajar. Integrar sus recomendaciones podría fortalecer la experiencia del usuario y aumentar la fidelización y recomendaciones de la plataforma.
 
+### Entrevista 2
+Link: https://drive.google.com/file/d/1LjqCkwkZV88SleWFIQ-bUfl0Kp68v1lb/view?usp=sharing
+
+Edad:48
+
+Nombre Elmer Alcántara
+
+Análisis: Elmer Alcántara, médico en la clínica Good Hope, valora la plataforma HealMe como elegante, clara y fácil de usar. Le gusta la visualización de reseñas y la facilidad para consultar citas, sugiriendo añadir un tutorial en video y un historial de citas para mejorar la experiencia. Considera que HealMe cumple su misión al ayudar a turistas y médicos a encontrar centros de salud, recomendándola por su utilidad y capacidad para brindar seguridad en situaciones de emergencia en lugares desconocidos.
+
 ## Entrevista a Usuario/paciente:
 
+### Entrevista 1
 Link: https://drive.google.com/file/d/1e8j_USHRYrOsBKdnVl0BCUEO_Q8GcQvE/view?usp=sharing
 
 Edad:21
@@ -2011,6 +2021,8 @@ Edad:21
 Nombre:Luis Arce
 
 Análisis:Luis Arce , usuario de Healme,describe la landing page de HealMe como profesional y acogedora, resaltando que comunica efectivamente la prioridad de la salud del usuario. Sin embargo, sugiere mejorar el contraste del menú para facilitar la lectura y añadir una breve introducción o sección "Sobre Nosotros" para dar mayor contexto a nuevos usuarios. Sobre la aplicación web, Luis destaca su facilidad de uso y navegación intuitiva, especialmente útil para quienes buscan servicios médicos. Recomienda añadir una barra de búsqueda y filtros adicionales, así como funciones que optimicen la experiencia del usuario, como búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Luis considera que HealMe cumple con su misión de ser una plataforma útil para turistas y doctores, aunque sugiere que incluir detalles específicos para turistas podría fortalecer su valor. La incorporación de sus sugerencias podría mejorar la experiencia del usuario y aumentar la recomendación de la plataforma.
+
+### Entrevista 2
 
 Link: https://drive.google.com/file/d/1wA6F8umtCrqM0oSn0abACmKLS0gARIfV/view?usp=sharing
 
