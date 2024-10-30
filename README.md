@@ -2004,14 +2004,21 @@ Análisis: Angelica Cruz, usuaria de HealMe, describe la landing page como intui
 
 ## Entrevista a Usuario/paciente:
 
-Link:
+Link: https://drive.google.com/file/d/1e8j_USHRYrOsBKdnVl0BCUEO_Q8GcQvE/view?usp=sharing
 
-Edad:
+Edad:21
 
-Nombre:
+Nombre:Luis Arce
 
-Análisis:
+Análisis:Luis Arce , usuario de Healme,describe la landing page de HealMe como profesional y acogedora, resaltando que comunica efectivamente la prioridad de la salud del usuario. Sin embargo, sugiere mejorar el contraste del menú para facilitar la lectura y añadir una breve introducción o sección "Sobre Nosotros" para dar mayor contexto a nuevos usuarios. Sobre la aplicación web, Luis destaca su facilidad de uso y navegación intuitiva, especialmente útil para quienes buscan servicios médicos. Recomienda añadir una barra de búsqueda y filtros adicionales, así como funciones que optimicen la experiencia del usuario, como búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Luis considera que HealMe cumple con su misión de ser una plataforma útil para turistas y doctores, aunque sugiere que incluir detalles específicos para turistas podría fortalecer su valor. La incorporación de sus sugerencias podría mejorar la experiencia del usuario y aumentar la recomendación de la plataforma.
 
+Link: https://drive.google.com/file/d/1wA6F8umtCrqM0oSn0abACmKLS0gARIfV/view?usp=sharing
+
+Edad:22
+
+Nombre:Vasco Martínez
+
+Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe como profesional y acogedora, señalando que transmite eficazmente la importancia de la salud para el usuario. No obstante, sugiere mejorar el contraste del menú para facilitar la visibilidad y agregar una breve introducción o una sección "Sobre Nosotros" que ofrezca más contexto a los nuevos usuarios. En cuanto a la aplicación web, Vasco destaca su facilidad de uso y navegación intuitiva, lo cual es especialmente útil para quienes buscan servicios médicos. Propone agregar una barra de búsqueda y filtros adicionales, junto con funciones que optimicen la experiencia del usuario, como opciones de búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Vasco considera que HealMe cumple su misión como plataforma para turistas y profesionales de la salud, aunque sugiere que añadir detalles específicos para turistas podría fortalecer su propuesta de valor. Incorporar sus recomendaciones podría mejorar la experiencia del usuario y hacer la plataforma más recomendable.
 
 5.3.3. Evaluaciones según heurísticas. 
 
