@@ -2045,6 +2045,10 @@ Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe 
 - Se llego a la conclusion que la medicina peruana y la programacion pueden trabajar en equipo para poder alcanzar una cantidad mayor de usuarios siende beneficiosa para ambos sectores.
 
 
+Video About-the-Team
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EeE18Zc4xKFOnvtXWj5DXU4BjCHQOPyA2D9sDucEq4rbww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ERRnMD
+
 ### Referencias bibliograficas
 
 Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
