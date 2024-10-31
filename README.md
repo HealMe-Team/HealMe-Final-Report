@@ -1206,15 +1206,15 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 | US-28         | EP-16   | Como turista, quiero ver una lista de todos los centros médicos disponibles en la plataforma, para elegir el que más me convenga según su ubicación y servicios. | - La lista de centros médicos incluye nombre, dirección, servicios ofrecidos, y horario. <br> - El usuario puede hacer clic en cada centro para ver más información detallada.    |
 | US-29         | EP-16   | Como turista, quiero poder filtrar centros médicos por servicios ofrecidos y ubicación, para encontrar el centro adecuado según mis necesidades. | - La lista se actualiza instantáneamente al aplicar los filtros.                                                                                                                |
 | US-30         | EP-17   | Como usuario, quiero poder volver a la página principal de la plataforma con un solo clic, para navegar fácilmente si me pierdo en el sitio. | - El botón "Inicio" está siempre visible en la barra superior de navegación. <br> - Al hacer clic, el usuario es redirigido a la página de inicio.                               |
-| US-31             | EP-18       | Como desarrollador backend, quiero agregar nuevos productos a la base de datos, para mantener el catálogo actualizado.                                                                                                                               | - El desarrollador puede agregar productos con campos requeridos como nombre, categoría, precio y descripción. <br> - Los productos agregados aparecen de inmediato en la plataforma para los usuarios.         |
-| US-32             | EP-18       | Como desarrollador backend, quiero editar los detalles de los productos existentes, para actualizar precios o descripciones según sea necesario.                                                                                                     | - El desarrollador puede modificar cualquier campo de un producto existente. <br> - Los cambios se reflejan instantáneamente en la plataforma para los usuarios.                                               |
-| US-33             | EP-18       | Como desarrollador backend, quiero eliminar productos que ya no están disponibles en la plataforma, para mantener el catálogo limpio y preciso.                                                                                                     | - El desarrollador puede eliminar productos de la base de datos. <br> - Los productos eliminados ya no aparecen en la lista pública para los usuarios.                                                        |
-| US-34             | EP-19       | Como desarrollador backend, quiero agregar nuevos doctores a la base de datos, para mantener la lista de profesionales actualizada.                                                                                                                 | - El desarrollador puede agregar nuevos doctores con campos como nombre, especialidad, calificaciones, y ubicación. <br> - Los doctores añadidos son visibles de inmediato en la plataforma.                   |
-| US-35             | EP-19       | Como desarrollador backend, quiero editar la información de los doctores existentes, para corregir errores o actualizar información relevante.                                                                                                       | - El desarrollador puede modificar cualquier campo de un doctor existente (especialidad, calificaciones, etc.). <br> - Los cambios se actualizan en tiempo real en la plataforma.                              |
-| US-36             | EP-19       | Como desarrollador backend, quiero eliminar doctores que ya no están disponibles en la plataforma, para mantener la base de datos limpia y actualizada.                                                                                              | - El desarrollador puede eliminar doctores de la base de datos. <br> - Los doctores eliminados ya no aparecen en la lista pública de doctores.                                                                |
-| US-37             | EP-20       | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada.                                                                                                                | - El desarrollador puede agregar centros médicos con campos como nombre, dirección, servicios ofrecidos, y horario de atención. <br> - Los centros médicos añadidos son visibles de inmediato en la plataforma. |
-| US-38             | EP-20       | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos.                                                                                                           | - El desarrollador puede modificar la información de un centro médico existente. <br> - Los cambios se reflejan de inmediato en la plataforma para los usuarios.                                               |
-| US-39             | EP-20       | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa.                                                                                                                   | - El desarrollador puede eliminar centros médicos de la base de datos. <br> - Los centros eliminados ya no aparecen en la lista pública de la plataforma.                                                     |
+| TS-01             | EP-18       | Como desarrollador backend, quiero agregar nuevos productos a la base de datos, para mantener el catálogo actualizado.                                                                                                                               | - El desarrollador puede agregar productos con campos requeridos como nombre, categoría, precio y descripción. <br> - Los productos agregados aparecen de inmediato en la plataforma para los usuarios.         |
+| TS-02             | EP-18       | Como desarrollador backend, quiero editar los detalles de los productos existentes, para actualizar precios o descripciones según sea necesario.                                                                                                     | - El desarrollador puede modificar cualquier campo de un producto existente. <br> - Los cambios se reflejan instantáneamente en la plataforma para los usuarios.                                               |
+| TS-03             | EP-18       | Como desarrollador backend, quiero eliminar productos que ya no están disponibles en la plataforma, para mantener el catálogo limpio y preciso.                                                                                                     | - El desarrollador puede eliminar productos de la base de datos. <br> - Los productos eliminados ya no aparecen en la lista pública para los usuarios.                                                        |
+| TS-04             | EP-19       | Como desarrollador backend, quiero agregar nuevos doctores a la base de datos, para mantener la lista de profesionales actualizada.                                                                                                                 | - El desarrollador puede agregar nuevos doctores con campos como nombre, especialidad, calificaciones, y ubicación. <br> - Los doctores añadidos son visibles de inmediato en la plataforma.                   |
+| TS-05             | EP-19       | Como desarrollador backend, quiero editar la información de los doctores existentes, para corregir errores o actualizar información relevante.                                                                                                       | - El desarrollador puede modificar cualquier campo de un doctor existente (especialidad, calificaciones, etc.). <br> - Los cambios se actualizan en tiempo real en la plataforma.                              |
+| TS-06             | EP-19       | Como desarrollador backend, quiero eliminar doctores que ya no están disponibles en la plataforma, para mantener la base de datos limpia y actualizada.                                                                                              | - El desarrollador puede eliminar doctores de la base de datos. <br> - Los doctores eliminados ya no aparecen en la lista pública de doctores.                                                                |
+| TS-07             | EP-20       | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada.                                                                                                                | - El desarrollador puede agregar centros médicos con campos como nombre, dirección, servicios ofrecidos, y horario de atención. <br> - Los centros médicos añadidos son visibles de inmediato en la plataforma. |
+| TS-08             | EP-20       | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos.                                                                                                           | - El desarrollador puede modificar la información de un centro médico existente. <br> - Los cambios se reflejan de inmediato en la plataforma para los usuarios.                                               |
+| TS-09             | EP-20       | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa.                                                                                                                   | - El desarrollador puede eliminar centros médicos de la base de datos. <br> - Los centros eliminados ya no aparecen en la lista pública de la plataforma.                                                     |
 
 
 3.3. Impact Mapping
@@ -1268,15 +1268,15 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 | 28          | US-28             | Ver lista de centros médicos          | Como turista, quiero ver una lista de todos los centros médicos disponibles en la plataforma, para elegir el que más me convenga según su ubicación y servicios. | 2                |
 | 29          | US-29             | Filtrar centros médicos               | Como turista, quiero poder filtrar centros médicos por servicios ofrecidos y ubicación, para encontrar el centro adecuado según mis necesidades. | 2                |
 | 30          | US-30             | Volver a la página principal          | Como usuario, quiero poder volver a la página principal de la plataforma con un solo clic, para navegar fácilmente si me pierdo en el sitio. | 3                |
-| 31          | US-31             | Agregar nuevos productos              | Como desarrollador backend, quiero agregar nuevos productos a la base de datos, para mantener el catálogo actualizado. | 3                |
-| 32          | US-32             | Editar productos                      | Como desarrollador backend, quiero editar los detalles de los productos existentes, para actualizar precios o descripciones según sea necesario. | 1                |
-| 33          | US-33             | Eliminar productos                    | Como desarrollador backend, quiero eliminar productos que ya no están disponibles en la plataforma, para mantener el catálogo limpio y preciso. | 5                |
-| 34          | US-34             | Agregar nuevos doctores               | Como desarrollador backend, quiero agregar nuevos doctores a la base de datos, para mantener la lista de profesionales actualizada. | 2                |
-| 35          | US-35             | Editar doctores                       | Como desarrollador backend, quiero editar la información de los doctores existentes, para corregir errores o actualizar información relevante. | 3                |
-| 36          | US-36             | Eliminar doctores                     | Como desarrollador backend, quiero eliminar doctores que ya no están disponibles en la plataforma, para mantener la base de datos limpia y actualizada. | 3                |
-| 37          | US-37             | Agregar centros médicos               | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada. | 6                |
-| 38          | US-38             | Editar centros médicos                | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos. | 3                |
-| 39          | US-39             | Eliminar centros médicos              | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa. | 4                |
+| 31          | TS-01             | Agregar nuevos productos              | Como desarrollador backend, quiero agregar nuevos productos a la base de datos, para mantener el catálogo actualizado. | 3                |
+| 32          | TS-02             | Editar productos                      | Como desarrollador backend, quiero editar los detalles de los productos existentes, para actualizar precios o descripciones según sea necesario. | 1                |
+| 33          | TS-03             | Eliminar productos                    | Como desarrollador backend, quiero eliminar productos que ya no están disponibles en la plataforma, para mantener el catálogo limpio y preciso. | 5                |
+| 34          | TS-04             | Agregar nuevos doctores               | Como desarrollador backend, quiero agregar nuevos doctores a la base de datos, para mantener la lista de profesionales actualizada. | 2                |
+| 35          | TS-05             | Editar doctores                       | Como desarrollador backend, quiero editar la información de los doctores existentes, para corregir errores o actualizar información relevante. | 3                |
+| 36          | TS-06             | Eliminar doctores                     | Como desarrollador backend, quiero eliminar doctores que ya no están disponibles en la plataforma, para mantener la base de datos limpia y actualizada. | 3                |
+| 37          | TS-07             | Agregar centros médicos               | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada. | 6                |
+| 38          | TS-08             | Editar centros médicos                | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos. | 3                |
+| 39          | TS-09             | Eliminar centros médicos              | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa. | 4                |
 
 
 ## Capítulo IV: Product Design
@@ -1671,20 +1671,22 @@ Evidencia del deploy
 
 5.2.1.1. Sprint Planning 1
 
-| Sprint#                       | Sprint 1                                |
-|-------------------------------|-----------------------------------------|
-| **Sprint Planning Background** |                                         |
-| Date                           | 2024-08-28                              |
-| Time                           | 3:22                                    |
-| Location                       | Reunión virtual realizada en Discord     |
-| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| -Cuevas Vera, José Angel,Alonso Garay, Diego Jesús,Roque Tello, Jack Eddie, Cisneros Salas, Luis Angel, Alcántara Cruz Rodrigo Alonso                   |
-| **Sprint n - 1 Review Summary**| Avanzar el landing page y brindar sugerencias para el estilo de la página |
-| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de completar el landing page para nuestro proyecto |
-| **Sprint Goal & User Stories** |                                         |
-| Sprint n Goal                  | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register |
-| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
-| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 1      | 28/08/2024 | 3:22 pm  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+
+| Sprint 1 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Avanzar el landing page y brindar sugerencias para el estilo de la página                   |
+
+| Sprint 1 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se destacó la importancia de completar el landing page para nuestro proyecto                                            |
+
+| Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+|  El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                    | 5                 | 13                  |
+
 
 ### Objetivo Principal del Sprint
 
@@ -1702,7 +1704,7 @@ El objetivo principal del Sprint 1 es implementar las funcionalidades básicas d
 | US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 4                     | Diego          | In-Process            |
 | US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmacion       | Implementar el sistema de mensaje de confirmacion de la cita medica                   | 4                      | Diego          | To-Do                 |
 | US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 4                     | Luis           | To-Do                 |
-| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 2                      | Luis        | In-Process            |
+| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 4                      | Luis        | In-Process            |
 | US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | In-Process            |
 | US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis          | To-Do                 |
 
@@ -1793,20 +1795,22 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 
 5.2.2.1. Sprint Planning 2
 
-| Sprint#                       | Sprint 2                                |
-|-------------------------------|-----------------------------------------|
-| **Sprint Planning Background** |                                         |
-| Date                           | 2024-08-28                              |
-| Time                           | 10:12                                    |
-| Location                       | Reunión virtual realizada en Discord     |
-| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Luis Cisneros Salas, Alcántara Cruz Rodrigo Alonso                   |
-| **Sprint n - 1 Review Summary**| Avanzar la primera version de HealMe |
-| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de avanzar la app web para nuestro proyecto |
-| **Sprint Goal & User Stories** |                                         |
-| Sprint n Goal                  | El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app |
-| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
-| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 2      | 28/08/2024 | 10:12 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+
+| Sprint 2 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Avanzar la primera version de HealMe                     |
+
+| Sprint 2 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se destacó la importancia de avanzar la app web para nuestro proyecto                                            |
+
+| Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+|  El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app                    | 5                 | 13                  |
+
 
 ### 5.2.2.2. Sprint Backlog 2. 
 
@@ -1824,13 +1828,13 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 | **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
 |-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 12                     | Rodrigo        | Done                  |
+| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 5                     | Rodrigo        | Done                  |
 | US-02             | Realizar el pago de las medicinas          | TSK-002               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                      | Rodrigo        | Done                  |
-| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 10                     | Diego          | Done                  |
+| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 8                     | Diego          | Done                  |
 | US-04             | Ver el historial de citas                  | TSK-004               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.     | 8                      | Diego          | Done                  |
-| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 12                     | Diego          | Done                  |
+| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 4                     | Diego          | Done                  |
 | US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica                                                                  | 4                      | Diego          | Done                  |
-| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 10                     | Luis           | Done                  |
+| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 5                     | Luis           | Done                  |
 | US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 8                      | Luis           | Done                  |
 | US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | Done                  |
 | US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis           | Done                  |
@@ -1896,70 +1900,233 @@ Commits of the team :
 
 <img src="assets/img/commits-image-tp.png">
 
-5.2.3. Sprint 3 
+## 5.2.3. Sprint 3 
 
-5.2.3.1. Spring Planning 3. 
+## 5.2.3.1. Spring Planning 3. 
 
-| Sprint#                       | Sprint 2                                |
-|-------------------------------|-----------------------------------------|
-| **Sprint Planning Background** |                                         |
-| Date                           |                               |
-| Time                           |                                     |
-| Location                       | Reunión virtual realizada en Discord     |
-| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Luis Cisneros Salas, Alcántara Cruz Rodrigo Alonso                   |
-| **Sprint n - 1 Review Summary**|  |
-| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de avanzar la app web para nuestro proyecto |
-| **Sprint Goal & User Stories** |                                         |
-| Sprint n Goal                  |  |
-| Sprint n Velocity              |  |
-| Sum of Story Points            |  |
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 3      | 20/10/2024 | 9:31 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+
+| Sprint 3 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la entrega del trabajo parcial                       |
+
+| Sprint 3 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 3.                                            |
+
+| Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                    | 5                 | 13                  |
 
 
 5.2.3.2. Sprint Backlog 3. 
 
 | **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
 |-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 2                     | Rodrigo        | Done                  |
-| US-02             | Realizar el pago de las medicinas          | TSK-002               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 3                      | Rodrigo        | Done                  |
-| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 10                     | Diego          | Done                  |
-| US-04             | Ver el historial de citas                  | TSK-004               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.     | 4                      | Diego          | Done                  |
-| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 3                     | Diego          | Done                  |
-| US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica                                                                  | 4                      | Diego          | Done                  |
-| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 4                     | Luis           | Done                  |
-| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 8                      | Luis           | Done                  |
-| US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | Done                  |
-| US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis           | Done                  |
+| TS-01             | Agregar nuevos productos      | TSK-001               | Crear funcionalidad de agregar productos     | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.                     | 4                     | Diego Alonso        | Done                  |
+| TS-02             | Editar productos          | TSK-002               | Integrar edición de productos          | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.                    | 5                      | Rodrigo Alcantara        | Pending                  |
+| TS-03             | Eliminar productos             | TSK-003               | Implementar eliminación de productos | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso.        | 4                     | Diego Alonso          | Done                  |
+| TS-04             | Agregar nuevos doctores                 | TSK-004               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada.       | 4                      | Diego Alonso          | Done                  |
+| TS-05             | Editar doctores                   | TSK-005               | Crear funcionalidad de edición de doctores            | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos.   | 5                     | Diego Alonso         | Pending                  |
+| TS-06             | Eliminar doctores                   | TSK-006               | Eliminar doctores de la base de datos     | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.                     | 5                      | Rodrigo Alcantara         | Done                  |
+| TS-07             | Agregar centros médicos               | TSK-007               | Crear funcionalidad de agregar centros médicos        | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros.      | 4                     | Luis Cisneros          | Done                  |
+| TS-08             | Editar centros médicos              | TSK-008               | Editar centros médicos existentes    | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información.   | 5                      | Luis Cisneros          | Pending                  |
+| TS-09             | Eliminar centros médicos              | TSK-009               | Eliminar centros médicos del sistema    | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.         | 4                      | Rodrigo Alcantara          | Done                  |
 
+A continuacion se adjunta el link del trello y una imagen del mismo: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI845eebf98df3653b23b258ecacab5db972EB4070/sprint-healme
 
-5.2.3.3. Development Evidence for Sprint Review. 
+<img src="assets/img/trello-evidence-sprint3.png">
+
+## 5.2.3.3. Development Evidence for Sprint Review. 
 
 En este Sprint, hemos logrado presentar el primer avance del backend de la plataforma Heal-Me, hemos cumplido con algunos user stories pues es el primer avance, respetando las peticiones de los usuarios.
 
 
 | **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
 |------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
-|    |  main  |     |                |            |               |
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
+|  Heal-Me-Backend  |  master  |  24ccfe4   |    add launch settings             |  add launch settings          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  29dcc15   |     add command and query services          |  add command and query services           |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  5cd93dd   |      add feature Products Domain          |   add feature Products Domain          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  6094820   |    add Products Bounded context            |   add Products Bounded context         |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  870bc70   |     add Doctors Bounded context           |    add Doctors Bounded context        |       30/10/2024        |
+|  Heal-Me-Backend  |  master  |  754312c   |      add shared          |    add shared        |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  7243ee2   |     add Hospitals bounded context           |     add Hospitals bounded context       |     30/10/2024          |
 
-5.2.3.4. Testing Suite Evidence for Sprint Review. 
 
-5.2.3.5. Execution Evidence for Sprint Review. 
+## 5.2.3.4. Testing Suite Evidence for Sprint Review. 
 
-5.2.3.6. Services Documentation Evidence for Sprint Review. 
+Se realizó un deploy en azure del siguiente repositorio: 
 
-5.2.3.7. Software Deployment Evidence for Sprint Review. 
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
 
-5.2.3.8. Team Collaboration Insights during Sprint. 
+Link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Frontend
 
-5.3. Validation Interviews. 
+Link del repositorio del backend: https://github.com/HealMe-Team/Heal-Me-Backend
 
-5.3.1. Diseño de Entrevistas. 
+[Accede al web app desplegado](https://heal-me-app.netlify.app/) 
 
-5.3.2. Registro de Entrevistas. 
+Explicacion Bounded Context:
 
-5.3.3. Evaluaciones según heurísticas. 
+### Doctores
+Este contexto se encarga de la gestión de los doctores. Incluye las siguientes responsabilidades:  
+Repositorios: IDoctorRepository, DoctorRepository
+Servicios de Aplicación: IDoctorCommandService, DoctorCommandService, IDoctorQueryService, DoctorQueryService
 
-5.4. Video About-the-Product. 
+### Hospitales
+Este contexto se encarga de la gestión de los hospitales. Incluye las siguientes responsabilidades:  
+Repositorios: IHospitalRepository, HospitalRepository
+Servicios de Aplicación: IHospitalCommandService, HospitalCommandService, IHospitalQueryService, HospitalQueryService
+
+### Productos
+Este contexto se encarga de la gestión de los productos. Incluye las siguientes responsabilidades:  
+Repositorios: IProductRepository, ProductRepository
+Servicios de Aplicación: IProductCommandService, ProductCommandService, IProductQueryService, ProductQueryService
+
+### Shared
+Este contexto incluye componentes y servicios que son compartidos entre los diferentes bounded contexts. Incluye las siguientes responsabilidades:  
+Repositorios: IUnitOfWork, UnitOfWork
+Configuración de Persistencia: AppDbContext
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review. 
+
+En resumen se ha implementado todas las historias de usuario de la app web.
+
+App web evidence:
+
+<img src="assets/img/log-in-web-app.png">
+
+Backend evidence:
+
+<img src="assets/img/swagger-evidence.png">
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+| Endpoint | Acciones Soportadas |
+| --- | --- |
+| `/api/v1/doctors` | **POST**<br>Registro de un doctor |
+| `/api/v1/doctors` | **GET**<br>Obtiene doctores |
+| `/api/v1/doctors/{id}` | **GET**<br>Obtiene doctores por la id |
+| `/api/v1/hospitals` | **POST**<br>Registro de un hospital |
+| `/api/v1/hopitals` | **GET**<br>Obtiene los hospitales |
+| `/api/v1/hospitals/{id}` | **GET**<br>Obtiene los hospitales por la id |
+| `/api/v1/products` | **POST**<br>Registro de un producto |
+| `/api/v1/products` | **GET**<br>Obtiene los productos |
+| `/api/v1/products/{id}` | **GET**<br>Obtiene productos por la id |
+
+
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+Aqui se deja evidencia de la App service creada en azure:
+
+<img src="assets/img/azure-evidence.png">
+
+A continuacion se adjunta evidencia del deploy del backend
+
+<img src="assets/img/deploy-evidence-1.jpg">
+
+<img src="assets/img/deploy-evidence-2.jpg">
+
+
+
+## 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+Se adjunta evidencia del trabajo en equipo:
+
+<img src="assets/img/git-flow-evidence.png">
+
+<img src="assets/img/commits-evidence.png">
+
+<img src="assets/img/traffic-evidence.png">
+
+## 5.3. Validation Interviews. 
+
+## 5.3.1. Diseño de Entrevistas. 
+
+¿Cuál es su nombre?
+
+¿Dónde trabaja?
+
+Preguntas del landing page:
+
+¿Qué impresión general tienes de la Landing page de HealMe?
+
+¿La información presentada en la Landing page te parece clara y fácil de entender? ¿Por qué?
+
+¿Qué elementos cambiarías o mejorarías en la Landing page para mejorar tu experiencia de usuario? 
+
+Preguntas de la aplicación web:
+
+¿Cómo describirías tu experiencia en la aplicación web de HealMe?
+
+¿Cómo calificarías la facilidad de uso de las herramientas en la aplicación web?
+
+¿Qué funcionalidades adicionales te gustaría ver en la aplicación web de HealMe?
+
+¿Tuviste algún problema o dificultad al usar la aplicación web? 
+
+Preguntas sobre el proyecto:
+
+¿Crees que HealMe cumple con su misión de proporcionar una plataforma completa para los turistas y doctores ?
+
+¿Recomendarías HealMe a otros usuarios? ¿Por qué?
+
+
+## 5.3.2. Registro de Entrevistas. 
+
+## Entrevista a Doctor (a):
+
+### Entrevista 1
+Link: https://drive.google.com/file/d/1WKmSLa5Jlf0HkavBslUTaQoFbZgSIY-S/view?usp=sharing
+
+Edad: 46
+
+Nombre: Angelica Cruz
+
+Análisis: Angelica Cruz, usuaria de HealMe, describe la landing page como intuitiva y clara, resaltando que comunica eficazmente la misión de la plataforma. Sugiere mejorar la interfaz de contacto e incluir un video explicativo para que los usuarios comprendan mejor el funcionamiento de la aplicación. En cuanto a la aplicación web, la califica con un 10/10 en facilidad de uso, destacando que le proporciona información esencial para atender a los pacientes. Como sugerencia, propone incorporar un historial de citas médicas para mejorar el seguimiento de tratamientos. Angelica considera que HealMe cumple con su misión de apoyar a turistas y doctores, y recomienda la aplicación, valorando su utilidad en situaciones de emergencia al viajar. Integrar sus recomendaciones podría fortalecer la experiencia del usuario y aumentar la fidelización y recomendaciones de la plataforma.
+
+### Entrevista 2
+Link: https://drive.google.com/file/d/1LjqCkwkZV88SleWFIQ-bUfl0Kp68v1lb/view?usp=sharing
+
+Edad:48
+
+Nombre Elmer Alcántara
+
+Análisis: Elmer Alcántara, médico en la clínica Good Hope, valora la plataforma HealMe como elegante, clara y fácil de usar. Le gusta la visualización de reseñas y la facilidad para consultar citas, sugiriendo añadir un tutorial en video y un historial de citas para mejorar la experiencia. Considera que HealMe cumple su misión al ayudar a turistas y médicos a encontrar centros de salud, recomendándola por su utilidad y capacidad para brindar seguridad en situaciones de emergencia en lugares desconocidos.
+
+## Entrevista a Usuario/paciente:
+
+### Entrevista 1
+Link: https://drive.google.com/file/d/1e8j_USHRYrOsBKdnVl0BCUEO_Q8GcQvE/view?usp=sharing
+
+Edad:21
+
+Nombre:Luis Arce
+
+Análisis:Luis Arce , usuario de Healme,describe la landing page de HealMe como profesional y acogedora, resaltando que comunica efectivamente la prioridad de la salud del usuario. Sin embargo, sugiere mejorar el contraste del menú para facilitar la lectura y añadir una breve introducción o sección "Sobre Nosotros" para dar mayor contexto a nuevos usuarios. Sobre la aplicación web, Luis destaca su facilidad de uso y navegación intuitiva, especialmente útil para quienes buscan servicios médicos. Recomienda añadir una barra de búsqueda y filtros adicionales, así como funciones que optimicen la experiencia del usuario, como búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Luis considera que HealMe cumple con su misión de ser una plataforma útil para turistas y doctores, aunque sugiere que incluir detalles específicos para turistas podría fortalecer su valor. La incorporación de sus sugerencias podría mejorar la experiencia del usuario y aumentar la recomendación de la plataforma.
+
+### Entrevista 2
+
+Link: https://drive.google.com/file/d/1wA6F8umtCrqM0oSn0abACmKLS0gARIfV/view?usp=sharing
+
+Edad:22
+
+Nombre:Vasco Martínez
+
+Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe como profesional y acogedora, señalando que transmite eficazmente la importancia de la salud para el usuario. No obstante, sugiere mejorar el contraste del menú para facilitar la visibilidad y agregar una breve introducción o una sección "Sobre Nosotros" que ofrezca más contexto a los nuevos usuarios. En cuanto a la aplicación web, Vasco destaca su facilidad de uso y navegación intuitiva, lo cual es especialmente útil para quienes buscan servicios médicos. Propone agregar una barra de búsqueda y filtros adicionales, junto con funciones que optimicen la experiencia del usuario, como opciones de búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Vasco considera que HealMe cumple su misión como plataforma para turistas y profesionales de la salud, aunque sugiere que añadir detalles específicos para turistas podría fortalecer su propuesta de valor. Incorporar sus recomendaciones podría mejorar la experiencia del usuario y hacer la plataforma más recomendable.
+
+## 5.3.3. Evaluaciones según heurísticas. 
+
+
+## 5.4. Video About-the-Product. 
+
+Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/Eb8E4rXyn9pLgSTmhNRGgIIBH1O7-FBtXnAcyUUhGr2bcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kjTaho
 
 
 ### Conclusiones 
@@ -1967,7 +2134,12 @@ En este Sprint, hemos logrado presentar el primer avance del backend de la plata
 - El trabajo en equipo es fundamental para la culminacion del trabajo , fomentando un buen ambiente para todos los integrantes.
 - La implementacion de tecnologías usando la navegacion a internet para poder completar el trabajo es fundamental ya que debemos acostumbrarnos a mantener un aprendizaje continuo para poder alcanzar mejores metas como profesionales.
 - Se llego a la conclusion que la medicina peruana y la programacion pueden trabajar en equipo para poder alcanzar una cantidad mayor de usuarios siende beneficiosa para ambos sectores.
+- La implementacion del backend es fundamental para el desarrollo de aplicaciones web, ya que conecta una base de datos ya existente o recien creada con el frontend de la aplicacion, haciendo que la experiencia del usuario sea buena.
+- La documentacion de lenguajes y foros son fundamentales ya que poseen información la cual puede servir para la investigacion de una solucion ante un problema de programación
 
+Video About-the-Team
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EeE18Zc4xKFOnvtXWj5DXU4BjCHQOPyA2D9sDucEq4rbww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ERRnMD
 
 ### Referencias bibliograficas
 
@@ -1976,5 +2148,10 @@ Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
 PrimeVue | Vue UI Component Library. (s. f.). https://primevue.org/introduction/
 
 Stack Overflow - where developers learn, share, & build careers. (s. f.). Stack Overflow. https://stackoverflow.com/
+
+BillWagner. (s. f.). C# docs - get started, tutorials, reference. Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+
+SyntaxC. (s. f.). Azure App Service documentation - Azure App Service. Microsoft Learn. https://learn.microsoft.com/en-us/azure/app-service/
+
 
 
