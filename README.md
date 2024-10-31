@@ -2126,6 +2126,8 @@ Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe 
 
 ## 5.4. Video About-the-Product. 
 
+Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/Eb8E4rXyn9pLgSTmhNRGgIIBH1O7-FBtXnAcyUUhGr2bcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kjTaho
+
 
 ### Conclusiones 
 - Hemos llegado a la conslusion de que la elaboracion del proyecto de la aplicacion HealMe es fundamental para casi todo el mundo, pues estamos brindando informacion medica de calidad a extranjeros y locales para que no tengan dificultades al solicitar atencion medica por un viaje, etc.
