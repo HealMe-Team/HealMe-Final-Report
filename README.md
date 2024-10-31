@@ -1900,9 +1900,9 @@ Commits of the team :
 
 <img src="assets/img/commits-image-tp.png">
 
-5.2.3. Sprint 3 
+## 5.2.3. Sprint 3 
 
-5.2.3.1. Spring Planning 3. 
+## 5.2.3.1. Spring Planning 3. 
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
@@ -1936,7 +1936,7 @@ Commits of the team :
 | TS-09             | Eliminar centros médicos              | TSK-009               | Eliminar centros médicos del sistema    | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.         | 3                      | Rodrigo Alcantara          | Done                  |
 
 
-5.2.3.3. Development Evidence for Sprint Review. 
+## 5.2.3.3. Development Evidence for Sprint Review. 
 
 En este Sprint, hemos logrado presentar el primer avance del backend de la plataforma Heal-Me, hemos cumplido con algunos user stories pues es el primer avance, respetando las peticiones de los usuarios.
 
@@ -1953,7 +1953,7 @@ En este Sprint, hemos logrado presentar el primer avance del backend de la plata
 |  Heal-Me-Backend  |  master  |  7243ee2   |     add Hospitals bounded context           |     add Hospitals bounded context       |     30/10/2024          |
 
 
-5.2.3.4. Testing Suite Evidence for Sprint Review. 
+## 5.2.3.4. Testing Suite Evidence for Sprint Review. 
 
 Se realizó un deploy en azure del siguiente repositorio: 
 
@@ -1964,17 +1964,56 @@ Se realizó un deploy en azure del siguiente repositorio:
 Link del repositorio: https://github.com/HealMe-Team/Heal-Me-Backend
 [Accede al web app desplegado](https://heal-me-app.netlify.app/) 
 
-5.2.3.5. Execution Evidence for Sprint Review. 
+## 5.2.3.5. Execution Evidence for Sprint Review. 
 
-5.2.3.6. Services Documentation Evidence for Sprint Review. 
+En resumen se ha implementado todas las historias de usuario de la app web.
 
-5.2.3.7. Software Deployment Evidence for Sprint Review. 
+App web evidence:
 
-5.2.3.8. Team Collaboration Insights during Sprint. 
+<img src="assets/img/log-in-web-app.png">
 
-5.3. Validation Interviews. 
+Backend evidence:
 
-5.3.1. Diseño de Entrevistas. 
+<img src="assets/img/swagger-evidence.png">
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+| Endpoint | Acciones Soportadas |
+| --- | --- |
+| `/api/v1/doctors` | **POST**<br>Registro de un doctor |
+| `/api/v1/doctors` | **GET**<br>Obtiene doctores |
+| `/api/v1/doctors/{id}` | **GET**<br>Obtiene doctores por la id |
+| `/api/v1/hospitals` | **POST**<br>Registro de un hospital |
+| `/api/v1/hopitals` | **GET**<br>Obtiene los hospitales |
+| `/api/v1/hospitals/{id}` | **GET**<br>Obtiene los hospitales por la id |
+| `/api/v1/products` | **POST**<br>Registro de un producto |
+| `/api/v1/products` | **GET**<br>Obtiene los productos |
+| `/api/v1/products/{id}` | **GET**<br>Obtiene productos por la id |
+
+
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+A continuacion se adjunta evidencia del deploy del backend
+
+<img src="assets/img/deploy-evidence-1.jpg">
+
+<img src="assets/img/deploy-evidence-2.jpg">
+
+
+## 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+Se adjunta evidencia del trabajo en equipo:
+
+<img src="assets/img/git-flow-evidence.png">
+
+<img src="assets/img/commits-evidence.png">
+
+<img src="assets/img/traffic-evidence.png">
+
+## 5.3. Validation Interviews. 
+
+## 5.3.1. Diseño de Entrevistas. 
 
 ¿Cuál es su nombre?
 
@@ -2005,7 +2044,7 @@ Preguntas sobre el proyecto:
 ¿Recomendarías HealMe a otros usuarios? ¿Por qué?
 
 
-5.3.2. Registro de Entrevistas. 
+## 5.3.2. Registro de Entrevistas. 
 
 ## Entrevista a Doctor (a):
 
@@ -2048,10 +2087,10 @@ Nombre:Vasco Martínez
 
 Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe como profesional y acogedora, señalando que transmite eficazmente la importancia de la salud para el usuario. No obstante, sugiere mejorar el contraste del menú para facilitar la visibilidad y agregar una breve introducción o una sección "Sobre Nosotros" que ofrezca más contexto a los nuevos usuarios. En cuanto a la aplicación web, Vasco destaca su facilidad de uso y navegación intuitiva, lo cual es especialmente útil para quienes buscan servicios médicos. Propone agregar una barra de búsqueda y filtros adicionales, junto con funciones que optimicen la experiencia del usuario, como opciones de búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Vasco considera que HealMe cumple su misión como plataforma para turistas y profesionales de la salud, aunque sugiere que añadir detalles específicos para turistas podría fortalecer su propuesta de valor. Incorporar sus recomendaciones podría mejorar la experiencia del usuario y hacer la plataforma más recomendable.
 
-5.3.3. Evaluaciones según heurísticas. 
+## 5.3.3. Evaluaciones según heurísticas. 
 
 
-5.4. Video About-the-Product. 
+## 5.4. Video About-the-Product. 
 
 
 ### Conclusiones 
@@ -2059,7 +2098,8 @@ Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe 
 - El trabajo en equipo es fundamental para la culminacion del trabajo , fomentando un buen ambiente para todos los integrantes.
 - La implementacion de tecnologías usando la navegacion a internet para poder completar el trabajo es fundamental ya que debemos acostumbrarnos a mantener un aprendizaje continuo para poder alcanzar mejores metas como profesionales.
 - Se llego a la conclusion que la medicina peruana y la programacion pueden trabajar en equipo para poder alcanzar una cantidad mayor de usuarios siende beneficiosa para ambos sectores.
-
+- La implementacion del backend es fundamental para el desarrollo de aplicaciones web, ya que conecta una base de datos ya existente o recien creada con el frontend de la aplicacion, haciendo que la experiencia del usuario sea buena.
+- La documentacion de lenguajes y foros son fundamentales ya que poseen información la cual puede servir para la investigacion de una solucion ante un problema de programación
 
 Video About-the-Team
 
@@ -2072,5 +2112,10 @@ Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
 PrimeVue | Vue UI Component Library. (s. f.). https://primevue.org/introduction/
 
 Stack Overflow - where developers learn, share, & build careers. (s. f.). Stack Overflow. https://stackoverflow.com/
+
+BillWagner. (s. f.). C# docs - get started, tutorials, reference. Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+
+SyntaxC. (s. f.). Azure App Service documentation - Azure App Service. Microsoft Learn. https://learn.microsoft.com/en-us/azure/app-service/
+
 
 
