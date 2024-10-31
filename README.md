@@ -1943,9 +1943,26 @@ En este Sprint, hemos logrado presentar el primer avance del backend de la plata
 
 | **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
 |------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
-|    |  main  |     |                |            |               |
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
+|  Heal-Me-Backend  |  master  |  24ccfe4   |    add launch settings             |  add launch settings          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  29dcc15   |     add command and query services          |  add command and query services           |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  5cd93dd   |      add feature Products Domain          |   add feature Products Domain          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  6094820   |    add Products Bounded context            |   add Products Bounded context         |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  870bc70   |     add Doctors Bounded context           |    add Doctors Bounded context        |       30/10/2024        |
+|  Heal-Me-Backend  |  master  |  754312c   |      add shared          |    add shared        |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  7243ee2   |     add Hospitals bounded context           |     add Hospitals bounded context       |     30/10/2024          |
+
 
 5.2.3.4. Testing Suite Evidence for Sprint Review. 
+
+Se realizó un deploy en azure del siguiente repositorio: 
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
+
+Link del repositorio: https://github.com/HealMe-Team/Heal-Me-Backend
+[Accede al web app desplegado](https://heal-me-app.netlify.app/) 
 
 5.2.3.5. Execution Evidence for Sprint Review. 
 
