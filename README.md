@@ -1935,6 +1935,9 @@ Commits of the team :
 | TS-08             | Editar centros médicos              | TSK-008               | Editar centros médicos existentes    | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información.   | 1                      | Luis Cisneros          | Pending                  |
 | TS-09             | Eliminar centros médicos              | TSK-009               | Eliminar centros médicos del sistema    | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.         | 3                      | Rodrigo Alcantara          | Done                  |
 
+A continuacion se adjunta el link del trello y una imagen del mismo: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI845eebf98df3653b23b258ecacab5db972EB4070/sprint-healme
+
+<img src="assets/img/trello-evidence-sprint3.png">
 
 ## 5.2.3.3. Development Evidence for Sprint Review. 
 
@@ -1961,8 +1964,34 @@ Se realizó un deploy en azure del siguiente repositorio:
 |------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
 |  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
 
-Link del repositorio: https://github.com/HealMe-Team/Heal-Me-Backend
+Link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Frontend
+
+Link del repositorio del backend: https://github.com/HealMe-Team/Heal-Me-Backend
+
 [Accede al web app desplegado](https://heal-me-app.netlify.app/) 
+
+Explicacion Bounded Context:
+
+### Doctores
+Este contexto se encarga de la gestión de los doctores. Incluye las siguientes responsabilidades:  
+Repositorios: IDoctorRepository, DoctorRepository
+Servicios de Aplicación: IDoctorCommandService, DoctorCommandService, IDoctorQueryService, DoctorQueryService
+
+### Hospitales
+Este contexto se encarga de la gestión de los hospitales. Incluye las siguientes responsabilidades:  
+Repositorios: IHospitalRepository, HospitalRepository
+Servicios de Aplicación: IHospitalCommandService, HospitalCommandService, IHospitalQueryService, HospitalQueryService
+
+### Productos
+Este contexto se encarga de la gestión de los productos. Incluye las siguientes responsabilidades:  
+Repositorios: IProductRepository, ProductRepository
+Servicios de Aplicación: IProductCommandService, ProductCommandService, IProductQueryService, ProductQueryService
+
+### Shared
+Este contexto incluye componentes y servicios que son compartidos entre los diferentes bounded contexts. Incluye las siguientes responsabilidades:  
+Repositorios: IUnitOfWork, UnitOfWork
+Configuración de Persistencia: AppDbContext
+
 
 ## 5.2.3.5. Execution Evidence for Sprint Review. 
 
@@ -1994,11 +2023,16 @@ Backend evidence:
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
+Aqui se deja evidencia de la App service creada en azure:
+
+<img src="assets/img/azure-evidence.png">
+
 A continuacion se adjunta evidencia del deploy del backend
 
 <img src="assets/img/deploy-evidence-1.jpg">
 
 <img src="assets/img/deploy-evidence-2.jpg">
+
 
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint. 
