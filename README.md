@@ -291,6 +291,24 @@ Capítulo V: Product Implementation, Validation & Deployment
 
 5.3.3. Evaluaciones según heurísticas. 
 
+5.2.4. Sprint 4
+
+5.2.4.1. Spring Planning 4. 
+
+5.2.4.2. Sprint Backlog 4. 
+
+5.2.4.3. Development Evidence for Sprint Review. 
+
+5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.4.5. Execution Evidence for Sprint Review. 
+
+5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.4.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.4.8. Team Collaboration Insights during Sprint. 
+
 5.4. Video About-the-Product. 
 
 ## Capítulo I: Introducción
@@ -2081,6 +2099,65 @@ Se adjunta evidencia del trabajo en equipo:
 <img src="assets/img/commits-evidence.png">
 
 <img src="assets/img/traffic-evidence.png">
+
+## 5.2.4. Sprint 4
+
+## 5.2.4.1. Spring Planning 4. 
+
+| Sprint 4                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               |  11/12/2024                                   |
+| Time                               |  19:27 am                                   |
+| Location                           |  Reunión Virtual en Discord                                   |
+| Prepared By                        |  Rodrigo Alcántara                                   |
+| Attendees (to planning meeting)    |  Diego Alonso, Luis Cisneros                                   |
+| Sprint n - 4 Review Summary        |                                     |
+| Sprint n - 4 Retrospective Summary |                                     |
+| **Sprint Goal & User Stories**     |                                     |
+| Spring 4 Goal                      |                                     |
+| Sprint 4 Velocity                  |                                     |
+| Sum of Story Points                |                                     |
+
+
+## 5.2.4.2. Sprint Backlog 4.
+
+| **User Story ID** | **Título**                        | **Work-Item/Task ID** | **Título**                                 | **Descripción**                                                                                                                  | **Estimación (Horas)** | **Asignado a**        | **Estado** |
+|-------------------|-----------------------------------|-----------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|------------|
+| TS-01             | Agregar nuevos productos          | TSK-001               | Crear funcionalidad de agregar productos   | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.              | 4                      | Diego Alonso          | Done       |
+| TS-01             | Agregar nuevos productos          | TSK-002               | Crear interfaz de usuario para productos   | Diseñar la interfaz para que los usuarios puedan agregar productos de forma intuitiva y fácil.                                  | 3                      | Diego Alonso          | Done    |
+| TS-01             | Agregar nuevos productos          | TSK-003               | Pruebas de funcionalidad de productos      | Realizar pruebas para asegurar que la funcionalidad de agregar productos funcione correctamente.                                | 2                      | Diego Alonso          | Done    |
+| TS-02             | Editar productos                  | TSK-004               | Integrar edición de productos              | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.             | 5                      | Rodrigo Alcantara     | Done   |
+| TS-02             | Editar productos                  | TSK-005               | Pruebas de edición de productos            | Realizar pruebas para confirmar que los cambios en la edición de productos se actualizan en la base de datos.                    | 3                      | Rodrigo Alcantara     | Done    |
+| TS-03             | Eliminar productos                | TSK-006               | Implementar eliminación de productos       | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso. | 4                      | Diego Alonso          | Done       |
+| TS-03             | Eliminar productos                | TSK-007               | Pruebas de eliminación de productos        | Asegurarse de que los productos eliminados no sean visibles para los usuarios y se reflejen en la base de datos.                 | 2                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-008               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada. | 4                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-009               | Crear interfaz de usuario para doctores    | Diseñar la interfaz para la administración de doctores, permitiendo agregar y visualizar información de doctores fácilmente.    | 3                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-010               | Pruebas de funcionalidad para doctores     | Realizar pruebas para asegurar que la adición de doctores funcione como se espera.                                               | 2                      | Diego Alonso          | Done       |
+| TS-05             | Editar doctores                   | TSK-011               | Crear funcionalidad de edición de doctores | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos. | 5                      | Diego Alonso          | Done    |
+| TS-05             | Editar doctores                   | TSK-012               | Pruebas de edición de doctores             | Realizar pruebas para confirmar que los cambios en la edición de doctores se actualizan en la base de datos.                      | 3                      | Diego Alonso          | Done    |
+| TS-06             | Eliminar doctores                 | TSK-013               | Eliminar doctores de la base de datos      | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.             | 5                      | Rodrigo Alcantara     | Done       |
+| TS-06             | Eliminar doctores                 | TSK-014               | Pruebas de eliminación de doctores         | Asegurarse de que los doctores eliminados no sean visibles y se reflejen correctamente en la base de datos.                     | 2                      | Rodrigo Alcantara     | Done       |
+| TS-07             | Agregar centros médicos           | TSK-015               | Crear funcionalidad de agregar centros médicos | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros. | 4                      | Luis Cisneros         | Done       |
+| TS-07             | Agregar centros médicos           | TSK-016               | Crear interfaz para centros médicos        | Diseñar una interfaz de usuario que permita la gestión de centros médicos fácilmente.                                            | 3                      | Luis Cisneros         | Done    |
+| TS-07             | Agregar centros médicos           | TSK-017               | Pruebas de funcionalidad para centros médicos | Asegurarse de que los centros médicos añadidos se visualicen correctamente en la plataforma.                                    | 2                      | Luis Cisneros         | Done    |
+| TS-08             | Editar centros médicos            | TSK-018               | Editar centros médicos existentes          | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información. | 5                      | Luis Cisneros         | Done    |
+| TS-08             | Editar centros médicos            | TSK-019               | Pruebas de edición de centros médicos      | Confirmar que los cambios en los centros médicos se actualizan correctamente en la base de datos.                               | 3                      | Luis Cisneros         | Done    |
+| TS-09             | Eliminar centros médicos          | TSK-020               | Eliminar centros médicos del sistema       | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.  | 4                      | Rodrigo Alcantara     | Done       |
+| TS-09             | Eliminar centros médicos          | TSK-021               | Pruebas de eliminación de centros médicos  | Confirmar que los centros médicos eliminados ya no son visibles y se reflejan en la base de datos.                              | 2                      | Rodrigo Alcantara     | Done       |
+
+
+## 5.2.4.3. Development Evidence for Sprint Review. 
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+## 5.2.4.5. Execution Evidence for Sprint Review. 
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+
+## 5.2.4.8. Team Collaboration Insights during Sprint. 
 
 ## 5.3. Validation Interviews. 
 
