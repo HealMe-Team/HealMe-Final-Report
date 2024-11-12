@@ -1671,21 +1671,20 @@ Evidencia del deploy
 
 5.2.1.1. Sprint Planning 1
 
-| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
-|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 1      | 28/08/2024 | 3:22 pm  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
-
-| Sprint 1 - Review Summary                                                                 |
-|-------------------------------------------------------------------------------------------|
-| Avanzar el landing page y brindar sugerencias para el estilo de la página                   |
-
-| Sprint 1 - Retrospective Summary                                                          |
-|-------------------------------------------------------------------------------------------|
-| Se destacó la importancia de completar el landing page para nuestro proyecto                                            |
-
-| Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
-|------------------------------------------------------------------------------------------|-------------------|---------------------|
-|  El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                    | 5                 | 13                  |
+| Sprint 1                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               | 28/08/2024                                     |
+| Time                               | 3:22 pm                                     |
+| Location                           | Reunión Virtual en Discord                                    |
+| Prepared By                        | Rodrigo Alcántara                                     |
+| Attendees (to planning meeting)    | Diego Alonso, Luis Cisneros                                      |
+| Sprint n - 1 Review Summary        | Avanzar el landing page y brindar sugerencias para el estilo de la página                                     |
+| Sprint n - 1 Retrospective Summary | Se destacó la importancia de completar el landing page para nuestro proyecto                                      |
+| **Sprint Goal & User Stories**     |                                     |
+| Spring 1 Goal                      | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                                    |
+| Sprint 1 Velocity                  |  Estimamos para este Sprint tener 5 Story Points                                    |
+| Sum of Story Points                |  Cumplimos con la cantidad de 13 Story Points                                   |
 
 
 ### Objetivo Principal del Sprint
@@ -1697,17 +1696,29 @@ El objetivo principal del Sprint 1 es implementar las funcionalidades básicas d
 
 | **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
 |-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 6                     | Rodrigo            | In-Process            |
-| US-02             | Realizar el pago de las medicinas          | TSK-002               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                      | Rodrigo         | To-Do                 |
-| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 10                     | Diego          | In-Process            |
-| US-04             | Ver el historial de citas                  | TSK-004               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.     | 8                      | Diego           | To-Do                 |
-| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 4                     | Diego          | In-Process            |
-| US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmacion       | Implementar el sistema de mensaje de confirmacion de la cita medica                   | 4                      | Diego          | To-Do                 |
-| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 4                     | Luis           | To-Do                 |
-| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 4                      | Luis        | In-Process            |
-| US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | In-Process            |
-| US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis          | To-Do                 |
-
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 6                     | Rodrigo        | In-Process            |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-002               | Crear interfaz de búsqueda          | Diseñar la interfaz de usuario para la búsqueda de medicinas, incluyendo filtros y opciones de búsqueda avanzada.                   | 4                     | Rodrigo        | To-Do                 |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-003               | Pruebas de funcionalidad de carrito | Realizar pruebas para asegurar que las medicinas se añaden correctamente al carrito.                                                | 4                     | Rodrigo        | To-Do                 |
+| US-02             | Realizar el pago de las medicinas         | TSK-004               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                     | Rodrigo        | To-Do                 |
+| US-02             | Realizar el pago de las medicinas         | TSK-005               | Crear interfaz de pago              | Diseñar la pantalla de pago que permita seleccionar el método y confirmar la compra de las medicinas.                                | 4                     | Rodrigo        | To-Do                 |
+| US-02             | Realizar el pago de las medicinas         | TSK-006               | Pruebas de integración de pagos     | Realizar pruebas para asegurar la correcta integración y funcionamiento del sistema de pagos.                                       | 3                     | Rodrigo        | To-Do                 |
+| US-03             | Buscar y seleccionar un doctor            | TSK-007               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 4                    | Diego          | In-Process            |
+| US-03             | Buscar y seleccionar un doctor            | TSK-008               | Filtrar y ordenar doctores          | Implementar filtros por especialidad y ordenar la lista de doctores para facilitar la selección.                                    | 4                     | Diego          | To-Do                 |
+| US-03             | Buscar y seleccionar un doctor            | TSK-009               | Pruebas de selección de doctor      | Realizar pruebas para asegurar que el usuario puede seleccionar un doctor correctamente y que se guarda su elección.                | 2                     | Diego          | To-Do                 |
+| US-04             | Ver el historial de citas                 | TSK-010               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.    | 8                     | Diego          | To-Do                 |
+| US-04             | Ver el historial de citas                 | TSK-011               | Filtrar y ordenar historial         | Permitir a los usuarios ordenar y filtrar el historial de citas por fecha y tipo de consulta.                                       | 3                     | Diego          | To-Do                 |
+| US-05             | Reservar una cita médica                  | TSK-012               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                   | 4                     | Diego          | In-Process            |
+| US-05             | Reservar una cita médica                  | TSK-013               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica.                                                                 | 4                     | Diego          | To-Do                 |
+| US-05             | Reservar una cita médica                  | TSK-014               | Recordatorio de citas               | Crear una función para enviar recordatorios a los usuarios sobre sus citas próximas.                                                | 2                     | Diego          | To-Do                 |
+| US-07             | Registrarme en la aplicación              | TSK-015               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.    | 4                     | Luis           | To-Do                 |
+| US-07             | Registrarme en la aplicación              | TSK-016               | Validación de datos de registro     | Implementar validaciones para los campos del formulario de registro, como formato de correo y fuerza de contraseña.                 | 3                     | Luis           | To-Do                 |
+| US-09             | Ver y elegir un centro médico             | TSK-017               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles. | 4                     | Luis           | In-Process            |
+| US-09             | Ver y elegir un centro médico             | TSK-018               | Filtrar centros médicos             | Agregar funcionalidad de filtro para que los usuarios puedan buscar centros médicos según la ubicación y especialidad.             | 4                     | Luis           | To-Do                 |
+| US-09             | Ver y elegir un centro médico             | TSK-019               | Pruebas de selección de centro      | Realizar pruebas para confirmar que los usuarios pueden seleccionar un centro médico correctamente.                                 | 6                     | Luis           | To-Do                 |
+| US-10             | Ver citas pendientes del doctor           | TSK-020               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                           | 5                     | Diego          | In-Process            |
+| US-10             | Ver citas pendientes del doctor           | TSK-021               | Pruebas de citas pendientes         | Realizar pruebas para asegurar que el doctor puede ver y gestionar las citas pendientes correctamente.                             | 5                     | Diego          | To-Do                 |
+| US-11             | Ver historial de citas terminadas del doctor | TSK-022            | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.  | 6                     | Luis           | To-Do                 |
+| US-11             | Ver historial de citas terminadas del doctor | TSK-023            | Filtrar y ordenar historial de citas | Permitir al doctor filtrar y ordenar el historial de citas por fecha y tipo de consulta.                                            | 5                    | Luis           | To-Do                 |
 
 
 5.2.1.3. Development Evidence for Sprint Review
