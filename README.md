@@ -1904,36 +1904,49 @@ Commits of the team :
 
 ## 5.2.3.1. Spring Planning 3. 
 
-| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
-|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 3      | 20/10/2024 | 9:31 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+| Sprint 3                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               | 20/10/2024                                     |
+| Time                               | 9:31 am                                     |
+| Location                           | Reunión Virtual en Discord                                    |
+| Prepared By                        | Rodrigo Alcántara                                     |
+| Attendees (to planning meeting)    | Diego Alonso, Luis Cisneros                                      |
+| Sprint n - 3 Review Summary        | Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la entrega del trabajo parcial                                     |
+| Sprint n - 3 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 3.                                      |
+| **Sprint Goal & User Stories**     | Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                                    |
+| Spring 3 Goal                      | Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                                    |
+| Sprint 3 Velocity                  |  Estimamos para este Sprint tener 5 Story Points                                    |
+| Sum of Story Points                |  Cumplimos con la cantidad de 13 Story Points                                   |
 
-| Sprint 3 - Review Summary                                                                 |
-|-------------------------------------------------------------------------------------------|
-| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la entrega del trabajo parcial                       |
-
-| Sprint 3 - Retrospective Summary                                                          |
-|-------------------------------------------------------------------------------------------|
-| Se logró cumplir con el objetivo del Sprint 3.                                            |
-
-| Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
-|------------------------------------------------------------------------------------------|-------------------|---------------------|
-| Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                    | 5                 | 13                  |
 
 
 5.2.3.2. Sprint Backlog 3. 
 
-| **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
-|-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| TS-01             | Agregar nuevos productos      | TSK-001               | Crear funcionalidad de agregar productos     | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.                     | 4                     | Diego Alonso        | Done                  |
-| TS-02             | Editar productos          | TSK-002               | Integrar edición de productos          | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.                    | 5                      | Rodrigo Alcantara        | Pending                  |
-| TS-03             | Eliminar productos             | TSK-003               | Implementar eliminación de productos | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso.        | 4                     | Diego Alonso          | Done                  |
-| TS-04             | Agregar nuevos doctores                 | TSK-004               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada.       | 4                      | Diego Alonso          | Done                  |
-| TS-05             | Editar doctores                   | TSK-005               | Crear funcionalidad de edición de doctores            | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos.   | 5                     | Diego Alonso         | Pending                  |
-| TS-06             | Eliminar doctores                   | TSK-006               | Eliminar doctores de la base de datos     | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.                     | 5                      | Rodrigo Alcantara         | Done                  |
-| TS-07             | Agregar centros médicos               | TSK-007               | Crear funcionalidad de agregar centros médicos        | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros.      | 4                     | Luis Cisneros          | Done                  |
-| TS-08             | Editar centros médicos              | TSK-008               | Editar centros médicos existentes    | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información.   | 5                      | Luis Cisneros          | Pending                  |
-| TS-09             | Eliminar centros médicos              | TSK-009               | Eliminar centros médicos del sistema    | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.         | 4                      | Rodrigo Alcantara          | Done                  |
+| **User Story ID** | **Título**                        | **Work-Item/Task ID** | **Título**                                 | **Descripción**                                                                                                                  | **Estimación (Horas)** | **Asignado a**        | **Estado** |
+|-------------------|-----------------------------------|-----------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|------------|
+| TS-01             | Agregar nuevos productos          | TSK-001               | Crear funcionalidad de agregar productos   | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.              | 4                      | Diego Alonso          | Done       |
+| TS-01             | Agregar nuevos productos          | TSK-002               | Crear interfaz de usuario para productos   | Diseñar la interfaz para que los usuarios puedan agregar productos de forma intuitiva y fácil.                                  | 3                      | Diego Alonso          | Pending    |
+| TS-01             | Agregar nuevos productos          | TSK-003               | Pruebas de funcionalidad de productos      | Realizar pruebas para asegurar que la funcionalidad de agregar productos funcione correctamente.                                | 2                      | Diego Alonso          | Pending    |
+| TS-02             | Editar productos                  | TSK-004               | Integrar edición de productos              | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.             | 5                      | Rodrigo Alcantara     | Pending    |
+| TS-02             | Editar productos                  | TSK-005               | Pruebas de edición de productos            | Realizar pruebas para confirmar que los cambios en la edición de productos se actualizan en la base de datos.                    | 3                      | Rodrigo Alcantara     | Pending    |
+| TS-03             | Eliminar productos                | TSK-006               | Implementar eliminación de productos       | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso. | 4                      | Diego Alonso          | Done       |
+| TS-03             | Eliminar productos                | TSK-007               | Pruebas de eliminación de productos        | Asegurarse de que los productos eliminados no sean visibles para los usuarios y se reflejen en la base de datos.                 | 2                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-008               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada. | 4                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-009               | Crear interfaz de usuario para doctores    | Diseñar la interfaz para la administración de doctores, permitiendo agregar y visualizar información de doctores fácilmente.    | 3                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-010               | Pruebas de funcionalidad para doctores     | Realizar pruebas para asegurar que la adición de doctores funcione como se espera.                                               | 2                      | Diego Alonso          | Done       |
+| TS-05             | Editar doctores                   | TSK-011               | Crear funcionalidad de edición de doctores | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos. | 5                      | Diego Alonso          | Pending    |
+| TS-05             | Editar doctores                   | TSK-012               | Pruebas de edición de doctores             | Realizar pruebas para confirmar que los cambios en la edición de doctores se actualizan en la base de datos.                      | 3                      | Diego Alonso          | Pending    |
+| TS-06             | Eliminar doctores                 | TSK-013               | Eliminar doctores de la base de datos      | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.             | 5                      | Rodrigo Alcantara     | Done       |
+| TS-06             | Eliminar doctores                 | TSK-014               | Pruebas de eliminación de doctores         | Asegurarse de que los doctores eliminados no sean visibles y se reflejen correctamente en la base de datos.                     | 2                      | Rodrigo Alcantara     | Done       |
+| TS-07             | Agregar centros médicos           | TSK-015               | Crear funcionalidad de agregar centros médicos | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros. | 4                      | Luis Cisneros         | Done       |
+| TS-07             | Agregar centros médicos           | TSK-016               | Crear interfaz para centros médicos        | Diseñar una interfaz de usuario que permita la gestión de centros médicos fácilmente.                                            | 3                      | Luis Cisneros         | Pending    |
+| TS-07             | Agregar centros médicos           | TSK-017               | Pruebas de funcionalidad para centros médicos | Asegurarse de que los centros médicos añadidos se visualicen correctamente en la plataforma.                                    | 2                      | Luis Cisneros         | Pending    |
+| TS-08             | Editar centros médicos            | TSK-018               | Editar centros médicos existentes          | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información. | 5                      | Luis Cisneros         | Pending    |
+| TS-08             | Editar centros médicos            | TSK-019               | Pruebas de edición de centros médicos      | Confirmar que los cambios en los centros médicos se actualizan correctamente en la base de datos.                               | 3                      | Luis Cisneros         | Pending    |
+| TS-09             | Eliminar centros médicos          | TSK-020               | Eliminar centros médicos del sistema       | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.  | 4                      | Rodrigo Alcantara     | Done       |
+| TS-09             | Eliminar centros médicos          | TSK-021               | Pruebas de eliminación de centros médicos  | Confirmar que los centros médicos eliminados ya no son visibles y se reflejan en la base de datos.                              | 2                      | Rodrigo Alcantara     | Done       |
+
 
 A continuacion se adjunta el link del trello y una imagen del mismo: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI845eebf98df3653b23b258ecacab5db972EB4070/sprint-healme
 
