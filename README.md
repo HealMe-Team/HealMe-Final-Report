@@ -1702,7 +1702,7 @@ Evidencia del deploy
 | **Sprint Goal & User Stories**     |                                     |
 | Spring 1 Goal                      | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                                    |
 | Sprint 1 Velocity                  |  Estimamos para este Sprint tener 5 Story Points                                    |
-| Sum of Story Points                |  Cumplimos con la cantidad de 13 Story Points                                   |
+| Sum of Story Points                |  En este sprint nos hemos centrado exclusivamente en el landing Page                                   |
 
 
 ### Objetivo Principal del Sprint
@@ -1836,8 +1836,8 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Sprint n - 2 Retrospective Summary | Se destacó la importancia de avanzar la app web para nuestro proyecto                                      |
 | **Sprint Goal & User Stories**     |                                     |
 | Spring 2 Goal                      | El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app                                    |
-| Sprint 2 Velocity                  |  Estimamos para este Sprint tener 5 Story Points                                    |
-| Sum of Story Points                |  Cumplimos con la cantidad de 13 Story Points                                   |
+| Sprint 2 Velocity                  |  Estimamos para este Sprint tener 15 Story Points                                    |
+| Sum of Story Points                |  Cumplimos con la cantidad de 33 Story Points                                   |
 
 
 ### 5.2.2.2. Sprint Backlog 2. 
