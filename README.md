@@ -2108,14 +2108,14 @@ Se adjunta evidencia del trabajo en equipo:
 |------------------------------------|-------------------------------------|
 | **Sprint Planning Background**     |                                     |
 | Date                               |  11/12/2024                                   |
-| Time                               |  19:27 am                                   |
+| Time                               |  19:27 pm                                   |
 | Location                           |  Reunión Virtual en Discord                                   |
 | Prepared By                        |  Rodrigo Alcántara                                   |
 | Attendees (to planning meeting)    |  Diego Alonso, Luis Cisneros                                   |
-| Sprint n - 4 Review Summary        |                                     |
-| Sprint n - 4 Retrospective Summary |                                     |
+| Sprint n - 4 Review Summary        |  Terminar la versión final del backend                                   |
+| Sprint n - 4 Retrospective Summary |  Se destacó la importancia de terminar la versión final del backend                                   |
 | **Sprint Goal & User Stories**     |                                     |
-| Spring 4 Goal                      |                                     |
+| Sprint 4 Goal                      |  El objetivo de este sprint es el terminar la version final del backend, corregir el landing page en base a la retroalimentación brindada por el profesor e implementar funcionalidades en el backend                                   |
 | Sprint 4 Velocity                  |                                     |
 | Sum of Story Points                |                                     |
 
