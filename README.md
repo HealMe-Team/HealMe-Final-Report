@@ -2250,6 +2250,17 @@ Nombre:Vasco Martínez
 
 Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe como profesional y acogedora, señalando que transmite eficazmente la importancia de la salud para el usuario. No obstante, sugiere mejorar el contraste del menú para facilitar la visibilidad y agregar una breve introducción o una sección "Sobre Nosotros" que ofrezca más contexto a los nuevos usuarios. En cuanto a la aplicación web, Vasco destaca su facilidad de uso y navegación intuitiva, lo cual es especialmente útil para quienes buscan servicios médicos. Propone agregar una barra de búsqueda y filtros adicionales, junto con funciones que optimicen la experiencia del usuario, como opciones de búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Vasco considera que HealMe cumple su misión como plataforma para turistas y profesionales de la salud, aunque sugiere que añadir detalles específicos para turistas podría fortalecer su propuesta de valor. Incorporar sus recomendaciones podría mejorar la experiencia del usuario y hacer la plataforma más recomendable.
 
+TESTIMONIOS Y PRUEBAS DE LOS USUARIOS CON LA APLICACIÓN:
+
+USUARIOS/PACIENTES:
+
+Video 1: https://drive.google.com/file/d/19TwRxfuBUiSC7sXW52WyqYckudxLu6fM/view?usp=sharing
+Video 2: https://drive.google.com/file/d/1AKT776PMX0Y68N05dft_8OxqrXWZUtzS/view
+
+DOCTORES:
+Video 1: https://drive.google.com/file/d/1G_jwe5dputX_tTHgHe60k5FnRfObJRXK/view?usp=sharing
+Video 2: 
+
 ## 5.3.3. Evaluaciones según heurísticas. 
 
 
