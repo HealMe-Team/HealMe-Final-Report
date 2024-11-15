@@ -64,6 +64,33 @@
 |   Luis Cisneros      | Competidores, Analisis competitivo, diseño de entrevistas, Software Architecture Context Diagram, Software Architecture Container Diagram
 |  Rodrigo Alcántara   | Diseño de la landing page y desarrollo de la interfaz                             |
 
+### TP1  
+#### Integrante Tareas Asignadas  
+
+| Integrante                        | Tareas Asignadas                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------------|
+| Diego Alonso        | Implementación de funcionalidades del frontend |
+| Rodrigo Alcántara | Corrección de la documentación, elaboración de la primera versión del frontend e implementación de principales funcionalidades del frontend |
+| Luis Cisneros          | Correción del documento y mejora del landing page      |
+
+### TB2  
+#### Integrante Tareas Asignadas  
+
+| Integrante                        | Tareas Asignadas                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------------|
+| Diego Alonso        | Implementación de funcionalidades del backend y corrección de la documentación  |
+| Rodrigo Alcántara | Elaboración de la primera versión del backend e implementación de funcionalidades del backend, elaboración de entrevistas y corrección de la documentación |
+| Luis Cisneros          | Elaboración de entrevistas y correción de la documentación      |
+
+### TF1  
+#### Integrante Tareas Asignadas  
+
+| Integrante                        | Tareas Asignadas                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------------|
+| Diego Alonso        | Implementación de funcionalidades finales del backend |
+| Rodrigo Alcántara | Mejora del backend y mejora de la documentación |
+| Luis Cisneros          | Mejora del landing page     |
+
 
 ## Student Outcome ABET – EAC - Student Outcome 5  
 **Criterio**: La capacidad de funcionar efectivamente en un
@@ -72,20 +99,8 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 | Criterio específico | Acciones realizadas y Conclusiones |
 | -------------------- | ---------------------------------- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3, luego elaboré los 7 últimos puntos del capítulo V. TP1: Realicé entrevistas con el equipo e implementé funcionalidades de rutas para la aplicación web. **Conclusión**: Es fundamental trabajar con tiempo para evitar inconvenientes. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. TP1: Implementé las funcionalidades de login y registro, y corregí los diagramas. **Conclusión**: La coordinación del equipo fue un reto, ya que asegurar que todos estuvieran alineados con los plazos fue complicado. Además, las constantes iteraciones de los diseños y prototipos también representaron un desafío.<br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y lenguajes. TP1: Creé la primera versión de la aplicación web y corregí la documentación. **Conclusión**: La comunicación y organización son clave para un trabajo en equipo eficaz y para presentar un mejor producto. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3, luego elaboré los 7 últimos puntos del capítulo V. TP1: Realicé entrevistas con el equipo e implementé funcionalidades de rutas para la aplicación web. TB2: Implementé funcionalidades del backend y corregí una parte de la documentación **Conclusión**: Es fundamental trabajar con tiempo para evitar inconvenientes. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. TP1: Implementé las funcionalidades de login y registro, y corregí los diagramas. Elaboré entrevistas y corregi la documentación, TB2: Elaboré entrevistas y corregi una parte del documento **Conclusión**: La coordinación del equipo fue un reto, ya que asegurar que todos estuvieran alineados con los plazos fue complicado. Además, las constantes iteraciones de los diseños y prototipos también representaron un desafío.<br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y lenguajes. TP1: Creé la primera versión de la aplicación web y corregí la documentación. TB2: Elaboré la primera versión del backend e implemente las primeras funcionalidades del backend, elaboré entrevistas y corregí gran parte del documento **Conclusión**: La comunicación y organización son clave para un trabajo en equipo eficaz y para presentar un mejor producto. |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3 y los 7 últimos puntos del capítulo V. **Conclusión**: Es esencial fomentar un trabajo colaborativo, apoyándonos como equipo. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. **Conclusión**: El trabajo en equipo requiere establecer objetivos claros y tener control sobre los avances. <br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y los lenguajes. **Conclusión**: El trabajo en equipo ofrece varias formas de resolver problemas, y fomentar un buen ambiente mejora la calidad del trabajo. |
-
-
-
-### TP1  
-#### Integrante Tareas Asignadas  
-
-| Integrante                        | Tareas Asignadas                                                                 |
-|-----------------------------------|----------------------------------------------------------------------------------|
-| Diego Alonso, Rodrigo Alcántara, Luis Cisneros          | Elaboración de entrevistas, colaboración general |
-|Diego Alonso | Implementar funcionalidades de la aplicacion web |
-|  Rodrigo Alcántara,          | Elaboracion de la primera version de la aplicacion web y correcion de la documentacion     |
-| Luis Cisneros          | Elaboracion de los diagramas c4 , log in y register de los 2 segmentos |
 
 
 <div style="text-align: center; font-size: 32px;">
