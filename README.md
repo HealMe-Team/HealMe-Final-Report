@@ -2270,7 +2270,7 @@ Video 2: https://drive.google.com/file/d/1zCXWE4m_FIict-AYv4wMMSWLI2o8mc3d/view?
 
 ## 5.4. Video About-the-Product. 
 
-Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/Eb8E4rXyn9pLgSTmhNRGgIIBH1O7-FBtXnAcyUUhGr2bcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kjTaho
+Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/ET-KYPROkgpHj6hjBUzL06MBLPPPSQqHGybtFIrEh6aYgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cdYvyB
 
 
 ### Conclusiones 
