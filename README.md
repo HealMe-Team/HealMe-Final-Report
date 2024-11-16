@@ -2285,6 +2285,9 @@ Video About-the-Team
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EeE18Zc4xKFOnvtXWj5DXU4BjCHQOPyA2D9sDucEq4rbww?e=mwJUtb
 
+### Anexos
+- Canal de youtube: https://www.youtube.com/@HealMe-j7u
+
 ### Referencias bibliograficas
 
 Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
