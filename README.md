@@ -1311,6 +1311,8 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 | 37          | TS-07             | Agregar centros médicos               | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada. | 6                |
 | 38          | TS-08             | Editar centros médicos                | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos. | 3                |
 | 39          | TS-09             | Eliminar centros médicos              | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa. | 4                |
+| 39          | TS-10             | Agregar autenticación               | Como desarrollador backend, quiero obtener mi token para poder agregar o borrar doctores, hospitales, etc en el backend. | 4                |
+
 
 
 ## Capítulo IV: Product Design
@@ -2132,8 +2134,8 @@ Se adjunta evidencia del trabajo en equipo:
 | Sprint n - 4 Retrospective Summary |  Se destacó la importancia de terminar la versión final del backend                                   |
 | **Sprint Goal & User Stories**     |                                     |
 | Sprint 4 Goal                      |  El objetivo de este sprint es el terminar la version final del backend, corregir el landing page en base a la retroalimentación brindada por el profesor e implementar funcionalidades en el backend                                   |
-| Sprint 4 Velocity                  |                                     |
-| Sum of Story Points                |                                     |
+| Sprint 4 Velocity                  |     Cumplir todo el proyecto                                |
+| Sum of Story Points                |     Cumplimos con todos los story points obteniendo todos los puntos                                |
 
 
 ## 5.2.4.2. Sprint Backlog 4.
@@ -2161,8 +2163,11 @@ Se adjunta evidencia del trabajo en equipo:
 | TS-08             | Editar centros médicos            | TSK-019               | Pruebas de edición de centros médicos      | Confirmar que los cambios en los centros médicos se actualizan correctamente en la base de datos.                               | 3                      | Luis Cisneros         | Done    |
 | TS-09             | Eliminar centros médicos          | TSK-020               | Eliminar centros médicos del sistema       | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.  | 4                      | Rodrigo Alcantara     | Done       |
 | TS-09             | Eliminar centros médicos          | TSK-021               | Pruebas de eliminación de centros médicos  | Confirmar que los centros médicos eliminados ya no son visibles y se reflejan en la base de datos.                              | 2                      | Rodrigo Alcantara     | Done       |
+| TS-10             | Agregar autenticación          | TSK-022               | Agregar la autenticación para ingresar al backend  | Confirmar que los datos sean correctos para obtener el token.                              | 2                      | Diego Alonso     | Done       |
 
-<img src="assets/img/trello-evidence.png">
+A continuacion se adjunta el link del trello y una imagen del mismo: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI845eebf98df3653b23b258ecacab5db972EB4070/sprint-healme
+
+<img src="assets/trello-evidence.png">
 
 ## 5.2.4.3. Development Evidence for Sprint Review. 
 
@@ -2226,6 +2231,8 @@ App web evidence:
 
 Backend evidence:
 
+<img src="assets/deploy-evidence2.png">
+
 
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review. 
 
@@ -2246,11 +2253,11 @@ Backend evidence:
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
-Se adjunta imagenes del deploy y el link tambien:
+Se adjunta imagenes del deploy y el link tambien: https://healmeappbackendapi20241117153308.azurewebsites.net/
 
-<img src="assets/img/deploy-evidence1.png">
+<img src="assets/deploy-evidence1.png">
 
-<img src="assets/img/deploy-evidence2.png">
+<img src="assets/deploy-evidence2.png">
 
 ## 5.2.4.8. Team Collaboration Insights during Sprint. 
 
@@ -2264,9 +2271,9 @@ Se adjunta evidencia del trabajo en equipo:
 
 <img src="assets/img/sprint-evidence1.jpg">
 
-<img src="assets/img/sprint-evidence2.jpg">
+<img src="assets/sprint-evidence2.jpg">
 
-<img src="assets/img/sprint-evidence3.jpg">
+<img src="assets/sprint-evidence3.jpg">
 
 ## 5.3. Validation Interviews. 
 
@@ -2373,6 +2380,8 @@ Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal
 - Se llego a la conclusion que la medicina peruana y la programacion pueden trabajar en equipo para poder alcanzar una cantidad mayor de usuarios siende beneficiosa para ambos sectores.
 - La implementacion del backend es fundamental para el desarrollo de aplicaciones web, ya que conecta una base de datos ya existente o recien creada con el frontend de la aplicacion, haciendo que la experiencia del usuario sea buena.
 - La documentacion de lenguajes y foros son fundamentales ya que poseen información la cual puede servir para la investigacion de una solucion ante un problema de programación
+- LLegamos a la conclusión que el obtener el token es fundamental para asi poder identificar al desarrollador y tenga acceso a nuestro backend evitando ataques maliciosos.
+- El trabajo en equipo cumplio un rol fundamental para poder entregar este proyecto siendo menos integrantes, haciendo que todos superemos nuestros limites para crecer como profesionales
 
 Video About-the-Team
 
