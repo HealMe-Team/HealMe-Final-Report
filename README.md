@@ -2271,7 +2271,7 @@ Se adjunta evidencia del trabajo en equipo:
 
 <img src="assets/img/traffic-evidence.png">
 
-<img src="assets/img/sprint-evidence1.jpg">
+<img src="assets/sprint-evidence1.jpg">
 
 <img src="assets/sprint-evidence2.jpg">
 
