@@ -2165,11 +2165,83 @@ Se adjunta evidencia del trabajo en equipo:
 
 ## 5.2.4.3. Development Evidence for Sprint Review. 
 
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
+|  Heal-Me-Backend  |  master  |  24ccfe4   |    add launch settings             |  add launch settings          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  29dcc15   |     add command and query services          |  add command and query services           |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  5cd93dd   |      add feature Products Domain          |   add feature Products Domain          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  6094820   |    add Products Bounded context            |   add Products Bounded context         |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  870bc70   |     add Doctors Bounded context           |    add Doctors Bounded context        |       30/10/2024        |
+|  Heal-Me-Backend  |  master  |  754312c   |      add shared          |    add shared        |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  7243ee2   |     add Hospitals bounded context           |     add Hospitals bounded context       |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  9365df2   |     chore add autentication with tokens and hash           |    chore add autentication with tokens and hash        |     17/11/2024          |
+
+
 ## 5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+Se realizó el deploy en azure de la version final del backend (se adjunta 2 repositorios de backend ya que en un repositorio se ha hecho en base a Rider y daba problemas a la hora de descargar, por eso hemos creado otro repositorio donde esta hecho en visual studio
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial commit   |  initial commit      |    30/10/2024           |
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend-visual  |  master  |  1e0b6c2   | initial commit   |  initial commit      |    11/17/2024           |
+
+Link del repositorio del landing page:
+
+link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Frontend
+
+Link del repositorio del backend (hecho en rider No recomiendo descargarlo): https://github.com/HealMe-Team/Heal-Me-Backend
+
+Link del repositorio del backend (hecho en visual studio RECOMIENDO DESCARGARLO):
+
+Explicacion Bounded Context:
+
+Doctores
+Este contexto se encarga de la gestión de los doctores. Incluye las siguientes responsabilidades:
+Repositorios: IDoctorRepository, DoctorRepository Servicios de Aplicación: IDoctorCommandService, DoctorCommandService, IDoctorQueryService, DoctorQueryService
+
+Hospitales
+Este contexto se encarga de la gestión de los hospitales. Incluye las siguientes responsabilidades:
+Repositorios: IHospitalRepository, HospitalRepository Servicios de Aplicación: IHospitalCommandService, HospitalCommandService, IHospitalQueryService, HospitalQueryService
+
+Productos
+Este contexto se encarga de la gestión de los productos. Incluye las siguientes responsabilidades:
+Repositorios: IProductRepository, ProductRepository Servicios de Aplicación: IProductCommandService, ProductCommandService, IProductQueryService, ProductQueryService
+
+Shared
+Este contexto incluye componentes y servicios que son compartidos entre los diferentes bounded contexts. Incluye las siguientes responsabilidades:
+Repositorios: IUnitOfWork, UnitOfWork Configuración de Persistencia: AppDbContext
+
 
 ## 5.2.4.5. Execution Evidence for Sprint Review. 
 
+App web evidence: 
+
+<img src="assets/img/log-in-web-app.png">
+
+Backend evidence:
+
+
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+| Endpoint | Acciones Soportadas |
+| --- | --- |
+| `/api/auth/register` | **POST**<br>Registro para obtener el token |
+| `/api/auth/login` | **POST**<br>Log in con el usuario creado |
+| `/api/v1/doctors` | **POST**<br>Registro de un doctor |
+| `/api/v1/doctors` | **GET**<br>Obtiene doctores |
+| `/api/v1/doctors/{id}` | **GET**<br>Obtiene doctores por la id |
+| `/api/v1/hospitals` | **POST**<br>Registro de un hospital |
+| `/api/v1/hopitals` | **GET**<br>Obtiene los hospitales |
+| `/api/v1/hospitals/{id}` | **GET**<br>Obtiene los hospitales por la id |
+| `/api/v1/products` | **POST**<br>Registro de un producto |
+| `/api/v1/products` | **GET**<br>Obtiene los productos |
+| `/api/v1/products/{id}` | **GET**<br>Obtiene productos por la id |
+
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
