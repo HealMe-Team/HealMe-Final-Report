@@ -2255,6 +2255,7 @@ Backend evidence:
 
 Se adjunta imagenes del deploy y el link tambien (en caso que no funcione es probable que se haya acabado los creditos, todos los integrantes nos hemos quedado sin creditos debido a otro curso que solicita el uso de azure): https://healmeappbackendapi20241117153308.azurewebsites.net/
 
+<img src="assets/azure-evidence-final.png">
 
 <img src="assets/deploy-evidence1.png">
 
