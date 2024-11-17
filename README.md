@@ -2162,6 +2162,7 @@ Se adjunta evidencia del trabajo en equipo:
 | TS-09             | Eliminar centros médicos          | TSK-020               | Eliminar centros médicos del sistema       | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.  | 4                      | Rodrigo Alcantara     | Done       |
 | TS-09             | Eliminar centros médicos          | TSK-021               | Pruebas de eliminación de centros médicos  | Confirmar que los centros médicos eliminados ya no son visibles y se reflejan en la base de datos.                              | 2                      | Rodrigo Alcantara     | Done       |
 
+<img src="assets/img/trello-evidence.png">
 
 ## 5.2.4.3. Development Evidence for Sprint Review. 
 
@@ -2190,7 +2191,7 @@ Se realizó el deploy en azure de la version final del backend (se adjunta 2 rep
 |------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
 |  Heal-Me-Backend-visual  |  master  |  1e0b6c2   | initial commit   |  initial commit      |    11/17/2024           |
 
-Link del repositorio del landing page:
+Link del repositorio del landing page: https://github.com/HealMe-Team/HealMe-LandingPage
 
 link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Frontend
 
@@ -2245,7 +2246,27 @@ Backend evidence:
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
+Se adjunta imagenes del deploy y el link tambien:
+
+<img src="assets/img/deploy-evidence1.png">
+
+<img src="assets/img/deploy-evidence2.png">
+
 ## 5.2.4.8. Team Collaboration Insights during Sprint. 
+
+Se adjunta evidencia del trabajo en equipo:
+
+<img src="assets/img/git-flow-evidence.png">
+
+<img src="assets/img/commits-evidence.png">
+
+<img src="assets/img/traffic-evidence.png">
+
+<img src="assets/img/sprint-evidence1.jpg">
+
+<img src="assets/img/sprint-evidence2.jpg">
+
+<img src="assets/img/sprint-evidence3.jpg">
 
 ## 5.3. Validation Interviews. 
 
