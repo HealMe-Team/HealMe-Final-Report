@@ -2202,7 +2202,7 @@ link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Fronten
 
 Link del repositorio del backend (hecho en rider No recomiendo descargarlo): https://github.com/HealMe-Team/Heal-Me-Backend
 
-Link del repositorio del backend (hecho en visual studio RECOMIENDO DESCARGARLO):
+Link del repositorio del backend (hecho en visual studio RECOMIENDO DESCARGARLO): https://github.com/HealMe-Team/Heal-Me-Backend-visual
 
 Explicacion Bounded Context:
 
