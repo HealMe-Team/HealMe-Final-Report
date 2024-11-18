@@ -99,9 +99,10 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 | Criterio específico | Acciones realizadas y Conclusiones |
 | -------------------- | ---------------------------------- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3, luego elaboré los 7 últimos puntos del capítulo V. TP1: Realicé entrevistas con el equipo e implementé funcionalidades de rutas para la aplicación web. TB2: Implementé funcionalidades del backend y corregí una parte de la documentación **Conclusión**: Es fundamental trabajar con tiempo para evitar inconvenientes. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. TP1: Implementé las funcionalidades de login y registro, y corregí los diagramas. Elaboré entrevistas y corregi la documentación, TB2: Elaboré entrevistas y corregi una parte del documento **Conclusión**: La coordinación del equipo fue un reto, ya que asegurar que todos estuvieran alineados con los plazos fue complicado. Además, las constantes iteraciones de los diseños y prototipos también representaron un desafío.<br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y lenguajes. TP1: Creé la primera versión de la aplicación web y corregí la documentación. TB2: Elaboré la primera versión del backend e implemente las primeras funcionalidades del backend, elaboré entrevistas y corregí gran parte del documento **Conclusión**: La comunicación y organización son clave para un trabajo en equipo eficaz y para presentar un mejor producto. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3 y los 7 últimos puntos del capítulo V. **Conclusión**: Es esencial fomentar un trabajo colaborativo, apoyándonos como equipo. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. **Conclusión**: El trabajo en equipo requiere establecer objetivos claros y tener control sobre los avances. <br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y los lenguajes. **Conclusión**: El trabajo en equipo ofrece varias formas de resolver problemas, y fomentar un buen ambiente mejora la calidad del trabajo. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3, luego elaboré los 7 últimos puntos del capítulo V. TP1: Realicé entrevistas con el equipo e implementé funcionalidades de rutas para la aplicación web. TB2: Implementé funcionalidades del backend y corregí una parte de la documentación. TF1: Implementé funcionalidades finales al backend y ayude en el deploy **Conclusión**: Es fundamental trabajar con tiempo para evitar inconvenientes. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. TP1: Implementé las funcionalidades de login y registro, y corregí los diagramas. Elaboré entrevistas y corregi la documentación, TB2: Elaboré entrevistas y corregi una parte del documento. TF1: Mejoré el landing page agregando aria labels y los videos. **Conclusión**: La coordinación del equipo fue un reto, ya que asegurar que todos estuvieran alineados con los plazos fue complicado. Además, las constantes iteraciones de los diseños y prototipos también representaron un desafío.<br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y lenguajes. TP1: Creé la primera versión de la aplicación web y corregí la documentación. TB2: Elaboré la primera versión del backend e implemente las primeras funcionalidades del backend, elaboré entrevistas y corregí gran parte del documento. TF1: Corregí el documento, ayudé con el deploy y elaboré videos de los usuarios haciendo test de la aplicación. **Conclusión**: La comunicación y organización son clave para un trabajo en equipo eficaz y para presentar un mejor producto. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Alonso Garay, Diego Jesus**: TB1: Completé el capítulo 3, luego elaboré los 7 últimos puntos del capítulo V. TP1: Realicé entrevistas con el equipo e implementé funcionalidades de rutas para la aplicación web. TB2: Implementé funcionalidades del backend y corregí una parte de la documentación. TF1: Implementé funcionalidades finales al backend y ayude en el deploy **Conclusión**: Es fundamental trabajar con tiempo para evitar inconvenientes. <br><br> **Cisneros Salas, Luis Angel**: TB1: Realicé el diseño de la Landing Page (UI Design, Wireframe, Mock-up), diseño UX/UI de aplicaciones web, Wireframes, Diagramas de flujo, Mock-ups, Prototipos. TP1: Implementé las funcionalidades de login y registro, y corregí los diagramas. Elaboré entrevistas y corregi la documentación, TB2: Elaboré entrevistas y corregi una parte del documento. TF1: Mejoré el landing page agregando aria labels y los videos. **Conclusión**: La coordinación del equipo fue un reto, ya que asegurar que todos estuvieran alineados con los plazos fue complicado. Además, las constantes iteraciones de los diseños y prototipos también representaron un desafío.<br><br> **Alcántara Cruz, Rodrigo Alonso**: TB1: Completé los últimos puntos del capítulo 1, desarrollé la Landing Page basada en los diseños del equipo, comencé los 8 primeros puntos del capítulo V. Creé el repositorio, invité al equipo, elegí la IDE y lenguajes. TP1: Creé la primera versión de la aplicación web y corregí la documentación. TB2: Elaboré la primera versión del backend e implemente las primeras funcionalidades del backend, elaboré entrevistas y corregí gran parte del documento. TF1: Corregí el documento, ayudé con el deploy y elaboré videos de los usuarios haciendo test de la aplicación. **Conclusión**: La comunicación y organización son clave para un trabajo en equipo eficaz y para presentar un mejor producto. |
 
+**Cabe recalcar que todos apoyamos en esta entrega fomentando un buen ambiente de trabajo en equipo a pesar de ser menos integrantes para así poder realizar las entregas alcanzando nuestros objetivos.**
 
 <div style="text-align: center; font-size: 32px;">
     <strong>HealMe</strong>
@@ -305,6 +306,24 @@ Capítulo V: Product Implementation, Validation & Deployment
 5.3.2. Registro de Entrevistas. 
 
 5.3.3. Evaluaciones según heurísticas. 
+
+5.2.4. Sprint 4
+
+5.2.4.1. Spring Planning 4. 
+
+5.2.4.2. Sprint Backlog 4. 
+
+5.2.4.3. Development Evidence for Sprint Review. 
+
+5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.4.5. Execution Evidence for Sprint Review. 
+
+5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.4.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.4.8. Team Collaboration Insights during Sprint. 
 
 5.4. Video About-the-Product. 
 
@@ -1292,6 +1311,8 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 | 37          | TS-07             | Agregar centros médicos               | Como desarrollador backend, quiero agregar nuevos centros médicos a la base de datos, para mantener la lista de centros actualizada. | 6                |
 | 38          | TS-08             | Editar centros médicos                | Como desarrollador backend, quiero editar la información de los centros médicos existentes, para asegurar que los detalles sean precisos. | 3                |
 | 39          | TS-09             | Eliminar centros médicos              | Como desarrollador backend, quiero eliminar centros médicos que ya no están disponibles, para mantener la base de datos precisa. | 4                |
+| 39          | TS-10             | Agregar autenticación               | Como desarrollador backend, quiero obtener mi token para poder agregar o borrar doctores, hospitales, etc en el backend. | 4                |
+
 
 
 ## Capítulo IV: Product Design
@@ -1686,21 +1707,20 @@ Evidencia del deploy
 
 5.2.1.1. Sprint Planning 1
 
-| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
-|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 1      | 28/08/2024 | 3:22 pm  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
-
-| Sprint 1 - Review Summary                                                                 |
-|-------------------------------------------------------------------------------------------|
-| Avanzar el landing page y brindar sugerencias para el estilo de la página                   |
-
-| Sprint 1 - Retrospective Summary                                                          |
-|-------------------------------------------------------------------------------------------|
-| Se destacó la importancia de completar el landing page para nuestro proyecto                                            |
-
-| Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
-|------------------------------------------------------------------------------------------|-------------------|---------------------|
-|  El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                    | 5                 | 13                  |
+| Sprint 1                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               | 28/08/2024                                     |
+| Time                               | 3:22 pm                                     |
+| Location                           | Reunión Virtual en Discord                                    |
+| Prepared By                        | Rodrigo Alcántara                                     |
+| Attendees (to planning meeting)    | Diego Alonso, Luis Cisneros                                      |
+| Sprint n - 1 Review Summary        | Avanzar el landing page y brindar sugerencias para el estilo de la página                                     |
+| Sprint n - 1 Retrospective Summary | Se destacó la importancia de completar el landing page para nuestro proyecto                                      |
+| **Sprint Goal & User Stories**     |                                     |
+| Spring 1 Goal                      | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register                                    |
+| Sprint 1 Velocity                  |  Estimamos para este Sprint tener 5 Story Points                                    |
+| Sum of Story Points                |  En este sprint nos hemos centrado exclusivamente en el landing Page                                   |
 
 
 ### Objetivo Principal del Sprint
@@ -1712,17 +1732,29 @@ El objetivo principal del Sprint 1 es implementar las funcionalidades básicas d
 
 | **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
 |-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 6                     | Rodrigo            | In-Process            |
-| US-02             | Realizar el pago de las medicinas          | TSK-002               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                      | Rodrigo         | To-Do                 |
-| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 10                     | Diego          | In-Process            |
-| US-04             | Ver el historial de citas                  | TSK-004               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.     | 8                      | Diego           | To-Do                 |
-| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 4                     | Diego          | In-Process            |
-| US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmacion       | Implementar el sistema de mensaje de confirmacion de la cita medica                   | 4                      | Diego          | To-Do                 |
-| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 4                     | Luis           | To-Do                 |
-| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 4                      | Luis        | In-Process            |
-| US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | In-Process            |
-| US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis          | To-Do                 |
-
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 6                     | Rodrigo        | In-Process            |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-002               | Crear interfaz de búsqueda          | Diseñar la interfaz de usuario para la búsqueda de medicinas, incluyendo filtros y opciones de búsqueda avanzada.                   | 4                     | Rodrigo        | To-Do                 |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-003               | Pruebas de funcionalidad de carrito | Realizar pruebas para asegurar que las medicinas se añaden correctamente al carrito.                                                | 4                     | Rodrigo        | To-Do                 |
+| US-02             | Realizar el pago de las medicinas         | TSK-004               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                     | Rodrigo        | To-Do                 |
+| US-02             | Realizar el pago de las medicinas         | TSK-005               | Crear interfaz de pago              | Diseñar la pantalla de pago que permita seleccionar el método y confirmar la compra de las medicinas.                                | 4                     | Rodrigo        | To-Do                 |
+| US-02             | Realizar el pago de las medicinas         | TSK-006               | Pruebas de integración de pagos     | Realizar pruebas para asegurar la correcta integración y funcionamiento del sistema de pagos.                                       | 3                     | Rodrigo        | To-Do                 |
+| US-03             | Buscar y seleccionar un doctor            | TSK-007               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 4                    | Diego          | In-Process            |
+| US-03             | Buscar y seleccionar un doctor            | TSK-008               | Filtrar y ordenar doctores          | Implementar filtros por especialidad y ordenar la lista de doctores para facilitar la selección.                                    | 4                     | Diego          | To-Do                 |
+| US-03             | Buscar y seleccionar un doctor            | TSK-009               | Pruebas de selección de doctor      | Realizar pruebas para asegurar que el usuario puede seleccionar un doctor correctamente y que se guarda su elección.                | 2                     | Diego          | To-Do                 |
+| US-04             | Ver el historial de citas                 | TSK-010               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.    | 8                     | Diego          | To-Do                 |
+| US-04             | Ver el historial de citas                 | TSK-011               | Filtrar y ordenar historial         | Permitir a los usuarios ordenar y filtrar el historial de citas por fecha y tipo de consulta.                                       | 3                     | Diego          | To-Do                 |
+| US-05             | Reservar una cita médica                  | TSK-012               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                   | 4                     | Diego          | In-Process            |
+| US-05             | Reservar una cita médica                  | TSK-013               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica.                                                                 | 4                     | Diego          | To-Do                 |
+| US-05             | Reservar una cita médica                  | TSK-014               | Recordatorio de citas               | Crear una función para enviar recordatorios a los usuarios sobre sus citas próximas.                                                | 2                     | Diego          | To-Do                 |
+| US-07             | Registrarme en la aplicación              | TSK-015               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.    | 4                     | Luis           | To-Do                 |
+| US-07             | Registrarme en la aplicación              | TSK-016               | Validación de datos de registro     | Implementar validaciones para los campos del formulario de registro, como formato de correo y fuerza de contraseña.                 | 3                     | Luis           | To-Do                 |
+| US-09             | Ver y elegir un centro médico             | TSK-017               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles. | 4                     | Luis           | In-Process            |
+| US-09             | Ver y elegir un centro médico             | TSK-018               | Filtrar centros médicos             | Agregar funcionalidad de filtro para que los usuarios puedan buscar centros médicos según la ubicación y especialidad.             | 4                     | Luis           | To-Do                 |
+| US-09             | Ver y elegir un centro médico             | TSK-019               | Pruebas de selección de centro      | Realizar pruebas para confirmar que los usuarios pueden seleccionar un centro médico correctamente.                                 | 6                     | Luis           | To-Do                 |
+| US-10             | Ver citas pendientes del doctor           | TSK-020               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                           | 5                     | Diego          | In-Process            |
+| US-10             | Ver citas pendientes del doctor           | TSK-021               | Pruebas de citas pendientes         | Realizar pruebas para asegurar que el doctor puede ver y gestionar las citas pendientes correctamente.                             | 5                     | Diego          | To-Do                 |
+| US-11             | Ver historial de citas terminadas del doctor | TSK-022            | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.  | 6                     | Luis           | To-Do                 |
+| US-11             | Ver historial de citas terminadas del doctor | TSK-023            | Filtrar y ordenar historial de citas | Permitir al doctor filtrar y ordenar el historial de citas por fecha y tipo de consulta.                                            | 5                    | Luis           | To-Do                 |
 
 
 5.2.1.3. Development Evidence for Sprint Review
@@ -1810,21 +1842,20 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 
 5.2.2.1. Sprint Planning 2
 
-| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
-|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 2      | 28/08/2024 | 10:12 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
-
-| Sprint 2 - Review Summary                                                                 |
-|-------------------------------------------------------------------------------------------|
-| Avanzar la primera version de HealMe                     |
-
-| Sprint 2 - Retrospective Summary                                                          |
-|-------------------------------------------------------------------------------------------|
-| Se destacó la importancia de avanzar la app web para nuestro proyecto                                            |
-
-| Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
-|------------------------------------------------------------------------------------------|-------------------|---------------------|
-|  El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app                    | 5                 | 13                  |
+| Sprint 2                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               | 28/08/2024                                     |
+| Time                               | 10:12 am                                     |
+| Location                           | Reunión Virtual en Discord                                    |
+| Prepared By                        | Rodrigo Alcántara                                     |
+| Attendees (to planning meeting)    | Diego Alonso, Luis Cisneros                                      |
+| Sprint n - 2 Review Summary        | Avanzar la primera version de HealMe                                     |
+| Sprint n - 2 Retrospective Summary | Se destacó la importancia de avanzar la app web para nuestro proyecto                                      |
+| **Sprint Goal & User Stories**     |                                     |
+| Spring 2 Goal                      | El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app                                    |
+| Sprint 2 Velocity                  |  Estimamos para este Sprint tener 15 Story Points                                    |
+| Sum of Story Points                |  Cumplimos con la cantidad de 33 Story Points                                   |
 
 
 ### 5.2.2.2. Sprint Backlog 2. 
@@ -1839,20 +1870,34 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 ### Tabla del Sprint Backlog
 
-## Sprint Backlog 
+## Sprint Backlog 2
 
 | **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
 |-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 5                     | Rodrigo        | Done                  |
-| US-02             | Realizar el pago de las medicinas          | TSK-002               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                      | Rodrigo        | Done                  |
-| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 8                     | Diego          | Done                  |
-| US-04             | Ver el historial de citas                  | TSK-004               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.     | 8                      | Diego          | Done                  |
-| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 4                     | Diego          | Done                  |
-| US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica                                                                  | 4                      | Diego          | Done                  |
-| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 5                     | Luis           | Done                  |
-| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 8                      | Luis           | Done                  |
-| US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | Done                  |
-| US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis           | Done                  |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 5                     | Rodrigo        | Done                  |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-002               | Crear interfaz de búsqueda          | Diseñar la interfaz de usuario para la búsqueda de medicinas, incluyendo filtros y opciones de búsqueda avanzada.                   | 3                     | Rodrigo        | Pending               |
+| US-01             | Buscar y agregar medicinas al carrito     | TSK-003               | Pruebas de funcionalidad de carrito | Realizar pruebas para asegurar que las medicinas se añaden correctamente al carrito.                                                | 2                     | Rodrigo        | Pending               |
+| US-02             | Realizar el pago de las medicinas         | TSK-004               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                     | Rodrigo        | Done                  |
+| US-02             | Realizar el pago de las medicinas         | TSK-005               | Crear interfaz de pago              | Diseñar la pantalla de pago que permita seleccionar el método y confirmar la compra de las medicinas.                                | 4                     | Rodrigo        | Pending               |
+| US-02             | Realizar el pago de las medicinas         | TSK-006               | Pruebas de integración de pagos     | Realizar pruebas para asegurar la correcta integración y funcionamiento del sistema de pagos.                                       | 3                     | Rodrigo        | Pending               |
+| US-03             | Buscar y seleccionar un doctor            | TSK-007               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 8                     | Diego          | Done                  |
+| US-03             | Buscar y seleccionar un doctor            | TSK-008               | Filtrar y ordenar doctores          | Implementar filtros por especialidad y ordenar la lista de doctores para facilitar la selección.                                    | 4                     | Diego          | Pending               |
+| US-03             | Buscar y seleccionar un doctor            | TSK-009               | Pruebas de selección de doctor      | Realizar pruebas para asegurar que el usuario puede seleccionar un doctor correctamente y que se guarda su elección.                | 2                     | Diego          | Pending               |
+| US-04             | Ver el historial de citas                 | TSK-010               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.    | 8                     | Diego          | Done                  |
+| US-04             | Ver el historial de citas                 | TSK-011               | Filtrar y ordenar historial         | Permitir a los usuarios ordenar y filtrar el historial de citas por fecha y tipo de consulta.                                       | 3                     | Diego          | Pending               |
+| US-05             | Reservar una cita médica                  | TSK-012               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                   | 4                     | Diego          | Done                  |
+| US-05             | Reservar una cita médica                  | TSK-013               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica.                                                                 | 4                     | Diego          | Done                  |
+| US-05             | Reservar una cita médica                  | TSK-014               | Recordatorio de citas               | Crear una función para enviar recordatorios a los usuarios sobre sus citas próximas.                                                | 2                     | Diego          | Pending               |
+| US-07             | Registrarme en la aplicación              | TSK-015               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.    | 5                     | Luis           | Done                  |
+| US-07             | Registrarme en la aplicación              | TSK-016               | Validación de datos de registro     | Implementar validaciones para los campos del formulario de registro, como formato de correo y fuerza de contraseña.                 | 3                     | Luis           | Pending               |
+| US-09             | Ver y elegir un centro médico             | TSK-017               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles. | 8                     | Luis           | Done                  |
+| US-09             | Ver y elegir un centro médico             | TSK-018               | Filtrar centros médicos             | Agregar funcionalidad de filtro para que los usuarios puedan buscar centros médicos según la ubicación y especialidad.             | 4                     | Luis           | Pending               |
+| US-09             | Ver y elegir un centro médico             | TSK-019               | Pruebas de selección de centro      | Realizar pruebas para confirmar que los usuarios pueden seleccionar un centro médico correctamente.                                 | 2                     | Luis           | Pending               |
+| US-10             | Ver citas pendientes del doctor           | TSK-020               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                           | 5                     | Diego          | Done                  |
+| US-10             | Ver citas pendientes del doctor           | TSK-021               | Pruebas de citas pendientes         | Realizar pruebas para asegurar que el doctor puede ver y gestionar las citas pendientes correctamente.                             | 3                     | Diego          | Pending               |
+| US-11             | Ver historial de citas terminadas del doctor | TSK-022            | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.  | 6                     | Luis           | Done                  |
+| US-11             | Ver historial de citas terminadas del doctor | TSK-023            | Filtrar y ordenar historial de citas | Permitir al doctor filtrar y ordenar el historial de citas por fecha y tipo de consulta.                                            | 3                     | Luis           | Pending               |
+
 
 ### 5.2.2.3. Development Evidence for Sprint Review. 
 
@@ -1919,36 +1964,49 @@ Commits of the team :
 
 ## 5.2.3.1. Spring Planning 3. 
 
-| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
-|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 3      | 20/10/2024 | 9:31 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Diego Alonso, Luis Cisneros                   |
+| Sprint 3                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               | 20/10/2024                                     |
+| Time                               | 9:31 am                                     |
+| Location                           | Reunión Virtual en Discord                                    |
+| Prepared By                        | Rodrigo Alcántara                                     |
+| Attendees (to planning meeting)    | Diego Alonso, Luis Cisneros                                      |
+| Sprint n - 3 Review Summary        | Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la entrega del trabajo parcial                                     |
+| Sprint n - 3 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 3.                                      |
+| **Sprint Goal & User Stories**     |                                     |
+| Spring 3 Goal                      | Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                                    |
+| Sprint 3 Velocity                  |  Estimamos para este Sprint tener 5 Story Points                                    |
+| Sum of Story Points                |  Cumplimos con la cantidad de 13 Story Points                                   |
 
-| Sprint 3 - Review Summary                                                                 |
-|-------------------------------------------------------------------------------------------|
-| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la entrega del trabajo parcial                       |
-
-| Sprint 3 - Retrospective Summary                                                          |
-|-------------------------------------------------------------------------------------------|
-| Se logró cumplir con el objetivo del Sprint 3.                                            |
-
-| Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
-|------------------------------------------------------------------------------------------|-------------------|---------------------|
-| Corregir la documentacion del proyecto y terminar la primera version del backend de la plataforma HealMe                    | 5                 | 13                  |
 
 
 5.2.3.2. Sprint Backlog 3. 
 
-| **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
-|-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
-| TS-01             | Agregar nuevos productos      | TSK-001               | Crear funcionalidad de agregar productos     | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.                     | 4                     | Diego Alonso        | Done                  |
-| TS-02             | Editar productos          | TSK-002               | Integrar edición de productos          | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.                    | 5                      | Rodrigo Alcantara        | Pending                  |
-| TS-03             | Eliminar productos             | TSK-003               | Implementar eliminación de productos | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso.        | 4                     | Diego Alonso          | Done                  |
-| TS-04             | Agregar nuevos doctores                 | TSK-004               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada.       | 4                      | Diego Alonso          | Done                  |
-| TS-05             | Editar doctores                   | TSK-005               | Crear funcionalidad de edición de doctores            | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos.   | 5                     | Diego Alonso         | Pending                  |
-| TS-06             | Eliminar doctores                   | TSK-006               | Eliminar doctores de la base de datos     | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.                     | 5                      | Rodrigo Alcantara         | Done                  |
-| TS-07             | Agregar centros médicos               | TSK-007               | Crear funcionalidad de agregar centros médicos        | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros.      | 4                     | Luis Cisneros          | Done                  |
-| TS-08             | Editar centros médicos              | TSK-008               | Editar centros médicos existentes    | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información.   | 5                      | Luis Cisneros          | Pending                  |
-| TS-09             | Eliminar centros médicos              | TSK-009               | Eliminar centros médicos del sistema    | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.         | 4                      | Rodrigo Alcantara          | Done                  |
+| **User Story ID** | **Título**                        | **Work-Item/Task ID** | **Título**                                 | **Descripción**                                                                                                                  | **Estimación (Horas)** | **Asignado a**        | **Estado** |
+|-------------------|-----------------------------------|-----------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|------------|
+| TS-01             | Agregar nuevos productos          | TSK-001               | Crear funcionalidad de agregar productos   | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.              | 4                      | Diego Alonso          | Done       |
+| TS-01             | Agregar nuevos productos          | TSK-002               | Crear interfaz de usuario para productos   | Diseñar la interfaz para que los usuarios puedan agregar productos de forma intuitiva y fácil.                                  | 3                      | Diego Alonso          | Pending    |
+| TS-01             | Agregar nuevos productos          | TSK-003               | Pruebas de funcionalidad de productos      | Realizar pruebas para asegurar que la funcionalidad de agregar productos funcione correctamente.                                | 2                      | Diego Alonso          | Pending    |
+| TS-02             | Editar productos                  | TSK-004               | Integrar edición de productos              | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.             | 5                      | Rodrigo Alcantara     | Pending    |
+| TS-02             | Editar productos                  | TSK-005               | Pruebas de edición de productos            | Realizar pruebas para confirmar que los cambios en la edición de productos se actualizan en la base de datos.                    | 3                      | Rodrigo Alcantara     | Pending    |
+| TS-03             | Eliminar productos                | TSK-006               | Implementar eliminación de productos       | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso. | 4                      | Diego Alonso          | Done       |
+| TS-03             | Eliminar productos                | TSK-007               | Pruebas de eliminación de productos        | Asegurarse de que los productos eliminados no sean visibles para los usuarios y se reflejen en la base de datos.                 | 2                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-008               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada. | 4                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-009               | Crear interfaz de usuario para doctores    | Diseñar la interfaz para la administración de doctores, permitiendo agregar y visualizar información de doctores fácilmente.    | 3                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-010               | Pruebas de funcionalidad para doctores     | Realizar pruebas para asegurar que la adición de doctores funcione como se espera.                                               | 2                      | Diego Alonso          | Done       |
+| TS-05             | Editar doctores                   | TSK-011               | Crear funcionalidad de edición de doctores | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos. | 5                      | Diego Alonso          | Pending    |
+| TS-05             | Editar doctores                   | TSK-012               | Pruebas de edición de doctores             | Realizar pruebas para confirmar que los cambios en la edición de doctores se actualizan en la base de datos.                      | 3                      | Diego Alonso          | Pending    |
+| TS-06             | Eliminar doctores                 | TSK-013               | Eliminar doctores de la base de datos      | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.             | 5                      | Rodrigo Alcantara     | Done       |
+| TS-06             | Eliminar doctores                 | TSK-014               | Pruebas de eliminación de doctores         | Asegurarse de que los doctores eliminados no sean visibles y se reflejen correctamente en la base de datos.                     | 2                      | Rodrigo Alcantara     | Done       |
+| TS-07             | Agregar centros médicos           | TSK-015               | Crear funcionalidad de agregar centros médicos | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros. | 4                      | Luis Cisneros         | Done       |
+| TS-07             | Agregar centros médicos           | TSK-016               | Crear interfaz para centros médicos        | Diseñar una interfaz de usuario que permita la gestión de centros médicos fácilmente.                                            | 3                      | Luis Cisneros         | Pending    |
+| TS-07             | Agregar centros médicos           | TSK-017               | Pruebas de funcionalidad para centros médicos | Asegurarse de que los centros médicos añadidos se visualicen correctamente en la plataforma.                                    | 2                      | Luis Cisneros         | Pending    |
+| TS-08             | Editar centros médicos            | TSK-018               | Editar centros médicos existentes          | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información. | 5                      | Luis Cisneros         | Pending    |
+| TS-08             | Editar centros médicos            | TSK-019               | Pruebas de edición de centros médicos      | Confirmar que los cambios en los centros médicos se actualizan correctamente en la base de datos.                               | 3                      | Luis Cisneros         | Pending    |
+| TS-09             | Eliminar centros médicos          | TSK-020               | Eliminar centros médicos del sistema       | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.  | 4                      | Rodrigo Alcantara     | Done       |
+| TS-09             | Eliminar centros médicos          | TSK-021               | Pruebas de eliminación de centros médicos  | Confirmar que los centros médicos eliminados ya no son visibles y se reflejan en la base de datos.                              | 2                      | Rodrigo Alcantara     | Done       |
+
 
 A continuacion se adjunta el link del trello y una imagen del mismo: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI845eebf98df3653b23b258ecacab5db972EB4070/sprint-healme
 
@@ -2060,6 +2118,165 @@ Se adjunta evidencia del trabajo en equipo:
 
 <img src="assets/img/traffic-evidence.png">
 
+## 5.2.4. Sprint 4
+
+## 5.2.4.1. Spring Planning 4. 
+
+| Sprint 4                           |                                     |
+|------------------------------------|-------------------------------------|
+| **Sprint Planning Background**     |                                     |
+| Date                               |  11/12/2024                                   |
+| Time                               |  19:27 pm                                   |
+| Location                           |  Reunión Virtual en Discord                                   |
+| Prepared By                        |  Rodrigo Alcántara                                   |
+| Attendees (to planning meeting)    |  Diego Alonso, Luis Cisneros                                   |
+| Sprint n - 4 Review Summary        |  Terminar la versión final del backend                                   |
+| Sprint n - 4 Retrospective Summary |  Se destacó la importancia de terminar la versión final del backend                                   |
+| **Sprint Goal & User Stories**     |                                     |
+| Sprint 4 Goal                      |  El objetivo de este sprint es el terminar la version final del backend, corregir el landing page en base a la retroalimentación brindada por el profesor e implementar funcionalidades en el backend                                   |
+| Sprint 4 Velocity                  |     Cumplir todo el proyecto                                |
+| Sum of Story Points                |     Cumplimos con todos los story points obteniendo todos los puntos                                |
+
+
+## 5.2.4.2. Sprint Backlog 4.
+
+| **User Story ID** | **Título**                        | **Work-Item/Task ID** | **Título**                                 | **Descripción**                                                                                                                  | **Estimación (Horas)** | **Asignado a**        | **Estado** |
+|-------------------|-----------------------------------|-----------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|------------|
+| TS-01             | Agregar nuevos productos          | TSK-001               | Crear funcionalidad de agregar productos   | Implementar la funcionalidad para añadir nuevos productos a la base de datos, manteniendo el catálogo actualizado.              | 4                      | Diego Alonso          | Done       |
+| TS-01             | Agregar nuevos productos          | TSK-002               | Crear interfaz de usuario para productos   | Diseñar la interfaz para que los usuarios puedan agregar productos de forma intuitiva y fácil.                                  | 3                      | Diego Alonso          | Done    |
+| TS-01             | Agregar nuevos productos          | TSK-003               | Pruebas de funcionalidad de productos      | Realizar pruebas para asegurar que la funcionalidad de agregar productos funcione correctamente.                                | 2                      | Diego Alonso          | Done    |
+| TS-02             | Editar productos                  | TSK-004               | Integrar edición de productos              | Desarrollar la funcionalidad que permite editar los detalles de productos existentes, como precios o descripciones.             | 5                      | Rodrigo Alcantara     | Done   |
+| TS-02             | Editar productos                  | TSK-005               | Pruebas de edición de productos            | Realizar pruebas para confirmar que los cambios en la edición de productos se actualizan en la base de datos.                    | 3                      | Rodrigo Alcantara     | Done    |
+| TS-03             | Eliminar productos                | TSK-006               | Implementar eliminación de productos       | Implementar la funcionalidad para eliminar productos no disponibles en la plataforma, manteniendo el catálogo limpio y preciso. | 4                      | Diego Alonso          | Done       |
+| TS-03             | Eliminar productos                | TSK-007               | Pruebas de eliminación de productos        | Asegurarse de que los productos eliminados no sean visibles para los usuarios y se reflejen en la base de datos.                 | 2                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-008               | Implementar funcionalidad de agregar doctores | Desarrollar la funcionalidad para agregar nuevos doctores a la base de datos, asegurando una lista de profesionales actualizada. | 4                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-009               | Crear interfaz de usuario para doctores    | Diseñar la interfaz para la administración de doctores, permitiendo agregar y visualizar información de doctores fácilmente.    | 3                      | Diego Alonso          | Done       |
+| TS-04             | Agregar nuevos doctores           | TSK-010               | Pruebas de funcionalidad para doctores     | Realizar pruebas para asegurar que la adición de doctores funcione como se espera.                                               | 2                      | Diego Alonso          | Done       |
+| TS-05             | Editar doctores                   | TSK-011               | Crear funcionalidad de edición de doctores | Desarrollar la funcionalidad que permite editar la información de los doctores existentes, corrigiendo errores o actualizando datos. | 5                      | Diego Alonso          | Done    |
+| TS-05             | Editar doctores                   | TSK-012               | Pruebas de edición de doctores             | Realizar pruebas para confirmar que los cambios en la edición de doctores se actualizan en la base de datos.                      | 3                      | Diego Alonso          | Done    |
+| TS-06             | Eliminar doctores                 | TSK-013               | Eliminar doctores de la base de datos      | Implementar la funcionalidad para eliminar doctores no disponibles, manteniendo la base de datos limpia y precisa.             | 5                      | Rodrigo Alcantara     | Done       |
+| TS-06             | Eliminar doctores                 | TSK-014               | Pruebas de eliminación de doctores         | Asegurarse de que los doctores eliminados no sean visibles y se reflejen correctamente en la base de datos.                     | 2                      | Rodrigo Alcantara     | Done       |
+| TS-07             | Agregar centros médicos           | TSK-015               | Crear funcionalidad de agregar centros médicos | Implementar la funcionalidad para añadir nuevos centros médicos a la base de datos, manteniendo una lista actualizada de centros. | 4                      | Luis Cisneros         | Done       |
+| TS-07             | Agregar centros médicos           | TSK-016               | Crear interfaz para centros médicos        | Diseñar una interfaz de usuario que permita la gestión de centros médicos fácilmente.                                            | 3                      | Luis Cisneros         | Done    |
+| TS-07             | Agregar centros médicos           | TSK-017               | Pruebas de funcionalidad para centros médicos | Asegurarse de que los centros médicos añadidos se visualicen correctamente en la plataforma.                                    | 2                      | Luis Cisneros         | Done    |
+| TS-08             | Editar centros médicos            | TSK-018               | Editar centros médicos existentes          | Desarrollar la funcionalidad que permite editar detalles de centros médicos ya existentes, asegurando la precisión de la información. | 5                      | Luis Cisneros         | Done    |
+| TS-08             | Editar centros médicos            | TSK-019               | Pruebas de edición de centros médicos      | Confirmar que los cambios en los centros médicos se actualizan correctamente en la base de datos.                               | 3                      | Luis Cisneros         | Done    |
+| TS-09             | Eliminar centros médicos          | TSK-020               | Eliminar centros médicos del sistema       | Implementar la funcionalidad para eliminar centros médicos no disponibles, manteniendo la base de datos actualizada y precisa.  | 4                      | Rodrigo Alcantara     | Done       |
+| TS-09             | Eliminar centros médicos          | TSK-021               | Pruebas de eliminación de centros médicos  | Confirmar que los centros médicos eliminados ya no son visibles y se reflejan en la base de datos.                              | 2                      | Rodrigo Alcantara     | Done       |
+| TS-10             | Agregar autenticación          | TSK-022               | Agregar la autenticación para ingresar al backend  | Confirmar que los datos sean correctos para obtener el token.                              | 2                      | Diego Alonso     | Done       |
+
+A continuacion se adjunta el link del trello y una imagen del mismo: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI845eebf98df3653b23b258ecacab5db972EB4070/sprint-healme
+
+<img src="assets/trello-evidence.png">
+
+## 5.2.4.3. Development Evidence for Sprint Review. 
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial comm   |  initial commit      |    30/10/2024           |
+|  Heal-Me-Backend  |  master  |  24ccfe4   |    add launch settings             |  add launch settings          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  29dcc15   |     add command and query services          |  add command and query services           |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  5cd93dd   |      add feature Products Domain          |   add feature Products Domain          |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  6094820   |    add Products Bounded context            |   add Products Bounded context         |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  870bc70   |     add Doctors Bounded context           |    add Doctors Bounded context        |       30/10/2024        |
+|  Heal-Me-Backend  |  master  |  754312c   |      add shared          |    add shared        |      30/10/2024         |
+|  Heal-Me-Backend  |  master  |  7243ee2   |     add Hospitals bounded context           |     add Hospitals bounded context       |     30/10/2024          |
+|  Heal-Me-Backend  |  master  |  9365df2   |     chore add autentication with tokens and hash           |    chore add autentication with tokens and hash        |     17/11/2024          |
+
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review. 
+
+Se realizó el deploy en azure de la version final del backend (se adjunta 2 repositorios de backend ya que en un repositorio se ha hecho en base a Rider y daba problemas a la hora de descargar, por eso hemos creado otro repositorio donde esta hecho en visual studio
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend  |  master  |  1e0b6c2   | initial commit   |  initial commit      |    30/10/2024           |
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-Backend-visual  |  master  |  1e0b6c2   | initial commit   |  initial commit      |    11/17/2024           |
+
+Link del repositorio del landing page: https://github.com/HealMe-Team/HealMe-LandingPage
+
+link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Frontend
+
+Link del repositorio del backend (hecho en rider No recomiendo descargarlo): https://github.com/HealMe-Team/Heal-Me-Backend
+
+Link del repositorio del backend (hecho en visual studio RECOMIENDO DESCARGARLO): https://github.com/HealMe-Team/Heal-Me-Backend-visual
+
+Explicacion Bounded Context:
+
+Doctores
+Este contexto se encarga de la gestión de los doctores. Incluye las siguientes responsabilidades:
+Repositorios: IDoctorRepository, DoctorRepository Servicios de Aplicación: IDoctorCommandService, DoctorCommandService, IDoctorQueryService, DoctorQueryService
+
+Hospitales
+Este contexto se encarga de la gestión de los hospitales. Incluye las siguientes responsabilidades:
+Repositorios: IHospitalRepository, HospitalRepository Servicios de Aplicación: IHospitalCommandService, HospitalCommandService, IHospitalQueryService, HospitalQueryService
+
+Productos
+Este contexto se encarga de la gestión de los productos. Incluye las siguientes responsabilidades:
+Repositorios: IProductRepository, ProductRepository Servicios de Aplicación: IProductCommandService, ProductCommandService, IProductQueryService, ProductQueryService
+
+Shared
+Este contexto incluye componentes y servicios que son compartidos entre los diferentes bounded contexts. Incluye las siguientes responsabilidades:
+Repositorios: IUnitOfWork, UnitOfWork Configuración de Persistencia: AppDbContext
+
+
+## 5.2.4.5. Execution Evidence for Sprint Review. 
+
+App web evidence: 
+
+<img src="assets/img/log-in-web-app.png">
+
+Backend evidence:
+
+<img src="assets/deploy-evidence2.png">
+
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+| Endpoint | Acciones Soportadas |
+| --- | --- |
+| `/api/auth/register` | **POST**<br>Registro para obtener el token |
+| `/api/auth/login` | **POST**<br>Log in con el usuario creado |
+| `/api/v1/doctors` | **POST**<br>Registro de un doctor |
+| `/api/v1/doctors` | **GET**<br>Obtiene doctores |
+| `/api/v1/doctors/{id}` | **GET**<br>Obtiene doctores por la id |
+| `/api/v1/hospitals` | **POST**<br>Registro de un hospital |
+| `/api/v1/hopitals` | **GET**<br>Obtiene los hospitales |
+| `/api/v1/hospitals/{id}` | **GET**<br>Obtiene los hospitales por la id |
+| `/api/v1/products` | **POST**<br>Registro de un producto |
+| `/api/v1/products` | **GET**<br>Obtiene los productos |
+| `/api/v1/products/{id}` | **GET**<br>Obtiene productos por la id |
+
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+
+Se adjunta imagenes del deploy y el link tambien (en caso que no funcione es probable que se haya acabado los creditos, todos los integrantes nos hemos quedado sin creditos debido a otro curso que solicita el uso de azure): https://healmeappbackendapi20241117153308.azurewebsites.net/
+
+<img src="assets/azure-evidence-final.png">
+
+<img src="assets/deploy-evidence1.png">
+
+<img src="assets/deploy-evidence2.png">
+
+## 5.2.4.8. Team Collaboration Insights during Sprint. 
+
+Se adjunta evidencia del trabajo en equipo:
+
+<img src="assets/img/git-flow-evidence.png">
+
+<img src="assets/img/commits-evidence.png">
+
+<img src="assets/img/traffic-evidence.png">
+
+<img src="assets/sprint-evidence1.jpg">
+
+<img src="assets/sprint-evidence2.jpg">
+
+<img src="assets/sprint-evidence3.jpg">
+
 ## 5.3. Validation Interviews. 
 
 ## 5.3.1. Diseño de Entrevistas. 
@@ -2136,12 +2353,26 @@ Nombre:Vasco Martínez
 
 Análisis:Vasco Martínez,usuario de Healme, describe la landing page de HealMe como profesional y acogedora, señalando que transmite eficazmente la importancia de la salud para el usuario. No obstante, sugiere mejorar el contraste del menú para facilitar la visibilidad y agregar una breve introducción o una sección "Sobre Nosotros" que ofrezca más contexto a los nuevos usuarios. En cuanto a la aplicación web, Vasco destaca su facilidad de uso y navegación intuitiva, lo cual es especialmente útil para quienes buscan servicios médicos. Propone agregar una barra de búsqueda y filtros adicionales, junto con funciones que optimicen la experiencia del usuario, como opciones de búsqueda por ubicación y especialidad, un sistema de calificaciones y una opción de chat para consultas rápidas o agendar citas. Finalmente, Vasco considera que HealMe cumple su misión como plataforma para turistas y profesionales de la salud, aunque sugiere que añadir detalles específicos para turistas podría fortalecer su propuesta de valor. Incorporar sus recomendaciones podría mejorar la experiencia del usuario y hacer la plataforma más recomendable.
 
+TESTIMONIOS Y PRUEBAS DE LOS USUARIOS CON LA APLICACIÓN:
+
+**USUARIOS/PACIENTES**:
+
+Video 1: https://drive.google.com/file/d/19TwRxfuBUiSC7sXW52WyqYckudxLu6fM/view?usp=sharing
+
+Video 2: https://drive.google.com/file/d/1AKT776PMX0Y68N05dft_8OxqrXWZUtzS/view
+
+**DOCTORES**:
+
+Video 1: https://drive.google.com/file/d/1G_jwe5dputX_tTHgHe60k5FnRfObJRXK/view?usp=sharing
+
+Video 2: https://drive.google.com/file/d/1zCXWE4m_FIict-AYv4wMMSWLI2o8mc3d/view?usp=sharing
+
 ## 5.3.3. Evaluaciones según heurísticas. 
 
 
 ## 5.4. Video About-the-Product. 
 
-Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/Eb8E4rXyn9pLgSTmhNRGgIIBH1O7-FBtXnAcyUUhGr2bcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kjTaho
+Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/ET-KYPROkgpHj6hjBUzL06MBLPPPSQqHGybtFIrEh6aYgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cdYvyB
 
 
 ### Conclusiones 
@@ -2151,10 +2382,15 @@ Se adjunta video del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal
 - Se llego a la conclusion que la medicina peruana y la programacion pueden trabajar en equipo para poder alcanzar una cantidad mayor de usuarios siende beneficiosa para ambos sectores.
 - La implementacion del backend es fundamental para el desarrollo de aplicaciones web, ya que conecta una base de datos ya existente o recien creada con el frontend de la aplicacion, haciendo que la experiencia del usuario sea buena.
 - La documentacion de lenguajes y foros son fundamentales ya que poseen información la cual puede servir para la investigacion de una solucion ante un problema de programación
+- LLegamos a la conclusión que el obtener el token es fundamental para asi poder identificar al desarrollador y tenga acceso a nuestro backend evitando ataques maliciosos.
+- El trabajo en equipo cumplio un rol fundamental para poder entregar este proyecto siendo menos integrantes, haciendo que todos superemos nuestros limites para crecer como profesionales
 
 Video About-the-Team
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EeE18Zc4xKFOnvtXWj5DXU4BjCHQOPyA2D9sDucEq4rbww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ERRnMD
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EeE18Zc4xKFOnvtXWj5DXU4BjCHQOPyA2D9sDucEq4rbww?e=mwJUtb
+
+### Anexos
+- Canal de youtube: https://www.youtube.com/@HealMe-j7u
 
 ### Referencias bibliograficas
 
