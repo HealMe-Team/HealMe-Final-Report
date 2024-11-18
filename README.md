@@ -2204,6 +2204,12 @@ Link del repositorio del backend (hecho en rider No recomiendo descargarlo): htt
 
 Link del repositorio del backend (hecho en visual studio RECOMIENDO DESCARGARLO): https://github.com/HealMe-Team/Heal-Me-Backend-visual
 
+Link del landing page con deploy: https://healme-team.github.io/HealMe-LandingPage/
+
+Link del frontend deploy: https://heal-me-app.netlify.app/
+
+Link del backend deploy: https://healmeappbackendapi20241117153308.azurewebsites.net/
+
 Explicacion Bounded Context:
 
 Doctores
