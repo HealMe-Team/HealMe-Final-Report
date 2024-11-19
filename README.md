@@ -43,6 +43,7 @@
 | 23/09/2024  | 1.7      |   Diego Alonso              | Se agregó las ultimas funcionalidades de la aplicación |
 | 24/09/2024  | 1.8      |   Rodrigo Alcántara              | Correccion de la documentacion y elaboracion de la primera version de la aplicacion web |
 | 24/09/2024  | 1.9      |   Luis Cisneros              | Elaboracion del log in, register y correcion de diagramas c4 |
+| 18/11/2024  | 2.0      |   Todo el equipo              | Culminación del proyecto |
 
 ---
 
@@ -2203,6 +2204,12 @@ link del repositorio del frontend: https://github.com/HealMe-Team/HealMe-Fronten
 Link del repositorio del backend (hecho en rider No recomiendo descargarlo): https://github.com/HealMe-Team/Heal-Me-Backend
 
 Link del repositorio del backend (hecho en visual studio RECOMIENDO DESCARGARLO): https://github.com/HealMe-Team/Heal-Me-Backend-visual
+
+Link del landing page con deploy: https://healme-team.github.io/HealMe-LandingPage/
+
+Link del frontend deploy: https://heal-me-app.netlify.app/
+
+Link del backend deploy: https://healmeappbackendapi20241117153308.azurewebsites.net/
 
 Explicacion Bounded Context:
 
