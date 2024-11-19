@@ -43,6 +43,7 @@
 | 23/09/2024  | 1.7      |   Diego Alonso              | Se agregó las ultimas funcionalidades de la aplicación |
 | 24/09/2024  | 1.8      |   Rodrigo Alcántara              | Correccion de la documentacion y elaboracion de la primera version de la aplicacion web |
 | 24/09/2024  | 1.9      |   Luis Cisneros              | Elaboracion del log in, register y correcion de diagramas c4 |
+| 18/11/2024  | 2.0      |   Todo el equipo              | Culminación del proyecto |
 
 ---
 
